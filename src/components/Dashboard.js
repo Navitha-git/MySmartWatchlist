@@ -61,7 +61,7 @@ const Dashboard = () => {
     if (token !== "") {
       // timerID = setInterval(getLTPData(WATCHLIST_META_DATA), 60 * 1000);
       getLTPData(WATCHLIST_META_DATA);
-      setLastRefresh(new Date().toString(););
+      setLastRefresh(new Date().toString());
     }
   };
 

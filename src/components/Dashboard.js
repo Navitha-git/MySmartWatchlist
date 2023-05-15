@@ -17,6 +17,7 @@ const Dashboard = () => {
   const [token, setToken] = useState("");
   const [ltp, setLTP] = useState();
   const [showSnack, setShowSnack] = useState(false);
+  const [lastRefresh, setLastRefresh] = useState();
 
   // const fetchPost = async () => {
   //   await getDocs(collection(fireStoreDb, "watchlist")).then(
@@ -58,7 +59,9 @@ const Dashboard = () => {
 
   const fetchLTP = async () => {
     if (token !== "") {
-      timerID = setInterval(getLTPData(WATCHLIST_META_DATA), 60 * 1000);
+      // timerID = setInterval(getLTPData(WATCHLIST_META_DATA), 60 * 1000);
+      getLTPData(WATCHLIST_META_DATA);
+      setLastRefresh(new Date().toString(););
     }
   };
 
@@ -96,6 +99,11 @@ const Dashboard = () => {
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
             Smart Watchlist
           </Typography>
+          {lastRefresh && (
+            <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
+              {lastRefresh}
+            </Typography>
+          )}
           <Button color="inherit" onClick={doAuthenticate}>
             Authenticate
           </Button>

@@ -1,6 +1,6 @@
-// import { collection, getDocs } from "firebase/firestore";
-import React, { useState } from "react";
-// import { fireStoreDb } from "../utils/firebase";
+import { collection, getDocs } from "firebase/firestore";
+import React, { useState, useEffect } from "react";
+import { fireStoreDb } from "../utils/firebase";
 import DataTable from "./DataTable";
 import { authenticateSmartAPI } from "../services/AuthService";
 import { getLTP } from "../services/DataService";
@@ -18,20 +18,20 @@ const Dashboard = () => {
   const [ltp, setLTP] = useState();
   const [showSnack, setShowSnack] = useState(false);
   const [lastRefresh, setLastRefresh] = useState();
+  const [watchList, setWatchList] = useState(WATCHLIST_META_DATA);
 
-  // const fetchPost = async () => {
-  //   await getDocs(collection(fireStoreDb, "watchlist")).then(
-  //     (querySnapshot) => {
-  //       const newData = querySnapshot.docs.map((doc) => ({
-  //         ...doc.data(),
-  //         id: doc.id,
-  //       }));
-  //       setTodos(newData[0].instrument_codes);
-  //       console.log("FIRE_BASE_DATA:" + JSON.stringify(newData));
-  //       // console.log(querySnapshot);
-  //     }
-  //   );
-  // };
+  const fetchPost = async () => {
+    await getDocs(collection(fireStoreDb, "watchlist")).then(
+      (querySnapshot) => {
+        const newData = querySnapshot.docs.map((doc) => ({
+          ...doc.data(),
+          id: doc.id,
+        }));
+        console.log("FIRE_BASE_DATA:" + JSON.stringify(newData));
+        if (newData) setWatchList(newData[0].symbols);
+      }
+    );
+  };
 
   let timerID;
 
@@ -59,8 +59,7 @@ const Dashboard = () => {
 
   const fetchLTP = async () => {
     if (token !== "") {
-      // timerID = setInterval(getLTPData(WATCHLIST_META_DATA), 60 * 1000);
-      getLTPData(WATCHLIST_META_DATA);
+      await getLTPData(watchList);
       setLastRefresh(new Date().toString());
     }
   };
@@ -75,13 +74,15 @@ const Dashboard = () => {
       .catch((error) => {
         console.log("AUTH_ERR" + error);
       });
+    await fetchPost();
   };
   // useEffect(() => {
-  //   // fetchPost();
+  //   fetchPost();
   // }, []);
   const stopRefresh = () => {
     clearInterval(timerID);
   };
+
   return (
     <>
       <AppBar position="static">
@@ -99,11 +100,7 @@ const Dashboard = () => {
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
             Smart Watchlist
           </Typography>
-          {lastRefresh && (
-            <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-              {lastRefresh}
-            </Typography>
-          )}
+
           <Button color="inherit" onClick={doAuthenticate}>
             Authenticate
           </Button>
@@ -116,8 +113,15 @@ const Dashboard = () => {
         </Toolbar>
       </AppBar>
       <Box component="main" sx={{ p: 3 }}>
+        {lastRefresh && (
+          <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
+            {lastRefresh}
+          </Typography>
+        )}
         {/* <Toolbar /> */}
-        {ltp && <DataTable data={ltp} />}
+        {ltp && (
+          <DataTable data={ltp} refreshData={fetchLTP} watchList={watchList} />
+        )}
       </Box>
       {/* <header className="App-header"> */}
       {/* <Button variant="contained" onClick={doAuthenticate}>

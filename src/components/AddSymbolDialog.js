@@ -6,8 +6,10 @@ import DialogActions from "@mui/material/DialogActions";
 import DialogContent from "@mui/material/DialogContent";
 import DialogContentText from "@mui/material/DialogContentText";
 import DialogTitle from "@mui/material/DialogTitle";
-import WATCHLIST_META_DATA from "../utils/WatchlistMetaData.json";
-import { saveAs } from "file-saver";
+// import WATCHLIST_META_DATA from "../utils/WatchlistMetaData.json";
+// import { saveAs } from "file-saver";
+import { doc, setDoc } from "firebase/firestore";
+import { fireStoreDb } from "../utils/firebase";
 
 export default function AddSymbolDialog(props) {
   const [exhange, setExchange] = React.useState();
@@ -23,7 +25,7 @@ export default function AddSymbolDialog(props) {
     props.setShowAddDialog("CLOSE");
   };
 
-  const handleSaveSymbol = (event) => {
+  const handleSaveSymbol = async (event) => {
     event.preventDefault();
     // const data = new FormData(event.currentTarget);
     // console.log("DATA_SYMBOL:" + JSON.stringify(data));
@@ -39,15 +41,22 @@ export default function AddSymbolDialog(props) {
         suggestedby: suggestedby,
       },
     };
-    WATCHLIST_META_DATA.push(formData);
-    saveAs(
-      new Blob([JSON.stringify(WATCHLIST_META_DATA)], {
-        type: "application/json",
-      }),
-      "export_watchlist.json"
+
+    console.log(
+      "NEW_WATCH_LIST:" + JSON.stringify([...props.watchList, { ...formData }])
     );
+    await setDoc(doc(fireStoreDb, "watchlist", "list1"), {
+      symbols: [...props.watchList, { ...formData }],
+    });
+    // saveAs(
+    //   new Blob([JSON.stringify(WATCHLIST_META_DATA)], {
+    //     type: "application/json",
+    //   }),
+    //   "export_watchlist.json"
+    // );
 
     props.setShowAddDialog("CLOSE");
+    props.refreshData();
   };
   return (
     <div>

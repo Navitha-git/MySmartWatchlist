@@ -85,6 +85,8 @@ const DataTable = (props) => {
       <AddSymbolDialog
         open={showAddDialog === "SHOW"}
         setShowAddDialog={setShowAddDialog}
+        refreshData={props.refreshData}
+        watchList={props.watchList}
       />
     </>
   );

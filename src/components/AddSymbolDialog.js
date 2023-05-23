@@ -8,8 +8,18 @@ import DialogContentText from "@mui/material/DialogContentText";
 import DialogTitle from "@mui/material/DialogTitle";
 // import WATCHLIST_META_DATA from "../utils/WatchlistMetaData.json";
 // import { saveAs } from "file-saver";
-import { doc, setDoc } from "firebase/firestore";
-import { fireStoreDb } from "../utils/firebase";
+// import { doc, setDoc } from "firebase/firestore";
+// import { fireStoreDb } from "../utils/firebase";
+import { setFirebaseDoc } from "../services/FireBaseService";
+
+import { useState } from "react";
+import { useSelector, useDispatch } from "react-redux";
+import {
+  watchlistAddSymbol,
+  watchlistGetSymbols,
+  watchlistRefresh,
+  authenticate,
+} from "../redux/WatchlistActions";
 
 export default function AddSymbolDialog(props) {
   const [exhange, setExchange] = React.useState();
@@ -20,6 +30,9 @@ export default function AddSymbolDialog(props) {
   const [target1, setTarget1] = React.useState();
   const [support1, setSupport1] = React.useState();
   const [suggestedby, setSuggestedBy] = React.useState();
+
+  const state = useSelector((state) => state);
+  const dispatch = useDispatch();
 
   const handleClose = () => {
     props.setShowAddDialog("CLOSE");
@@ -43,11 +56,13 @@ export default function AddSymbolDialog(props) {
     };
 
     console.log(
-      "NEW_WATCH_LIST:" + JSON.stringify([...props.watchList, { ...formData }])
+      "NEW_WATCH_LIST:" +
+        JSON.stringify([...state.watchListSymbols, { ...formData }])
     );
-    await setDoc(doc(fireStoreDb, "watchlist", "list1"), {
-      symbols: [...props.watchList, { ...formData }],
-    });
+    // await setDoc(doc(fireStoreDb, "watchlist", "list1"), {
+    //   symbols: [...state.watchListSymbols, { ...formData }],
+    // });
+    await setFirebaseDoc([...state.watchListSymbols, { ...formData }]);
     // saveAs(
     //   new Blob([JSON.stringify(WATCHLIST_META_DATA)], {
     //     type: "application/json",
@@ -56,7 +71,7 @@ export default function AddSymbolDialog(props) {
     // );
 
     props.setShowAddDialog("CLOSE");
-    props.refreshData();
+    dispatch(watchlistAddSymbol({ ...formData }));
   };
   return (
     <div>

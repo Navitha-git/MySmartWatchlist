@@ -17,27 +17,19 @@ const DataTable = (props) => {
       {
         accessorKey: "tradingsymbol", //access nested data with dot notation
         header: "Symbol",
-        size: 30,
-      },
-      {
-        accessorKey: "date",
-        header: "Date",
-        size: 20,
+        size: 100,
       },
       {
         accessorKey: "firstSeen",
         header: "Added @",
-        size: 10,
       },
       {
         accessorKey: "ltp",
         header: "LTP",
-        size: 10,
       },
       {
         accessorKey: "change",
         header: "Change",
-        size: 10,
         Cell: ({ renderedCellValue }) => (
           <strong
             style={
@@ -51,22 +43,22 @@ const DataTable = (props) => {
       {
         accessorKey: "target1",
         header: "Target1",
-        size: 10,
       },
       {
         accessorKey: "support1",
         header: "Support1",
-        size: 10,
       },
       {
         accessorKey: "low", //normal accessorKey
         header: "Low",
-        size: 10,
       },
       {
         accessorKey: "high",
         header: "High",
-        size: 10,
+      },
+      {
+        accessorKey: "date",
+        header: "Date",
       },
     ],
     []
@@ -82,6 +74,11 @@ const DataTable = (props) => {
         initialState={{
           columnPinning: { left: ["tradingsymbol"] },
           density: "compact",
+        }}
+        defaultColumn={{
+          minSize: 50, //allow columns to get smaller than default
+          maxSize: 150, //allow columns to get larger than default
+          size: 50, //make columns wider by default
         }}
         enableColumnResizing
         layoutMode="grid"

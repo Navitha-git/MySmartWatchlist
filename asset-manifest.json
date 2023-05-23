@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/MySmartWatchlist/static/css/main.bca2956b.css",
-    "main.js": "/MySmartWatchlist/static/js/main.7f4c5f1e.js",
+    "main.js": "/MySmartWatchlist/static/js/main.54b8de05.js",
     "static/js/787.c0db2df0.chunk.js": "/MySmartWatchlist/static/js/787.c0db2df0.chunk.js",
     "index.html": "/MySmartWatchlist/index.html",
     "main.bca2956b.css.map": "/MySmartWatchlist/static/css/main.bca2956b.css.map",
-    "main.7f4c5f1e.js.map": "/MySmartWatchlist/static/js/main.7f4c5f1e.js.map",
+    "main.54b8de05.js.map": "/MySmartWatchlist/static/js/main.54b8de05.js.map",
     "787.c0db2df0.chunk.js.map": "/MySmartWatchlist/static/js/787.c0db2df0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bca2956b.css",
-    "static/js/main.7f4c5f1e.js"
+    "static/js/main.54b8de05.js"
   ]
 }

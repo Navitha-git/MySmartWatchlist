@@ -33,7 +33,7 @@ const WatchlistReducer = (state = initialState, action) => {
       return {
         ...state,
         ltpData: [...action.payload],
-        lastRefreshed: new Date().toString(),
+        lastRefreshed: new Date().toLocaleString(),
       };
     case AUTHENTICATE:
       return {

@@ -1,6 +1,7 @@
 import React, { useMemo } from "react";
 import MaterialReactTable from "material-react-table";
 import Button from "@mui/material/Button";
+import Box from "@mui/material/Box";
 import AddSymbolDialog from "./AddSymbolDialog";
 import { useState } from "react";
 import { useSelector, useDispatch } from "react-redux";
@@ -91,7 +92,9 @@ const DataTable = (props) => {
           };
 
           return (
-            <div style={{ display: "flex", gap: "0.5rem", align: "right" }}>
+            <Box
+              sx={{ display: "flex", gap: "1rem", p: "4px", float: "right" }}
+            >
               <Button
                 color="info"
                 // disabled={!table.getIsSomeRowsSelected()}
@@ -100,7 +103,7 @@ const DataTable = (props) => {
               >
                 Add Symbol
               </Button>
-            </div>
+            </Box>
           );
         }}
       />

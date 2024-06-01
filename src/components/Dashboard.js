@@ -42,6 +42,7 @@ const Dashboard = () => {
               ...response.data?.data,
               ...symbol?.metadata,
               change: changePrice.toFixed(2),
+              name: symbol?.name,
             });
           })
           .catch((error) => {

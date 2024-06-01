@@ -1,0 +1,9742 @@
+[
+  {
+    "token": 14747,
+    "symbol": "011NSETEST-EQ",
+    "name": "011NSETEST"
+  },
+  {
+    "token": 14751,
+    "symbol": "021NSETEST-EQ",
+    "name": "021NSETEST"
+  },
+  {
+    "token": 14753,
+    "symbol": "031NSETEST-EQ",
+    "name": "031NSETEST"
+  },
+  {
+    "token": 14755,
+    "symbol": "041NSETEST-EQ",
+    "name": "041NSETEST"
+  },
+  {
+    "token": 14758,
+    "symbol": "051NSETEST-EQ",
+    "name": "051NSETEST"
+  },
+  {
+    "token": 14762,
+    "symbol": "061NSETEST-EQ",
+    "name": "061NSETEST"
+  },
+  {
+    "token": 14764,
+    "symbol": "071NSETEST-EQ",
+    "name": "071NSETEST"
+  },
+  {
+    "token": 14767,
+    "symbol": "081NSETEST-EQ",
+    "name": "081NSETEST"
+  },
+  {
+    "token": 14769,
+    "symbol": "091NSETEST-EQ",
+    "name": "091NSETEST"
+  },
+  {
+    "token": 14772,
+    "symbol": "101NSETEST-EQ",
+    "name": "101NSETEST"
+  },
+  {
+    "token": 14774,
+    "symbol": "111NSETEST-EQ",
+    "name": "111NSETEST"
+  },
+  {
+    "token": 12841,
+    "symbol": "11NSETEST-EQ",
+    "name": "11NSETEST"
+  },
+  {
+    "token": 14777,
+    "symbol": "121NSETEST-EQ",
+    "name": "121NSETEST"
+  },
+  {
+    "token": 14778,
+    "symbol": "131NSETEST-EQ",
+    "name": "131NSETEST"
+  },
+  {
+    "token": 14781,
+    "symbol": "141NSETEST-EQ",
+    "name": "141NSETEST"
+  },
+  {
+    "token": 14782,
+    "symbol": "151NSETEST-EQ",
+    "name": "151NSETEST"
+  },
+  {
+    "token": 14784,
+    "symbol": "161NSETEST-EQ",
+    "name": "161NSETEST"
+  },
+  {
+    "token": 23446,
+    "symbol": "171NSETEST-EQ",
+    "name": "171NSETEST"
+  },
+  {
+    "token": 23447,
+    "symbol": "181NSETEST-EQ",
+    "name": "181NSETEST"
+  },
+  {
+    "token": 16921,
+    "symbol": "20MICRONS-EQ",
+    "name": "20MICRONS"
+  },
+  {
+    "token": 13061,
+    "symbol": "360ONE-EQ",
+    "name": "360ONE"
+  },
+  {
+    "token": 6232,
+    "symbol": "3IINFOLTD-EQ",
+    "name": "3IINFOLTD"
+  },
+  {
+    "token": 474,
+    "symbol": "3MINDIA-EQ",
+    "name": "3MINDIA"
+  },
+  {
+    "token": 2595,
+    "symbol": "3PLAND-EQ",
+    "name": "3PLAND"
+  },
+  {
+    "token": 445,
+    "symbol": "5PAISA-EQ",
+    "name": "5PAISA"
+  },
+  {
+    "token": 11868,
+    "symbol": "63MOONS-EQ",
+    "name": "63MOONS"
+  },
+  {
+    "token": 23729,
+    "symbol": "AADHARHFC-EQ",
+    "name": "AADHARHFC"
+  },
+  {
+    "token": 235,
+    "symbol": "AAKASH-EQ",
+    "name": "AAKASH"
+  },
+  {
+    "token": 1030,
+    "symbol": "AARON-EQ",
+    "name": "AARON"
+  },
+  {
+    "token": 4481,
+    "symbol": "AARTIDRUGS-EQ",
+    "name": "AARTIDRUGS"
+  },
+  {
+    "token": 7,
+    "symbol": "AARTIIND-EQ",
+    "name": "AARTIIND"
+  },
+  {
+    "token": 13868,
+    "symbol": "AARTIPHARM-EQ",
+    "name": "AARTIPHARM"
+  },
+  {
+    "token": 19233,
+    "symbol": "AARTISURF-EQ",
+    "name": "AARTISURF"
+  },
+  {
+    "token": 13771,
+    "symbol": "AARVEEDEN-EQ",
+    "name": "AARVEEDEN"
+  },
+  {
+    "token": 19073,
+    "symbol": "AARVI-EQ",
+    "name": "AARVI"
+  },
+  {
+    "token": 5385,
+    "symbol": "AAVAS-EQ",
+    "name": "AAVAS"
+  },
+  {
+    "token": 13,
+    "symbol": "ABB-EQ",
+    "name": "ABB"
+  },
+  {
+    "token": 17903,
+    "symbol": "ABBOTINDIA-EQ",
+    "name": "ABBOTINDIA"
+  },
+  {
+    "token": 21614,
+    "symbol": "ABCAPITAL-EQ",
+    "name": "ABCAPITAL"
+  },
+  {
+    "token": 30108,
+    "symbol": "ABFRL-EQ",
+    "name": "ABFRL"
+  },
+  {
+    "token": 5549,
+    "symbol": "ABMINTLLTD-EQ",
+    "name": "ABMINTLLTD"
+  },
+  {
+    "token": 6018,
+    "symbol": "ABSLAMC-EQ",
+    "name": "ABSLAMC"
+  },
+  {
+    "token": 13987,
+    "symbol": "ABSLBANETF-EQ",
+    "name": "ABSLBANETF"
+  },
+  {
+    "token": 14518,
+    "symbol": "ABSLLIQUID-EQ",
+    "name": "ABSLLIQUID"
+  },
+  {
+    "token": 7339,
+    "symbol": "ABSLNN50ET-EQ",
+    "name": "ABSLNN50ET"
+  },
+  {
+    "token": 23806,
+    "symbol": "ABSLPSE-EQ",
+    "name": "ABSLPSE"
+  },
+  {
+    "token": 22,
+    "symbol": "ACC-EQ",
+    "name": "ACC"
+  },
+  {
+    "token": 7053,
+    "symbol": "ACCELYA-EQ",
+    "name": "ACCELYA"
+  },
+  {
+    "token": 1465,
+    "symbol": "ACCURACY-EQ",
+    "name": "ACCURACY"
+  },
+  {
+    "token": 13587,
+    "symbol": "ACE-EQ",
+    "name": "ACE"
+  },
+  {
+    "token": 11779,
+    "symbol": "ACEINTEG-EQ",
+    "name": "ACEINTEG"
+  },
+  {
+    "token": 12024,
+    "symbol": "ACI-EQ",
+    "name": "ACI"
+  },
+  {
+    "token": 15420,
+    "symbol": "ACL-EQ",
+    "name": "ACL"
+  },
+  {
+    "token": 13688,
+    "symbol": "ACLGATI-EQ",
+    "name": "ACLGATI"
+  },
+  {
+    "token": 10217,
+    "symbol": "ADANIENSOL-EQ",
+    "name": "ADANIENSOL"
+  },
+  {
+    "token": 25,
+    "symbol": "ADANIENT-EQ",
+    "name": "ADANIENT"
+  },
+  {
+    "token": 3563,
+    "symbol": "ADANIGREEN-EQ",
+    "name": "ADANIGREEN"
+  },
+  {
+    "token": 15083,
+    "symbol": "ADANIPORTS-EQ",
+    "name": "ADANIPORTS"
+  },
+  {
+    "token": 17388,
+    "symbol": "ADANIPOWER-EQ",
+    "name": "ADANIPOWER"
+  },
+  {
+    "token": 19761,
+    "symbol": "ADFFOODS-EQ",
+    "name": "ADFFOODS"
+  },
+  {
+    "token": 245,
+    "symbol": "ADL-EQ",
+    "name": "ADL"
+  },
+  {
+    "token": 34,
+    "symbol": "ADORWELD-EQ",
+    "name": "ADORWELD"
+  },
+  {
+    "token": 4953,
+    "symbol": "ADROITINFO-EQ",
+    "name": "ADROITINFO"
+  },
+  {
+    "token": 14813,
+    "symbol": "ADSL-EQ",
+    "name": "ADSL"
+  },
+  {
+    "token": 14745,
+    "symbol": "ADVANIHOTR-EQ",
+    "name": "ADVANIHOTR"
+  },
+  {
+    "token": 18039,
+    "symbol": "ADVENZYMES-EQ",
+    "name": "ADVENZYMES"
+  },
+  {
+    "token": 40,
+    "symbol": "AEGISCHEM-EQ",
+    "name": "AEGISCHEM"
+  },
+  {
+    "token": 18268,
+    "symbol": "AEROFLEX-EQ",
+    "name": "AEROFLEX"
+  },
+  {
+    "token": 9810,
+    "symbol": "AETHER-EQ",
+    "name": "AETHER"
+  },
+  {
+    "token": 11343,
+    "symbol": "AFFLE-EQ",
+    "name": "AFFLE"
+  },
+  {
+    "token": 3389,
+    "symbol": "AGARIND-EQ",
+    "name": "AGARIND"
+  },
+  {
+    "token": 1412,
+    "symbol": "AGI-EQ",
+    "name": "AGI"
+  },
+  {
+    "token": 11072,
+    "symbol": "AGRITECH-EQ",
+    "name": "AGRITECH"
+  },
+  {
+    "token": 9046,
+    "symbol": "AGROPHOS-EQ",
+    "name": "AGROPHOS"
+  },
+  {
+    "token": 7927,
+    "symbol": "AGSTRA-EQ",
+    "name": "AGSTRA"
+  },
+  {
+    "token": 13288,
+    "symbol": "AHL-EQ",
+    "name": "AHL"
+  },
+  {
+    "token": 19438,
+    "symbol": "AHLEAST-EQ",
+    "name": "AHLEAST"
+  },
+  {
+    "token": 17833,
+    "symbol": "AHLUCONT-EQ",
+    "name": "AHLUCONT"
+  },
+  {
+    "token": 13086,
+    "symbol": "AIAENG-EQ",
+    "name": "AIAENG"
+  },
+  {
+    "token": 23553,
+    "symbol": "AIIL-EQ",
+    "name": "AIIL"
+  },
+  {
+    "token": 9897,
+    "symbol": "AIRAN-EQ",
+    "name": "AIRAN"
+  },
+  {
+    "token": 6068,
+    "symbol": "AIROLAM-EQ",
+    "name": "AIROLAM"
+  },
+  {
+    "token": 8124,
+    "symbol": "AJANTPHARM-EQ",
+    "name": "AJANTPHARM"
+  },
+  {
+    "token": 17307,
+    "symbol": "AJMERA-EQ",
+    "name": "AJMERA"
+  },
+  {
+    "token": 3403,
+    "symbol": "AJOONI-EQ",
+    "name": "AJOONI"
+  },
+  {
+    "token": 13510,
+    "symbol": "AKASH-EQ",
+    "name": "AKASH"
+  },
+  {
+    "token": 2176,
+    "symbol": "AKG-EQ",
+    "name": "AKG"
+  },
+  {
+    "token": 14890,
+    "symbol": "AKI-EQ",
+    "name": "AKI"
+  },
+  {
+    "token": 20178,
+    "symbol": "AKSHARCHEM-EQ",
+    "name": "AKSHARCHEM"
+  },
+  {
+    "token": 1467,
+    "symbol": "AKZOINDIA-EQ",
+    "name": "AKZOINDIA"
+  },
+  {
+    "token": 9921,
+    "symbol": "ALANKIT-EQ",
+    "name": "ALANKIT"
+  },
+  {
+    "token": 17256,
+    "symbol": "ALBERTDAVD-EQ",
+    "name": "ALBERTDAVD"
+  },
+  {
+    "token": 79,
+    "symbol": "ALEMBICLTD-EQ",
+    "name": "ALEMBICLTD"
+  },
+  {
+    "token": 13656,
+    "symbol": "ALICON-EQ",
+    "name": "ALICON"
+  },
+  {
+    "token": 16959,
+    "symbol": "ALKALI-EQ",
+    "name": "ALKALI"
+  },
+  {
+    "token": 11703,
+    "symbol": "ALKEM-EQ",
+    "name": "ALKEM"
+  },
+  {
+    "token": 4487,
+    "symbol": "ALKYLAMINE-EQ",
+    "name": "ALKYLAMINE"
+  },
+  {
+    "token": 13501,
+    "symbol": "ALLCARGO-EQ",
+    "name": "ALLCARGO"
+  },
+  {
+    "token": 11798,
+    "symbol": "ALLSEC-EQ",
+    "name": "ALLSEC"
+  },
+  {
+    "token": 16719,
+    "symbol": "ALMONDZ-EQ",
+    "name": "ALMONDZ"
+  },
+  {
+    "token": 17675,
+    "symbol": "ALOKINDS-EQ",
+    "name": "ALOKINDS"
+  },
+  {
+    "token": 14848,
+    "symbol": "ALPA-EQ",
+    "name": "ALPA"
+  },
+  {
+    "token": 7412,
+    "symbol": "ALPHA-EQ",
+    "name": "ALPHA"
+  },
+  {
+    "token": 19640,
+    "symbol": "ALPHAETF-EQ",
+    "name": "ALPHAETF"
+  },
+  {
+    "token": 14597,
+    "symbol": "ALPHAGEO-EQ",
+    "name": "ALPHAGEO"
+  },
+  {
+    "token": 22344,
+    "symbol": "ALPL30IETF-EQ",
+    "name": "ALPL30IETF"
+  },
+  {
+    "token": 1185,
+    "symbol": "AMBER-EQ",
+    "name": "AMBER"
+  },
+  {
+    "token": 15234,
+    "symbol": "AMBIKCO-EQ",
+    "name": "AMBIKCO"
+  },
+  {
+    "token": 1270,
+    "symbol": "AMBUJACEM-EQ",
+    "name": "AMBUJACEM"
+  },
+  {
+    "token": 14398,
+    "symbol": "AMDIND-EQ",
+    "name": "AMDIND"
+  },
+  {
+    "token": 5578,
+    "symbol": "AMIORG-EQ",
+    "name": "AMIORG"
+  },
+  {
+    "token": 2598,
+    "symbol": "AMJLAND-EQ",
+    "name": "AMJLAND"
+  },
+  {
+    "token": 19867,
+    "symbol": "AMNPLST-EQ",
+    "name": "AMNPLST"
+  },
+  {
+    "token": 17547,
+    "symbol": "AMRUTANJAN-EQ",
+    "name": "AMRUTANJAN"
+  },
+  {
+    "token": 7145,
+    "symbol": "ANANDRATHI-EQ",
+    "name": "ANANDRATHI"
+  },
+  {
+    "token": 13620,
+    "symbol": "ANANTRAJ-EQ",
+    "name": "ANANTRAJ"
+  },
+  {
+    "token": 166,
+    "symbol": "ANDHRAPAP-EQ",
+    "name": "ANDHRAPAP"
+  },
+  {
+    "token": 136,
+    "symbol": "ANDHRSUGAR-EQ",
+    "name": "ANDHRSUGAR"
+  },
+  {
+    "token": 324,
+    "symbol": "ANGELONE-EQ",
+    "name": "ANGELONE"
+  },
+  {
+    "token": 16657,
+    "symbol": "ANIKINDS-EQ",
+    "name": "ANIKINDS"
+  },
+  {
+    "token": 3727,
+    "symbol": "ANMOL-EQ",
+    "name": "ANMOL"
+  },
+  {
+    "token": 5194,
+    "symbol": "ANTGRAPHIC-EQ",
+    "name": "ANTGRAPHIC"
+  },
+  {
+    "token": 9014,
+    "symbol": "ANUP-EQ",
+    "name": "ANUP"
+  },
+  {
+    "token": 2829,
+    "symbol": "ANURAS-EQ",
+    "name": "ANURAS"
+  },
+  {
+    "token": 11491,
+    "symbol": "APARINDS-EQ",
+    "name": "APARINDS"
+  },
+  {
+    "token": 20453,
+    "symbol": "APCL-EQ",
+    "name": "APCL"
+  },
+  {
+    "token": 154,
+    "symbol": "APCOTEXIND-EQ",
+    "name": "APCOTEXIND"
+  },
+  {
+    "token": 21623,
+    "symbol": "APEX-EQ",
+    "name": "APEX"
+  },
+  {
+    "token": 25780,
+    "symbol": "APLAPOLLO-EQ",
+    "name": "APLAPOLLO"
+  },
+  {
+    "token": 25328,
+    "symbol": "APLLTD-EQ",
+    "name": "APLLTD"
+  },
+  {
+    "token": 1134,
+    "symbol": "APOLLO-EQ",
+    "name": "APOLLO"
+  },
+  {
+    "token": 157,
+    "symbol": "APOLLOHOSP-EQ",
+    "name": "APOLLOHOSP"
+  },
+  {
+    "token": 14361,
+    "symbol": "APOLLOPIPE-EQ",
+    "name": "APOLLOPIPE"
+  },
+  {
+    "token": 163,
+    "symbol": "APOLLOTYRE-EQ",
+    "name": "APOLLOTYRE"
+  },
+  {
+    "token": 6302,
+    "symbol": "APOLSINHOT-EQ",
+    "name": "APOLSINHOT"
+  },
+  {
+    "token": 10755,
+    "symbol": "APTECHT-EQ",
+    "name": "APTECHT"
+  },
+  {
+    "token": 5435,
+    "symbol": "APTUS-EQ",
+    "name": "APTUS"
+  },
+  {
+    "token": 100,
+    "symbol": "ARE&M-EQ",
+    "name": "ARE&M"
+  },
+  {
+    "token": 181,
+    "symbol": "ARENTERP-EQ",
+    "name": "ARENTERP"
+  },
+  {
+    "token": 15204,
+    "symbol": "ARIES-EQ",
+    "name": "ARIES"
+  },
+  {
+    "token": 3813,
+    "symbol": "ARIHANTCAP-EQ",
+    "name": "ARIHANTCAP"
+  },
+  {
+    "token": 20159,
+    "symbol": "ARIHANTSUP-EQ",
+    "name": "ARIHANTSUP"
+  },
+  {
+    "token": 17263,
+    "symbol": "ARMANFIN-EQ",
+    "name": "ARMANFIN"
+  },
+  {
+    "token": 14557,
+    "symbol": "AROGRANITE-EQ",
+    "name": "AROGRANITE"
+  },
+  {
+    "token": 9260,
+    "symbol": "ARROWGREEN-EQ",
+    "name": "ARROWGREEN"
+  },
+  {
+    "token": 16913,
+    "symbol": "ARTEMISMED-EQ",
+    "name": "ARTEMISMED"
+  },
+  {
+    "token": 6156,
+    "symbol": "ARTNIRMAN-EQ",
+    "name": "ARTNIRMAN"
+  },
+  {
+    "token": 193,
+    "symbol": "ARVIND-EQ",
+    "name": "ARVIND"
+  },
+  {
+    "token": 9111,
+    "symbol": "ARVINDFASN-EQ",
+    "name": "ARVINDFASN"
+  },
+  {
+    "token": 10457,
+    "symbol": "ARVSMART-EQ",
+    "name": "ARVSMART"
+  },
+  {
+    "token": 5378,
+    "symbol": "ASAHIINDIA-EQ",
+    "name": "ASAHIINDIA"
+  },
+  {
+    "token": 25088,
+    "symbol": "ASAHISONG-EQ",
+    "name": "ASAHISONG"
+  },
+  {
+    "token": 10634,
+    "symbol": "ASAL-EQ",
+    "name": "ASAL"
+  },
+  {
+    "token": 17598,
+    "symbol": "ASALCBR-EQ",
+    "name": "ASALCBR"
+  },
+  {
+    "token": 203,
+    "symbol": "ASHAPURMIN-EQ",
+    "name": "ASHAPURMIN"
+  },
+  {
+    "token": 24403,
+    "symbol": "ASHIANA-EQ",
+    "name": "ASHIANA"
+  },
+  {
+    "token": 206,
+    "symbol": "ASHIMASYN-EQ",
+    "name": "ASHIMASYN"
+  },
+  {
+    "token": 20182,
+    "symbol": "ASHOKA-EQ",
+    "name": "ASHOKA"
+  },
+  {
+    "token": 16943,
+    "symbol": "ASHOKAMET-EQ",
+    "name": "ASHOKAMET"
+  },
+  {
+    "token": 212,
+    "symbol": "ASHOKLEY-EQ",
+    "name": "ASHOKLEY"
+  },
+  {
+    "token": 7030,
+    "symbol": "ASIANENE-EQ",
+    "name": "ASIANENE"
+  },
+  {
+    "token": 236,
+    "symbol": "ASIANPAINT-EQ",
+    "name": "ASIANPAINT"
+  },
+  {
+    "token": 14889,
+    "symbol": "ASIANTILES-EQ",
+    "name": "ASIANTILES"
+  },
+  {
+    "token": 20152,
+    "symbol": "ASKAUTOLTD-EQ",
+    "name": "ASKAUTOLTD"
+  },
+  {
+    "token": 14064,
+    "symbol": "ASMS-EQ",
+    "name": "ASMS"
+  },
+  {
+    "token": 17270,
+    "symbol": "ASPINWALL-EQ",
+    "name": "ASPINWALL"
+  },
+  {
+    "token": 17728,
+    "symbol": "ASTEC-EQ",
+    "name": "ASTEC"
+  },
+  {
+    "token": 1508,
+    "symbol": "ASTERDM-EQ",
+    "name": "ASTERDM"
+  },
+  {
+    "token": 14418,
+    "symbol": "ASTRAL-EQ",
+    "name": "ASTRAL"
+  },
+  {
+    "token": 11618,
+    "symbol": "ASTRAMICRO-EQ",
+    "name": "ASTRAMICRO"
+  },
+  {
+    "token": 5610,
+    "symbol": "ASTRAZEN-EQ",
+    "name": "ASTRAZEN"
+  },
+  {
+    "token": 1663,
+    "symbol": "ATFL-EQ",
+    "name": "ATFL"
+  },
+  {
+    "token": 6066,
+    "symbol": "ATGL-EQ",
+    "name": "ATGL"
+  },
+  {
+    "token": 17778,
+    "symbol": "ATL-EQ",
+    "name": "ATL"
+  },
+  {
+    "token": 263,
+    "symbol": "ATUL-EQ",
+    "name": "ATUL"
+  },
+  {
+    "token": 30023,
+    "symbol": "ATULAUTO-EQ",
+    "name": "ATULAUTO"
+  },
+  {
+    "token": 21238,
+    "symbol": "AUBANK-EQ",
+    "name": "AUBANK"
+  },
+  {
+    "token": 12022,
+    "symbol": "AURIONPRO-EQ",
+    "name": "AURIONPRO"
+  },
+  {
+    "token": 275,
+    "symbol": "AUROPHARMA-EQ",
+    "name": "AUROPHARMA"
+  },
+  {
+    "token": 10310,
+    "symbol": "AURUM-EQ",
+    "name": "AURUM"
+  },
+  {
+    "token": 278,
+    "symbol": "AUTOAXLES-EQ",
+    "name": "AUTOAXLES"
+  },
+  {
+    "token": 7880,
+    "symbol": "AUTOBEES-EQ",
+    "name": "AUTOBEES"
+  },
+  {
+    "token": 7844,
+    "symbol": "AUTOIETF-EQ",
+    "name": "AUTOIETF"
+  },
+  {
+    "token": 14106,
+    "symbol": "AUTOIND-EQ",
+    "name": "AUTOIND"
+  },
+  {
+    "token": 21406,
+    "symbol": "AVADHSUGAR-EQ",
+    "name": "AVADHSUGAR"
+  },
+  {
+    "token": 15058,
+    "symbol": "AVALON-EQ",
+    "name": "AVALON"
+  },
+  {
+    "token": 7936,
+    "symbol": "AVANTIFEED-EQ",
+    "name": "AVANTIFEED"
+  },
+  {
+    "token": 15589,
+    "symbol": "AVG-EQ",
+    "name": "AVG"
+  },
+  {
+    "token": 13557,
+    "symbol": "AVONMORE-EQ",
+    "name": "AVONMORE"
+  },
+  {
+    "token": 8827,
+    "symbol": "AVROIND-EQ",
+    "name": "AVROIND"
+  },
+  {
+    "token": 14008,
+    "symbol": "AVTNPL-EQ",
+    "name": "AVTNPL"
+  },
+  {
+    "token": 23864,
+    "symbol": "AWFIS-EQ",
+    "name": "AWFIS"
+  },
+  {
+    "token": 1797,
+    "symbol": "AWHCL-EQ",
+    "name": "AWHCL"
+  },
+  {
+    "token": 8110,
+    "symbol": "AWL-EQ",
+    "name": "AWL"
+  },
+  {
+    "token": 5900,
+    "symbol": "AXISBANK-EQ",
+    "name": "AXISBANK"
+  },
+  {
+    "token": 1044,
+    "symbol": "AXISBNKETF-EQ",
+    "name": "AXISBNKETF"
+  },
+  {
+    "token": 3530,
+    "symbol": "AXISBPSETF-EQ",
+    "name": "AXISBPSETF"
+  },
+  {
+    "token": 9436,
+    "symbol": "AXISCADES-EQ",
+    "name": "AXISCADES"
+  },
+  {
+    "token": 5732,
+    "symbol": "AXISCETF-EQ",
+    "name": "AXISCETF"
+  },
+  {
+    "token": 20532,
+    "symbol": "AXISGOLD-EQ",
+    "name": "AXISGOLD"
+  },
+  {
+    "token": 3608,
+    "symbol": "AXISHCETF-EQ",
+    "name": "AXISHCETF"
+  },
+  {
+    "token": 11193,
+    "symbol": "AXISILVER-EQ",
+    "name": "AXISILVER"
+  },
+  {
+    "token": 21252,
+    "symbol": "AXISNIFTY-EQ",
+    "name": "AXISNIFTY"
+  },
+  {
+    "token": 3010,
+    "symbol": "AXISTECETF-EQ",
+    "name": "AXISTECETF"
+  },
+  {
+    "token": 9902,
+    "symbol": "AXITA-EQ",
+    "name": "AXITA"
+  },
+  {
+    "token": 14742,
+    "symbol": "AXSENSEX-EQ",
+    "name": "AXSENSEX"
+  },
+  {
+    "token": 10285,
+    "symbol": "AYMSYNTEX-EQ",
+    "name": "AYMSYNTEX"
+  },
+  {
+    "token": 20905,
+    "symbol": "AZAD-EQ",
+    "name": "AZAD"
+  },
+  {
+    "token": 13794,
+    "symbol": "BAIDFIN-EQ",
+    "name": "BAIDFIN"
+  },
+  {
+    "token": 16669,
+    "symbol": "BAJAJ-AUTO-EQ",
+    "name": "BAJAJ-AUTO"
+  },
+  {
+    "token": 19531,
+    "symbol": "BAJAJCON-EQ",
+    "name": "BAJAJCON"
+  },
+  {
+    "token": 15034,
+    "symbol": "BAJAJELEC-EQ",
+    "name": "BAJAJELEC"
+  },
+  {
+    "token": 16675,
+    "symbol": "BAJAJFINSV-EQ",
+    "name": "BAJAJFINSV"
+  },
+  {
+    "token": 6863,
+    "symbol": "BAJAJHCARE-EQ",
+    "name": "BAJAJHCARE"
+  },
+  {
+    "token": 308,
+    "symbol": "BAJAJHIND-EQ",
+    "name": "BAJAJHIND"
+  },
+  {
+    "token": 305,
+    "symbol": "BAJAJHLDNG-EQ",
+    "name": "BAJAJHLDNG"
+  },
+  {
+    "token": 20531,
+    "symbol": "BAJEL-EQ",
+    "name": "BAJEL"
+  },
+  {
+    "token": 317,
+    "symbol": "BAJFINANCE-EQ",
+    "name": "BAJFINANCE"
+  },
+  {
+    "token": 9158,
+    "symbol": "BALAJITELE-EQ",
+    "name": "BALAJITELE"
+  },
+  {
+    "token": 14501,
+    "symbol": "BALAMINES-EQ",
+    "name": "BALAMINES"
+  },
+  {
+    "token": 11309,
+    "symbol": "BALAXI-EQ",
+    "name": "BALAXI"
+  },
+  {
+    "token": 10181,
+    "symbol": "BALKRISHNA-EQ",
+    "name": "BALKRISHNA"
+  },
+  {
+    "token": 335,
+    "symbol": "BALKRISIND-EQ",
+    "name": "BALKRISIND"
+  },
+  {
+    "token": 338,
+    "symbol": "BALMLAWRIE-EQ",
+    "name": "BALMLAWRIE"
+  },
+  {
+    "token": 13441,
+    "symbol": "BALPHARMA-EQ",
+    "name": "BALPHARMA"
+  },
+  {
+    "token": 341,
+    "symbol": "BALRAMCHIN-EQ",
+    "name": "BALRAMCHIN"
+  },
+  {
+    "token": 23607,
+    "symbol": "BALUFORGE-EQ",
+    "name": "BALUFORGE"
+  },
+  {
+    "token": 347,
+    "symbol": "BANARBEADS-EQ",
+    "name": "BANARBEADS"
+  },
+  {
+    "token": 350,
+    "symbol": "BANARISUG-EQ",
+    "name": "BANARISUG"
+  },
+  {
+    "token": 13880,
+    "symbol": "BANCOINDIA-EQ",
+    "name": "BANCOINDIA"
+  },
+  {
+    "token": 2263,
+    "symbol": "BANDHANBNK-EQ",
+    "name": "BANDHANBNK"
+  },
+  {
+    "token": 15303,
+    "symbol": "BANG-EQ",
+    "name": "BANG"
+  },
+  {
+    "token": 4668,
+    "symbol": "BANKBARODA-EQ",
+    "name": "BANKBARODA"
+  },
+  {
+    "token": 11439,
+    "symbol": "BANKBEES-EQ",
+    "name": "BANKBEES"
+  },
+  {
+    "token": 21986,
+    "symbol": "BANKBETF-EQ",
+    "name": "BANKBETF"
+  },
+  {
+    "token": 17419,
+    "symbol": "BANKETF-EQ",
+    "name": "BANKETF"
+  },
+  {
+    "token": 13644,
+    "symbol": "BANKETFADD-EQ",
+    "name": "BANKETFADD"
+  },
+  {
+    "token": 11037,
+    "symbol": "BANKIETF-EQ",
+    "name": "BANKIETF"
+  },
+  {
+    "token": 4745,
+    "symbol": "BANKINDIA-EQ",
+    "name": "BANKINDIA"
+  },
+  {
+    "token": 5851,
+    "symbol": "BANKNIFTY1-EQ",
+    "name": "BANKNIFTY1"
+  },
+  {
+    "token": 14511,
+    "symbol": "BANSWRAS-EQ",
+    "name": "BANSWRAS"
+  },
+  {
+    "token": 3127,
+    "symbol": "BARBEQUE-EQ",
+    "name": "BARBEQUE"
+  },
+  {
+    "token": 368,
+    "symbol": "BASF-EQ",
+    "name": "BASF"
+  },
+  {
+    "token": 12034,
+    "symbol": "BASML-EQ",
+    "name": "BASML"
+  },
+  {
+    "token": 371,
+    "symbol": "BATAINDIA-EQ",
+    "name": "BATAINDIA"
+  },
+  {
+    "token": 17927,
+    "symbol": "BAYERCROP-EQ",
+    "name": "BAYERCROP"
+  },
+  {
+    "token": 7196,
+    "symbol": "BBETF0432-EQ",
+    "name": "BBETF0432"
+  },
+  {
+    "token": 13761,
+    "symbol": "BBL-EQ",
+    "name": "BBL"
+  },
+  {
+    "token": 20547,
+    "symbol": "BBNPPGOLD-EQ",
+    "name": "BBNPPGOLD"
+  },
+  {
+    "token": 3435,
+    "symbol": "BBOX-EQ",
+    "name": "BBOX"
+  },
+  {
+    "token": 380,
+    "symbol": "BBTC-EQ",
+    "name": "BBTC"
+  },
+  {
+    "token": 12153,
+    "symbol": "BBTCL-EQ",
+    "name": "BBTCL"
+  },
+  {
+    "token": 2513,
+    "symbol": "BCLIND-EQ",
+    "name": "BCLIND"
+  },
+  {
+    "token": 7780,
+    "symbol": "BCONCEPTS-EQ",
+    "name": "BCONCEPTS"
+  },
+  {
+    "token": 2144,
+    "symbol": "BDL-EQ",
+    "name": "BDL"
+  },
+  {
+    "token": 17933,
+    "symbol": "BEARDSELL-EQ",
+    "name": "BEARDSELL"
+  },
+  {
+    "token": 1628,
+    "symbol": "BECTORFOOD-EQ",
+    "name": "BECTORFOOD"
+  },
+  {
+    "token": 20196,
+    "symbol": "BEDMUTHA-EQ",
+    "name": "BEDMUTHA"
+  },
+  {
+    "token": 383,
+    "symbol": "BEL-EQ",
+    "name": "BEL"
+  },
+  {
+    "token": 395,
+    "symbol": "BEML-EQ",
+    "name": "BEML"
+  },
+  {
+    "token": 419,
+    "symbol": "BEPL-EQ",
+    "name": "BEPL"
+  },
+  {
+    "token": 404,
+    "symbol": "BERGEPAINT-EQ",
+    "name": "BERGEPAINT"
+  },
+  {
+    "token": 2306,
+    "symbol": "BESTAGRO-EQ",
+    "name": "BESTAGRO"
+  },
+  {
+    "token": 21113,
+    "symbol": "BFINVEST-EQ",
+    "name": "BFINVEST"
+  },
+  {
+    "token": 5220,
+    "symbol": "BFSI-EQ",
+    "name": "BFSI"
+  },
+  {
+    "token": 14567,
+    "symbol": "BFUTILITIE-EQ",
+    "name": "BFUTILITIE"
+  },
+  {
+    "token": 6164,
+    "symbol": "BHAGCHEM-EQ",
+    "name": "BHAGCHEM"
+  },
+  {
+    "token": 13400,
+    "symbol": "BHAGERIA-EQ",
+    "name": "BHAGERIA"
+  },
+  {
+    "token": 20776,
+    "symbol": "BHAGYANGR-EQ",
+    "name": "BHAGYANGR"
+  },
+  {
+    "token": 19556,
+    "symbol": "BHANDARI-EQ",
+    "name": "BHANDARI"
+  },
+  {
+    "token": 422,
+    "symbol": "BHARATFORG-EQ",
+    "name": "BHARATFORG"
+  },
+  {
+    "token": 426,
+    "symbol": "BHARATGEAR-EQ",
+    "name": "BHARATGEAR"
+  },
+  {
+    "token": 3834,
+    "symbol": "BHARATRAS-EQ",
+    "name": "BHARATRAS"
+  },
+  {
+    "token": 16123,
+    "symbol": "BHARATWIRE-EQ",
+    "name": "BHARATWIRE"
+  },
+  {
+    "token": 10604,
+    "symbol": "BHARTIARTL-EQ",
+    "name": "BHARTIARTL"
+  },
+  {
+    "token": 23489,
+    "symbol": "BHARTIHEXA-EQ",
+    "name": "BHARTIHEXA"
+  },
+  {
+    "token": 438,
+    "symbol": "BHEL-EQ",
+    "name": "BHEL"
+  },
+  {
+    "token": 18431,
+    "symbol": "BIGBLOC-EQ",
+    "name": "BIGBLOC"
+  },
+  {
+    "token": 11966,
+    "symbol": "BIKAJI-EQ",
+    "name": "BIKAJI"
+  },
+  {
+    "token": 11373,
+    "symbol": "BIOCON-EQ",
+    "name": "BIOCON"
+  },
+  {
+    "token": 4136,
+    "symbol": "BIOFILCHEM-EQ",
+    "name": "BIOFILCHEM"
+  },
+  {
+    "token": 477,
+    "symbol": "BIRLACABLE-EQ",
+    "name": "BIRLACABLE"
+  },
+  {
+    "token": 480,
+    "symbol": "BIRLACORPN-EQ",
+    "name": "BIRLACORPN"
+  },
+  {
+    "token": 15239,
+    "symbol": "BIRLAMONEY-EQ",
+    "name": "BIRLAMONEY"
+  },
+  {
+    "token": 15067,
+    "symbol": "BLAL-EQ",
+    "name": "BLAL"
+  },
+  {
+    "token": 19265,
+    "symbol": "BLISSGVS-EQ",
+    "name": "BLISSGVS"
+  },
+  {
+    "token": 13290,
+    "symbol": "BLKASHYAP-EQ",
+    "name": "BLKASHYAP"
+  },
+  {
+    "token": 17279,
+    "symbol": "BLS-EQ",
+    "name": "BLS"
+  },
+  {
+    "token": 22566,
+    "symbol": "BLSE-EQ",
+    "name": "BLSE"
+  },
+  {
+    "token": 495,
+    "symbol": "BLUEDART-EQ",
+    "name": "BLUEDART"
+  },
+  {
+    "token": 19686,
+    "symbol": "BLUEJET-EQ",
+    "name": "BLUEJET"
+  },
+  {
+    "token": 8311,
+    "symbol": "BLUESTARCO-EQ",
+    "name": "BLUESTARCO"
+  },
+  {
+    "token": 25017,
+    "symbol": "BODALCHEM-EQ",
+    "name": "BODALCHEM"
+  },
+  {
+    "token": 513,
+    "symbol": "BOMDYEING-EQ",
+    "name": "BOMDYEING"
+  },
+  {
+    "token": 19401,
+    "symbol": "BOROLTD-EQ",
+    "name": "BOROLTD"
+  },
+  {
+    "token": 3149,
+    "symbol": "BORORENEW-EQ",
+    "name": "BORORENEW"
+  },
+  {
+    "token": 2181,
+    "symbol": "BOSCHLTD-EQ",
+    "name": "BOSCHLTD"
+  },
+  {
+    "token": 526,
+    "symbol": "BPCL-EQ",
+    "name": "BPCL"
+  },
+  {
+    "token": 530,
+    "symbol": "BPL-EQ",
+    "name": "BPL"
+  },
+  {
+    "token": 15184,
+    "symbol": "BRIGADE-EQ",
+    "name": "BRIGADE"
+  },
+  {
+    "token": 547,
+    "symbol": "BRITANNIA-EQ",
+    "name": "BRITANNIA"
+  },
+  {
+    "token": 19585,
+    "symbol": "BSE-EQ",
+    "name": "BSE"
+  },
+  {
+    "token": 3001,
+    "symbol": "BSE500IETF-EQ",
+    "name": "BSE500IETF"
+  },
+  {
+    "token": 809,
+    "symbol": "BSHSL-EQ",
+    "name": "BSHSL"
+  },
+  {
+    "token": 559,
+    "symbol": "BSL-EQ",
+    "name": "BSL"
+  },
+  {
+    "token": 23804,
+    "symbol": "BSLGOLDETF-EQ",
+    "name": "BSLGOLDETF"
+  },
+  {
+    "token": 24781,
+    "symbol": "BSLNIFTY-EQ",
+    "name": "BSLNIFTY"
+  },
+  {
+    "token": 5957,
+    "symbol": "BSLSENETFG-EQ",
+    "name": "BSLSENETFG"
+  },
+  {
+    "token": 6994,
+    "symbol": "BSOFT-EQ",
+    "name": "BSOFT"
+  },
+  {
+    "token": 14150,
+    "symbol": "BTML-EQ",
+    "name": "BTML"
+  },
+  {
+    "token": 15194,
+    "symbol": "BURNPUR-EQ",
+    "name": "BURNPUR"
+  },
+  {
+    "token": 2716,
+    "symbol": "BUTTERFLY-EQ",
+    "name": "BUTTERFLY"
+  },
+  {
+    "token": 15073,
+    "symbol": "BVCL-EQ",
+    "name": "BVCL"
+  },
+  {
+    "token": 7919,
+    "symbol": "BYKE-EQ",
+    "name": "BYKE"
+  },
+  {
+    "token": 6216,
+    "symbol": "CAMLINFINE-EQ",
+    "name": "CAMLINFINE"
+  },
+  {
+    "token": 9362,
+    "symbol": "CAMPUS-EQ",
+    "name": "CAMPUS"
+  },
+  {
+    "token": 342,
+    "symbol": "CAMS-EQ",
+    "name": "CAMS"
+  },
+  {
+    "token": 10794,
+    "symbol": "CANBK-EQ",
+    "name": "CANBK"
+  },
+  {
+    "token": 583,
+    "symbol": "CANFINHOME-EQ",
+    "name": "CANFINHOME"
+  },
+  {
+    "token": 20160,
+    "symbol": "CANTABIL-EQ",
+    "name": "CANTABIL"
+  },
+  {
+    "token": 21749,
+    "symbol": "CAPACITE-EQ",
+    "name": "CAPACITE"
+  },
+  {
+    "token": 22675,
+    "symbol": "CAPITALSFB-EQ",
+    "name": "CAPITALSFB"
+  },
+  {
+    "token": 3906,
+    "symbol": "CAPLIPOINT-EQ",
+    "name": "CAPLIPOINT"
+  },
+  {
+    "token": 19447,
+    "symbol": "CAPTRUST-EQ",
+    "name": "CAPTRUST"
+  },
+  {
+    "token": 595,
+    "symbol": "CARBORUNIV-EQ",
+    "name": "CARBORUNIV"
+  },
+  {
+    "token": 20086,
+    "symbol": "CAREERP-EQ",
+    "name": "CAREERP"
+  },
+  {
+    "token": 29113,
+    "symbol": "CARERATING-EQ",
+    "name": "CARERATING"
+  },
+  {
+    "token": 5407,
+    "symbol": "CARTRADE-EQ",
+    "name": "CARTRADE"
+  },
+  {
+    "token": 1879,
+    "symbol": "CARYSIL-EQ",
+    "name": "CARYSIL"
+  },
+  {
+    "token": 1250,
+    "symbol": "CASTROLIND-EQ",
+    "name": "CASTROLIND"
+  },
+  {
+    "token": 6385,
+    "symbol": "CCHHL-EQ",
+    "name": "CCHHL"
+  },
+  {
+    "token": 11452,
+    "symbol": "CCL-EQ",
+    "name": "CCL"
+  },
+  {
+    "token": 21174,
+    "symbol": "CDSL-EQ",
+    "name": "CDSL"
+  },
+  {
+    "token": 15254,
+    "symbol": "CEATLTD-EQ",
+    "name": "CEATLTD"
+  },
+  {
+    "token": 13162,
+    "symbol": "CELEBRITY-EQ",
+    "name": "CELEBRITY"
+  },
+  {
+    "token": 19795,
+    "symbol": "CELLO-EQ",
+    "name": "CELLO"
+  },
+  {
+    "token": 619,
+    "symbol": "CENTENKA-EQ",
+    "name": "CENTENKA"
+  },
+  {
+    "token": 11511,
+    "symbol": "CENTEXT-EQ",
+    "name": "CENTEXT"
+  },
+  {
+    "token": 14894,
+    "symbol": "CENTRALBK-EQ",
+    "name": "CENTRALBK"
+  },
+  {
+    "token": 2454,
+    "symbol": "CENTRUM-EQ",
+    "name": "CENTRUM"
+  },
+  {
+    "token": 14982,
+    "symbol": "CENTUM-EQ",
+    "name": "CENTUM"
+  },
+  {
+    "token": 13305,
+    "symbol": "CENTURYPLY-EQ",
+    "name": "CENTURYPLY"
+  },
+  {
+    "token": 625,
+    "symbol": "CENTURYTEX-EQ",
+    "name": "CENTURYTEX"
+  },
+  {
+    "token": 15039,
+    "symbol": "CERA-EQ",
+    "name": "CERA"
+  },
+  {
+    "token": 628,
+    "symbol": "CESC-EQ",
+    "name": "CESC"
+  },
+  {
+    "token": 20329,
+    "symbol": "CGCL-EQ",
+    "name": "CGCL"
+  },
+  {
+    "token": 760,
+    "symbol": "CGPOWER-EQ",
+    "name": "CGPOWER"
+  },
+  {
+    "token": 8546,
+    "symbol": "CHALET-EQ",
+    "name": "CHALET"
+  },
+  {
+    "token": 637,
+    "symbol": "CHAMBLFERT-EQ",
+    "name": "CHAMBLFERT"
+  },
+  {
+    "token": 14618,
+    "symbol": "CHEMBOND-EQ",
+    "name": "CHEMBOND"
+  },
+  {
+    "token": 270,
+    "symbol": "CHEMCON-EQ",
+    "name": "CHEMCON"
+  },
+  {
+    "token": 2799,
+    "symbol": "CHEMFAB-EQ",
+    "name": "CHEMFAB"
+  },
+  {
+    "token": 5449,
+    "symbol": "CHEMPLASTS-EQ",
+    "name": "CHEMPLASTS"
+  },
+  {
+    "token": 2049,
+    "symbol": "CHENNPETRO-EQ",
+    "name": "CHENNPETRO"
+  },
+  {
+    "token": 9879,
+    "symbol": "CHEVIOT-EQ",
+    "name": "CHEVIOT"
+  },
+  {
+    "token": 8866,
+    "symbol": "CHOICEIN-EQ",
+    "name": "CHOICEIN"
+  },
+  {
+    "token": 685,
+    "symbol": "CHOLAFIN-EQ",
+    "name": "CHOLAFIN"
+  },
+  {
+    "token": 21740,
+    "symbol": "CHOLAHLDNG-EQ",
+    "name": "CHOLAHLDNG"
+  },
+  {
+    "token": 14937,
+    "symbol": "CIEINDIA-EQ",
+    "name": "CIEINDIA"
+  },
+  {
+    "token": 5142,
+    "symbol": "CIGNITITEC-EQ",
+    "name": "CIGNITITEC"
+  },
+  {
+    "token": 27161,
+    "symbol": "CINELINE-EQ",
+    "name": "CINELINE"
+  },
+  {
+    "token": 694,
+    "symbol": "CIPLA-EQ",
+    "name": "CIPLA"
+  },
+  {
+    "token": 5049,
+    "symbol": "CLEAN-EQ",
+    "name": "CLEAN"
+  },
+  {
+    "token": 20223,
+    "symbol": "CLEDUCATE-EQ",
+    "name": "CLEDUCATE"
+  },
+  {
+    "token": 3482,
+    "symbol": "CLSEL-EQ",
+    "name": "CLSEL"
+  },
+  {
+    "token": 7603,
+    "symbol": "CMSINFO-EQ",
+    "name": "CMSINFO"
+  },
+  {
+    "token": 20374,
+    "symbol": "COALINDIA-EQ",
+    "name": "COALINDIA"
+  },
+  {
+    "token": 6006,
+    "symbol": "COASTCORP-EQ",
+    "name": "COASTCORP"
+  },
+  {
+    "token": 21508,
+    "symbol": "COCHINSHIP-EQ",
+    "name": "COCHINSHIP"
+  },
+  {
+    "token": 11165,
+    "symbol": "COFFEEDAY-EQ",
+    "name": "COFFEEDAY"
+  },
+  {
+    "token": 11543,
+    "symbol": "COFORGE-EQ",
+    "name": "COFORGE"
+  },
+  {
+    "token": 15141,
+    "symbol": "COLPAL-EQ",
+    "name": "COLPAL"
+  },
+  {
+    "token": 13198,
+    "symbol": "COMMOIETF-EQ",
+    "name": "COMMOIETF"
+  },
+  {
+    "token": 31138,
+    "symbol": "COMPUSOFT-EQ",
+    "name": "COMPUSOFT"
+  },
+  {
+    "token": 21578,
+    "symbol": "COMSYN-EQ",
+    "name": "COMSYN"
+  },
+  {
+    "token": 4749,
+    "symbol": "CONCOR-EQ",
+    "name": "CONCOR"
+  },
+  {
+    "token": 18060,
+    "symbol": "CONCORDBIO-EQ",
+    "name": "CONCORDBIO"
+  },
+  {
+    "token": 10238,
+    "symbol": "CONFIPET-EQ",
+    "name": "CONFIPET"
+  },
+  {
+    "token": 10512,
+    "symbol": "CONS-EQ",
+    "name": "CONS"
+  },
+  {
+    "token": 11731,
+    "symbol": "CONSOFINVT-EQ",
+    "name": "CONSOFINVT"
+  },
+  {
+    "token": 2435,
+    "symbol": "CONSUMBEES-EQ",
+    "name": "CONSUMBEES"
+  },
+  {
+    "token": 6446,
+    "symbol": "CONSUMIETF-EQ",
+    "name": "CONSUMIETF"
+  },
+  {
+    "token": 17477,
+    "symbol": "CONTROLPR-EQ",
+    "name": "CONTROLPR"
+  },
+  {
+    "token": 4007,
+    "symbol": "CORALFINAC-EQ",
+    "name": "CORALFINAC"
+  },
+  {
+    "token": 15271,
+    "symbol": "CORDSCABLE-EQ",
+    "name": "CORDSCABLE"
+  },
+  {
+    "token": 739,
+    "symbol": "COROMANDEL-EQ",
+    "name": "COROMANDEL"
+  },
+  {
+    "token": 742,
+    "symbol": "COSMOFIRST-EQ",
+    "name": "COSMOFIRST"
+  },
+  {
+    "token": 16986,
+    "symbol": "COUNCODOS-EQ",
+    "name": "COUNCODOS"
+  },
+  {
+    "token": 2328,
+    "symbol": "CPSEETF-EQ",
+    "name": "CPSEETF"
+  },
+  {
+    "token": 2854,
+    "symbol": "CRAFTSMAN-EQ",
+    "name": "CRAFTSMAN"
+  },
+  {
+    "token": 11155,
+    "symbol": "CREATIVE-EQ",
+    "name": "CREATIVE"
+  },
+  {
+    "token": 4421,
+    "symbol": "CREDITACC-EQ",
+    "name": "CREDITACC"
+  },
+  {
+    "token": 13900,
+    "symbol": "CREST-EQ",
+    "name": "CREST"
+  },
+  {
+    "token": 757,
+    "symbol": "CRISIL-EQ",
+    "name": "CRISIL"
+  },
+  {
+    "token": 17094,
+    "symbol": "CROMPTON-EQ",
+    "name": "CROMPTON"
+  },
+  {
+    "token": 14966,
+    "symbol": "CSBBANK-EQ",
+    "name": "CSBBANK"
+  },
+  {
+    "token": 10350,
+    "symbol": "CSLFINANCE-EQ",
+    "name": "CSLFINANCE"
+  },
+  {
+    "token": 5701,
+    "symbol": "CUB-EQ",
+    "name": "CUB"
+  },
+  {
+    "token": 1901,
+    "symbol": "CUMMINSIND-EQ",
+    "name": "CUMMINSIND"
+  },
+  {
+    "token": 6051,
+    "symbol": "CYBERTECH-EQ",
+    "name": "CYBERTECH"
+  },
+  {
+    "token": 5748,
+    "symbol": "CYIENT-EQ",
+    "name": "CYIENT"
+  },
+  {
+    "token": 17187,
+    "symbol": "CYIENTDLM-EQ",
+    "name": "CYIENTDLM"
+  },
+  {
+    "token": 772,
+    "symbol": "DABUR-EQ",
+    "name": "DABUR"
+  },
+  {
+    "token": 8075,
+    "symbol": "DALBHARAT-EQ",
+    "name": "DALBHARAT"
+  },
+  {
+    "token": 781,
+    "symbol": "DALMIASUG-EQ",
+    "name": "DALMIASUG"
+  },
+  {
+    "token": 17541,
+    "symbol": "DAMODARIND-EQ",
+    "name": "DAMODARIND"
+  },
+  {
+    "token": 1110,
+    "symbol": "DANGEE-EQ",
+    "name": "DANGEE"
+  },
+  {
+    "token": 11423,
+    "symbol": "DATAMATICS-EQ",
+    "name": "DATAMATICS"
+  },
+  {
+    "token": 7358,
+    "symbol": "DATAPATTNS-EQ",
+    "name": "DATAPATTNS"
+  },
+  {
+    "token": 21794,
+    "symbol": "DAVANGERE-EQ",
+    "name": "DAVANGERE"
+  },
+  {
+    "token": 17881,
+    "symbol": "DBCORP-EQ",
+    "name": "DBCORP"
+  },
+  {
+    "token": 18086,
+    "symbol": "DBL-EQ",
+    "name": "DBL"
+  },
+  {
+    "token": 10893,
+    "symbol": "DBOL-EQ",
+    "name": "DBOL"
+  },
+  {
+    "token": 18124,
+    "symbol": "DBREALTY-EQ",
+    "name": "DBREALTY"
+  },
+  {
+    "token": 31107,
+    "symbol": "DBSTOCKBRO-EQ",
+    "name": "DBSTOCKBRO"
+  },
+  {
+    "token": 21704,
+    "symbol": "DCAL-EQ",
+    "name": "DCAL"
+  },
+  {
+    "token": 13725,
+    "symbol": "DCBBANK-EQ",
+    "name": "DCBBANK"
+  },
+  {
+    "token": 805,
+    "symbol": "DCM-EQ",
+    "name": "DCM"
+  },
+  {
+    "token": 11039,
+    "symbol": "DCMNVL-EQ",
+    "name": "DCMNVL"
+  },
+  {
+    "token": 811,
+    "symbol": "DCMSHRIRAM-EQ",
+    "name": "DCMSHRIRAM"
+  },
+  {
+    "token": 7325,
+    "symbol": "DCMSRIND-EQ",
+    "name": "DCMSRIND"
+  },
+  {
+    "token": 817,
+    "symbol": "DCW-EQ",
+    "name": "DCW"
+  },
+  {
+    "token": 11895,
+    "symbol": "DCXINDIA-EQ",
+    "name": "DCXINDIA"
+  },
+  {
+    "token": 14838,
+    "symbol": "DECCANCE-EQ",
+    "name": "DECCANCE"
+  },
+  {
+    "token": 827,
+    "symbol": "DEEPAKFERT-EQ",
+    "name": "DEEPAKFERT"
+  },
+  {
+    "token": 19943,
+    "symbol": "DEEPAKNTR-EQ",
+    "name": "DEEPAKNTR"
+  },
+  {
+    "token": 18244,
+    "symbol": "DEEPENR-EQ",
+    "name": "DEEPENR"
+  },
+  {
+    "token": 3292,
+    "symbol": "DEEPINDS-EQ",
+    "name": "DEEPINDS"
+  },
+  {
+    "token": 9599,
+    "symbol": "DELHIVERY-EQ",
+    "name": "DELHIVERY"
+  },
+  {
+    "token": 24391,
+    "symbol": "DELPHIFX-EQ",
+    "name": "DELPHIFX"
+  },
+  {
+    "token": 15044,
+    "symbol": "DELTACORP-EQ",
+    "name": "DELTACORP"
+  },
+  {
+    "token": 1214,
+    "symbol": "DELTAMAGNT-EQ",
+    "name": "DELTAMAGNT"
+  },
+  {
+    "token": 17722,
+    "symbol": "DEN-EQ",
+    "name": "DEN"
+  },
+  {
+    "token": 4279,
+    "symbol": "DENORA-EQ",
+    "name": "DENORA"
+  },
+  {
+    "token": 8146,
+    "symbol": "DEVIT-EQ",
+    "name": "DEVIT"
+  },
+  {
+    "token": 5373,
+    "symbol": "DEVYANI-EQ",
+    "name": "DEVYANI"
+  },
+  {
+    "token": 857,
+    "symbol": "DHAMPURSUG-EQ",
+    "name": "DHAMPURSUG"
+  },
+  {
+    "token": 11359,
+    "symbol": "DHANBANK-EQ",
+    "name": "DHANBANK"
+  },
+  {
+    "token": 15384,
+    "symbol": "DHANI-EQ",
+    "name": "DHANI"
+  },
+  {
+    "token": 24409,
+    "symbol": "DHANUKA-EQ",
+    "name": "DHANUKA"
+  },
+  {
+    "token": 13001,
+    "symbol": "DHARMAJ-EQ",
+    "name": "DHARMAJ"
+  },
+  {
+    "token": 22233,
+    "symbol": "DHUNINV-EQ",
+    "name": "DHUNINV"
+  },
+  {
+    "token": 18644,
+    "symbol": "DIAMINESQ-EQ",
+    "name": "DIAMINESQ"
+  },
+  {
+    "token": 21840,
+    "symbol": "DIAMONDYD-EQ",
+    "name": "DIAMONDYD"
+  },
+  {
+    "token": 703,
+    "symbol": "DICIND-EQ",
+    "name": "DICIND"
+  },
+  {
+    "token": 16683,
+    "symbol": "DIGISPICE-EQ",
+    "name": "DIGISPICE"
+  },
+  {
+    "token": 8657,
+    "symbol": "DIL-EQ",
+    "name": "DIL"
+  },
+  {
+    "token": 14537,
+    "symbol": "DISHTV-EQ",
+    "name": "DISHTV"
+  },
+  {
+    "token": 14479,
+    "symbol": "DIVGIITTS-EQ",
+    "name": "DIVGIITTS"
+  },
+  {
+    "token": 10940,
+    "symbol": "DIVISLAB-EQ",
+    "name": "DIVISLAB"
+  },
+  {
+    "token": 2636,
+    "symbol": "DIVOPPBEES-EQ",
+    "name": "DIVOPPBEES"
+  },
+  {
+    "token": 21690,
+    "symbol": "DIXON-EQ",
+    "name": "DIXON"
+  },
+  {
+    "token": 14732,
+    "symbol": "DLF-EQ",
+    "name": "DLF"
+  },
+  {
+    "token": 17851,
+    "symbol": "DLINKINDIA-EQ",
+    "name": "DLINKINDIA"
+  },
+  {
+    "token": 19913,
+    "symbol": "DMART-EQ",
+    "name": "DMART"
+  },
+  {
+    "token": 6973,
+    "symbol": "DMCC-EQ",
+    "name": "DMCC"
+  },
+  {
+    "token": 641,
+    "symbol": "DNAMEDIA-EQ",
+    "name": "DNAMEDIA"
+  },
+  {
+    "token": 4822,
+    "symbol": "DODLA-EQ",
+    "name": "DODLA"
+  },
+  {
+    "token": 12124,
+    "symbol": "DOLATALGO-EQ",
+    "name": "DOLATALGO"
+  },
+  {
+    "token": 20560,
+    "symbol": "DOLLAR-EQ",
+    "name": "DOLLAR"
+  },
+  {
+    "token": 20551,
+    "symbol": "DOMS-EQ",
+    "name": "DOMS"
+  },
+  {
+    "token": 13839,
+    "symbol": "DONEAR-EQ",
+    "name": "DONEAR"
+  },
+  {
+    "token": 936,
+    "symbol": "DPABHUSHAN-EQ",
+    "name": "DPABHUSHAN"
+  },
+  {
+    "token": 15419,
+    "symbol": "DPSCLTD-EQ",
+    "name": "DPSCLTD"
+  },
+  {
+    "token": 16900,
+    "symbol": "DPWIRES-EQ",
+    "name": "DPWIRES"
+  },
+  {
+    "token": 2645,
+    "symbol": "DRCSYSTEMS-EQ",
+    "name": "DRCSYSTEMS"
+  },
+  {
+    "token": 10859,
+    "symbol": "DREAMFOLKS-EQ",
+    "name": "DREAMFOLKS"
+  },
+  {
+    "token": 11271,
+    "symbol": "DREDGECORP-EQ",
+    "name": "DREDGECORP"
+  },
+  {
+    "token": 881,
+    "symbol": "DRREDDY-EQ",
+    "name": "DRREDDY"
+  },
+  {
+    "token": 25690,
+    "symbol": "DSSL-EQ",
+    "name": "DSSL"
+  },
+  {
+    "token": 6227,
+    "symbol": "DTIL-EQ",
+    "name": "DTIL"
+  },
+  {
+    "token": 15214,
+    "symbol": "DVL-EQ",
+    "name": "DVL"
+  },
+  {
+    "token": 11667,
+    "symbol": "DWARKESH-EQ",
+    "name": "DWARKESH"
+  },
+  {
+    "token": 10417,
+    "symbol": "DYCL-EQ",
+    "name": "DYCL"
+  },
+  {
+    "token": 4525,
+    "symbol": "DYNAMATECH-EQ",
+    "name": "DYNAMATECH"
+  },
+  {
+    "token": 21314,
+    "symbol": "DYNPRO-EQ",
+    "name": "DYNPRO"
+  },
+  {
+    "token": 2792,
+    "symbol": "EASEMYTRIP-EQ",
+    "name": "EASEMYTRIP"
+  },
+  {
+    "token": 22243,
+    "symbol": "EBBETF0425-EQ",
+    "name": "EBBETF0425"
+  },
+  {
+    "token": 16253,
+    "symbol": "EBBETF0430-EQ",
+    "name": "EBBETF0430"
+  },
+  {
+    "token": 22239,
+    "symbol": "EBBETF0431-EQ",
+    "name": "EBBETF0431"
+  },
+  {
+    "token": 13139,
+    "symbol": "EBBETF0433-EQ",
+    "name": "EBBETF0433"
+  },
+  {
+    "token": 15179,
+    "symbol": "ECLERX-EQ",
+    "name": "ECLERX"
+  },
+  {
+    "token": 15119,
+    "symbol": "EDELWEISS-EQ",
+    "name": "EDELWEISS"
+  },
+  {
+    "token": 19933,
+    "symbol": "EGOLD-EQ",
+    "name": "EGOLD"
+  },
+  {
+    "token": 910,
+    "symbol": "EICHERMOT-EQ",
+    "name": "EICHERMOT"
+  },
+  {
+    "token": 916,
+    "symbol": "EIDPARRY-EQ",
+    "name": "EIDPARRY"
+  },
+  {
+    "token": 6040,
+    "symbol": "EIFFL-EQ",
+    "name": "EIFFL"
+  },
+  {
+    "token": 15399,
+    "symbol": "EIHAHOTELS-EQ",
+    "name": "EIHAHOTELS"
+  },
+  {
+    "token": 919,
+    "symbol": "EIHOTEL-EQ",
+    "name": "EIHOTEL"
+  },
+  {
+    "token": 13091,
+    "symbol": "EKC-EQ",
+    "name": "EKC"
+  },
+  {
+    "token": 8953,
+    "symbol": "ELDEHSG-EQ",
+    "name": "ELDEHSG"
+  },
+  {
+    "token": 13643,
+    "symbol": "ELECON-EQ",
+    "name": "ELECON"
+  },
+  {
+    "token": 928,
+    "symbol": "ELECTCAST-EQ",
+    "name": "ELECTCAST"
+  },
+  {
+    "token": 937,
+    "symbol": "ELGIEQUIP-EQ",
+    "name": "ELGIEQUIP"
+  },
+  {
+    "token": 13423,
+    "symbol": "ELIN-EQ",
+    "name": "ELIN"
+  },
+  {
+    "token": 13517,
+    "symbol": "EMAMILTD-EQ",
+    "name": "EMAMILTD"
+  },
+  {
+    "token": 10074,
+    "symbol": "EMAMIPAP-EQ",
+    "name": "EMAMIPAP"
+  },
+  {
+    "token": 19277,
+    "symbol": "EMAMIREAL-EQ",
+    "name": "EMAMIREAL"
+  },
+  {
+    "token": 11530,
+    "symbol": "EMIL-EQ",
+    "name": "EMIL"
+  },
+  {
+    "token": 13421,
+    "symbol": "EMKAY-EQ",
+    "name": "EMKAY"
+  },
+  {
+    "token": 18142,
+    "symbol": "EMMBI-EQ",
+    "name": "EMMBI"
+  },
+  {
+    "token": 18593,
+    "symbol": "EMSLIMITED-EQ",
+    "name": "EMSLIMITED"
+  },
+  {
+    "token": 9756,
+    "symbol": "EMUDHRA-EQ",
+    "name": "EMUDHRA"
+  },
+  {
+    "token": 18822,
+    "symbol": "ENDURANCE-EQ",
+    "name": "ENDURANCE"
+  },
+  {
+    "token": 15049,
+    "symbol": "ENERGYDEV-EQ",
+    "name": "ENERGYDEV"
+  },
+  {
+    "token": 4907,
+    "symbol": "ENGINERSIN-EQ",
+    "name": "ENGINERSIN"
+  },
+  {
+    "token": 13192,
+    "symbol": "ENIL-EQ",
+    "name": "ENIL"
+  },
+  {
+    "token": 22717,
+    "symbol": "ENTERO-EQ",
+    "name": "ENTERO"
+  },
+  {
+    "token": 22463,
+    "symbol": "EPACK-EQ",
+    "name": "EPACK"
+  },
+  {
+    "token": 5382,
+    "symbol": "EPIGRAL-EQ",
+    "name": "EPIGRAL"
+  },
+  {
+    "token": 981,
+    "symbol": "EPL-EQ",
+    "name": "EPL"
+  },
+  {
+    "token": 6606,
+    "symbol": "EQUAL50ADD-EQ",
+    "name": "EQUAL50ADD"
+  },
+  {
+    "token": 913,
+    "symbol": "EQUITASBNK-EQ",
+    "name": "EQUITASBNK"
+  },
+  {
+    "token": 21154,
+    "symbol": "ERIS-EQ",
+    "name": "ERIS"
+  },
+  {
+    "token": 20080,
+    "symbol": "EROSMEDIA-EQ",
+    "name": "EROSMEDIA"
+  },
+  {
+    "token": 955,
+    "symbol": "ESABINDIA-EQ",
+    "name": "ESABINDIA"
+  },
+  {
+    "token": 19878,
+    "symbol": "ESAFSFB-EQ",
+    "name": "ESAFSFB"
+  },
+  {
+    "token": 958,
+    "symbol": "ESCORTS-EQ",
+    "name": "ESCORTS"
+  },
+  {
+    "token": 1200,
+    "symbol": "ESG-EQ",
+    "name": "ESG"
+  },
+  {
+    "token": 20257,
+    "symbol": "ESILVER-EQ",
+    "name": "ESILVER"
+  },
+  {
+    "token": 25634,
+    "symbol": "ESSARSHPNG-EQ",
+    "name": "ESSARSHPNG"
+  },
+  {
+    "token": 24265,
+    "symbol": "ESTER-EQ",
+    "name": "ESTER"
+  },
+  {
+    "token": 9750,
+    "symbol": "ETHOSLTD-EQ",
+    "name": "ETHOSLTD"
+  },
+  {
+    "token": 11782,
+    "symbol": "EVEREADY-EQ",
+    "name": "EVEREADY"
+  },
+  {
+    "token": 993,
+    "symbol": "EVERESTIND-EQ",
+    "name": "EVERESTIND"
+  },
+  {
+    "token": 17376,
+    "symbol": "EXCEL-EQ",
+    "name": "EXCEL"
+  },
+  {
+    "token": 11471,
+    "symbol": "EXCELINDUS-EQ",
+    "name": "EXCELINDUS"
+  },
+  {
+    "token": 22947,
+    "symbol": "EXICOM-EQ",
+    "name": "EXICOM"
+  },
+  {
+    "token": 676,
+    "symbol": "EXIDEIND-EQ",
+    "name": "EXIDEIND"
+  },
+  {
+    "token": 17486,
+    "symbol": "EXPLEOSOL-EQ",
+    "name": "EXPLEOSOL"
+  },
+  {
+    "token": 5352,
+    "symbol": "EXXARO-EQ",
+    "name": "EXXARO"
+  },
+  {
+    "token": 1008,
+    "symbol": "FACT-EQ",
+    "name": "FACT"
+  },
+  {
+    "token": 1614,
+    "symbol": "FAIRCHEMOR-EQ",
+    "name": "FAIRCHEMOR"
+  },
+  {
+    "token": 12000,
+    "symbol": "FAZE3Q-EQ",
+    "name": "FAZE3Q"
+  },
+  {
+    "token": 6198,
+    "symbol": "FCL-EQ",
+    "name": "FCL"
+  },
+  {
+    "token": 11999,
+    "symbol": "FCSSOFT-EQ",
+    "name": "FCSSOFT"
+  },
+  {
+    "token": 4898,
+    "symbol": "FDC-EQ",
+    "name": "FDC"
+  },
+  {
+    "token": 1023,
+    "symbol": "FEDERALBNK-EQ",
+    "name": "FEDERALBNK"
+  },
+  {
+    "token": 20322,
+    "symbol": "FEDFINA-EQ",
+    "name": "FEDFINA"
+  },
+  {
+    "token": 8159,
+    "symbol": "FIBERWEB-EQ",
+    "name": "FIBERWEB"
+  },
+  {
+    "token": 13710,
+    "symbol": "FIEMIND-EQ",
+    "name": "FIEMIND"
+  },
+  {
+    "token": 24532,
+    "symbol": "FILATEX-EQ",
+    "name": "FILATEX"
+  },
+  {
+    "token": 23647,
+    "symbol": "FILATFASH-EQ",
+    "name": "FILATFASH"
+  },
+  {
+    "token": 1038,
+    "symbol": "FINCABLES-EQ",
+    "name": "FINCABLES"
+  },
+  {
+    "token": 3744,
+    "symbol": "FINEORG-EQ",
+    "name": "FINEORG"
+  },
+  {
+    "token": 12578,
+    "symbol": "FINIETF-EQ",
+    "name": "FINIETF"
+  },
+  {
+    "token": 6579,
+    "symbol": "FINOPB-EQ",
+    "name": "FINOPB"
+  },
+  {
+    "token": 1041,
+    "symbol": "FINPIPE-EQ",
+    "name": "FINPIPE"
+  },
+  {
+    "token": 12032,
+    "symbol": "FIVESTAR-EQ",
+    "name": "FIVESTAR"
+  },
+  {
+    "token": 20372,
+    "symbol": "FLAIR-EQ",
+    "name": "FLAIR"
+  },
+  {
+    "token": 13750,
+    "symbol": "FLUOROCHEM-EQ",
+    "name": "FLUOROCHEM"
+  },
+  {
+    "token": 5306,
+    "symbol": "FMCGIETF-EQ",
+    "name": "FMCGIETF"
+  },
+  {
+    "token": 1190,
+    "symbol": "FMGOETZE-EQ",
+    "name": "FMGOETZE"
+  },
+  {
+    "token": 21017,
+    "symbol": "FMNL-EQ",
+    "name": "FMNL"
+  },
+  {
+    "token": 6836,
+    "symbol": "FOCUS-EQ",
+    "name": "FOCUS"
+  },
+  {
+    "token": 6673,
+    "symbol": "FOODSIN-EQ",
+    "name": "FOODSIN"
+  },
+  {
+    "token": 11573,
+    "symbol": "FORCEMOT-EQ",
+    "name": "FORCEMOT"
+  },
+  {
+    "token": 14592,
+    "symbol": "FORTIS-EQ",
+    "name": "FORTIS"
+  },
+  {
+    "token": 1073,
+    "symbol": "FOSECOIND-EQ",
+    "name": "FOSECOIND"
+  },
+  {
+    "token": 14304,
+    "symbol": "FSL-EQ",
+    "name": "FSL"
+  },
+  {
+    "token": 11932,
+    "symbol": "FUSION-EQ",
+    "name": "FUSION"
+  },
+  {
+    "token": 12842,
+    "symbol": "G1NSETEST-EQ",
+    "name": "G1NSETEST"
+  },
+  {
+    "token": 1085,
+    "symbol": "GABRIEL-EQ",
+    "name": "GABRIEL"
+  },
+  {
+    "token": 8828,
+    "symbol": "GAEL-EQ",
+    "name": "GAEL"
+  },
+  {
+    "token": 4717,
+    "symbol": "GAIL-EQ",
+    "name": "GAIL"
+  },
+  {
+    "token": 1315,
+    "symbol": "GALAXYSURF-EQ",
+    "name": "GALAXYSURF"
+  },
+  {
+    "token": 20303,
+    "symbol": "GANDHAR-EQ",
+    "name": "GANDHAR"
+  },
+  {
+    "token": 14116,
+    "symbol": "GANDHITUBE-EQ",
+    "name": "GANDHITUBE"
+  },
+  {
+    "token": 6944,
+    "symbol": "GANECOS-EQ",
+    "name": "GANECOS"
+  },
+  {
+    "token": 5614,
+    "symbol": "GANESHBE-EQ",
+    "name": "GANESHBE"
+  },
+  {
+    "token": 14339,
+    "symbol": "GANESHHOUC-EQ",
+    "name": "GANESHHOUC"
+  },
+  {
+    "token": 21399,
+    "symbol": "GANGESSECU-EQ",
+    "name": "GANGESSECU"
+  },
+  {
+    "token": 1100,
+    "symbol": "GARFIBRES-EQ",
+    "name": "GARFIBRES"
+  },
+  {
+    "token": 8510,
+    "symbol": "GATEWAY-EQ",
+    "name": "GATEWAY"
+  },
+  {
+    "token": 13658,
+    "symbol": "GEECEE-EQ",
+    "name": "GEECEE"
+  },
+  {
+    "token": 17922,
+    "symbol": "GEEKAYWIRE-EQ",
+    "name": "GEEKAYWIRE"
+  },
+  {
+    "token": 2188,
+    "symbol": "GENCON-EQ",
+    "name": "GENCON"
+  },
+  {
+    "token": 10905,
+    "symbol": "GENESYS-EQ",
+    "name": "GENESYS"
+  },
+  {
+    "token": 17010,
+    "symbol": "GENSOL-EQ",
+    "name": "GENSOL"
+  },
+  {
+    "token": 6600,
+    "symbol": "GENUSPAPER-EQ",
+    "name": "GENUSPAPER"
+  },
+  {
+    "token": 11905,
+    "symbol": "GENUSPOWER-EQ",
+    "name": "GENUSPOWER"
+  },
+  {
+    "token": 11896,
+    "symbol": "GEOJITFSL-EQ",
+    "name": "GEOJITFSL"
+  },
+  {
+    "token": 7862,
+    "symbol": "GEPIL-EQ",
+    "name": "GEPIL"
+  },
+  {
+    "token": 13776,
+    "symbol": "GESHIP-EQ",
+    "name": "GESHIP"
+  },
+  {
+    "token": 1289,
+    "symbol": "GFLLIMITED-EQ",
+    "name": "GFLLIMITED"
+  },
+  {
+    "token": 1127,
+    "symbol": "GHCL-EQ",
+    "name": "GHCL"
+  },
+  {
+    "token": 16696,
+    "symbol": "GHCLTEXTIL-EQ",
+    "name": "GHCLTEXTIL"
+  },
+  {
+    "token": 1139,
+    "symbol": "GICHSGFIN-EQ",
+    "name": "GICHSGFIN"
+  },
+  {
+    "token": 277,
+    "symbol": "GICRE-EQ",
+    "name": "GICRE"
+  },
+  {
+    "token": 17839,
+    "symbol": "GILLANDERS-EQ",
+    "name": "GILLANDERS"
+  },
+  {
+    "token": 1576,
+    "symbol": "GILLETTE-EQ",
+    "name": "GILLETTE"
+  },
+  {
+    "token": 3172,
+    "symbol": "GILT5YBEES-EQ",
+    "name": "GILT5YBEES"
+  },
+  {
+    "token": 1142,
+    "symbol": "GINNIFILA-EQ",
+    "name": "GINNIFILA"
+  },
+  {
+    "token": 1145,
+    "symbol": "GIPCL-EQ",
+    "name": "GIPCL"
+  },
+  {
+    "token": 1186,
+    "symbol": "GLAND-EQ",
+    "name": "GLAND"
+  },
+  {
+    "token": 1153,
+    "symbol": "GLAXO-EQ",
+    "name": "GLAXO"
+  },
+  {
+    "token": 7406,
+    "symbol": "GLENMARK-EQ",
+    "name": "GLENMARK"
+  },
+  {
+    "token": 393,
+    "symbol": "GLOBE-EQ",
+    "name": "GLOBE"
+  },
+  {
+    "token": 17424,
+    "symbol": "GLOBUSSPR-EQ",
+    "name": "GLOBUSSPR"
+  },
+  {
+    "token": 23590,
+    "symbol": "GLOSTERLTD-EQ",
+    "name": "GLOSTERLTD"
+  },
+  {
+    "token": 5265,
+    "symbol": "GLS-EQ",
+    "name": "GLS"
+  },
+  {
+    "token": 1168,
+    "symbol": "GMBREW-EQ",
+    "name": "GMBREW"
+  },
+  {
+    "token": 5204,
+    "symbol": "GMDCLTD-EQ",
+    "name": "GMDCLTD"
+  },
+  {
+    "token": 1570,
+    "symbol": "GMMPFAUDLR-EQ",
+    "name": "GMMPFAUDLR"
+  },
+  {
+    "token": 13528,
+    "symbol": "GMRINFRA-EQ",
+    "name": "GMRINFRA"
+  },
+  {
+    "token": 8529,
+    "symbol": "GMRP&UI-EQ",
+    "name": "GMRP&UI"
+  },
+  {
+    "token": 18571,
+    "symbol": "GNA-EQ",
+    "name": "GNA"
+  },
+  {
+    "token": 1174,
+    "symbol": "GNFC-EQ",
+    "name": "GNFC"
+  },
+  {
+    "token": 14687,
+    "symbol": "GOACARBON-EQ",
+    "name": "GOACARBON"
+  },
+  {
+    "token": 3963,
+    "symbol": "GOCLCORP-EQ",
+    "name": "GOCLCORP"
+  },
+  {
+    "token": 6964,
+    "symbol": "GOCOLORS-EQ",
+    "name": "GOCOLORS"
+  },
+  {
+    "token": 1181,
+    "symbol": "GODFRYPHLP-EQ",
+    "name": "GODFRYPHLP"
+  },
+  {
+    "token": 1607,
+    "symbol": "GODHA-EQ",
+    "name": "GODHA"
+  },
+  {
+    "token": 23799,
+    "symbol": "GODIGIT-EQ",
+    "name": "GODIGIT"
+  },
+  {
+    "token": 144,
+    "symbol": "GODREJAGRO-EQ",
+    "name": "GODREJAGRO"
+  },
+  {
+    "token": 10099,
+    "symbol": "GODREJCP-EQ",
+    "name": "GODREJCP"
+  },
+  {
+    "token": 10925,
+    "symbol": "GODREJIND-EQ",
+    "name": "GODREJIND"
+  },
+  {
+    "token": 17875,
+    "symbol": "GODREJPROP-EQ",
+    "name": "GODREJPROP"
+  },
+  {
+    "token": 11778,
+    "symbol": "GOKEX-EQ",
+    "name": "GOKEX"
+  },
+  {
+    "token": 14480,
+    "symbol": "GOKULAGRO-EQ",
+    "name": "GOKULAGRO"
+  },
+  {
+    "token": 14858,
+    "symbol": "GOLD1-EQ",
+    "name": "GOLD1"
+  },
+  {
+    "token": 14428,
+    "symbol": "GOLDBEES-EQ",
+    "name": "GOLDBEES"
+  },
+  {
+    "token": 22901,
+    "symbol": "GOLDCASE-EQ",
+    "name": "GOLDCASE"
+  },
+  {
+    "token": 14286,
+    "symbol": "GOLDETF-EQ",
+    "name": "GOLDETF"
+  },
+  {
+    "token": 15356,
+    "symbol": "GOLDETFADD-EQ",
+    "name": "GOLDETFADD"
+  },
+  {
+    "token": 11971,
+    "symbol": "GOLDIAM-EQ",
+    "name": "GOLDIAM"
+  },
+  {
+    "token": 19679,
+    "symbol": "GOLDIETF-EQ",
+    "name": "GOLDIETF"
+  },
+  {
+    "token": 14535,
+    "symbol": "GOLDSHARE-EQ",
+    "name": "GOLDSHARE"
+  },
+  {
+    "token": 9874,
+    "symbol": "GOLDTECH-EQ",
+    "name": "GOLDTECH"
+  },
+  {
+    "token": 6125,
+    "symbol": "GOODLUCK-EQ",
+    "name": "GOODLUCK"
+  },
+  {
+    "token": 23066,
+    "symbol": "GOPAL-EQ",
+    "name": "GOPAL"
+  },
+  {
+    "token": 13409,
+    "symbol": "GPIL-EQ",
+    "name": "GPIL"
+  },
+  {
+    "token": 19731,
+    "symbol": "GPPL-EQ",
+    "name": "GPPL"
+  },
+  {
+    "token": 22846,
+    "symbol": "GPTHEALTH-EQ",
+    "name": "GPTHEALTH"
+  },
+  {
+    "token": 11872,
+    "symbol": "GRANULES-EQ",
+    "name": "GRANULES"
+  },
+  {
+    "token": 592,
+    "symbol": "GRAPHITE-EQ",
+    "name": "GRAPHITE"
+  },
+  {
+    "token": 1232,
+    "symbol": "GRASIM-EQ",
+    "name": "GRASIM"
+  },
+  {
+    "token": 20534,
+    "symbol": "GRAVITA-EQ",
+    "name": "GRAVITA"
+  },
+  {
+    "token": 1235,
+    "symbol": "GREAVESCOT-EQ",
+    "name": "GREAVESCOT"
+  },
+  {
+    "token": 6848,
+    "symbol": "GREENLAM-EQ",
+    "name": "GREENLAM"
+  },
+  {
+    "token": 13810,
+    "symbol": "GREENPANEL-EQ",
+    "name": "GREENPANEL"
+  },
+  {
+    "token": 3987,
+    "symbol": "GREENPLY-EQ",
+    "name": "GREENPLY"
+  },
+  {
+    "token": 20110,
+    "symbol": "GREENPOWER-EQ",
+    "name": "GREENPOWER"
+  },
+  {
+    "token": 13560,
+    "symbol": "GRINDWELL-EQ",
+    "name": "GRINDWELL"
+  },
+  {
+    "token": 5054,
+    "symbol": "GRINFRA-EQ",
+    "name": "GRINFRA"
+  },
+  {
+    "token": 10871,
+    "symbol": "GRMOVER-EQ",
+    "name": "GRMOVER"
+  },
+  {
+    "token": 17770,
+    "symbol": "GROBTEA-EQ",
+    "name": "GROBTEA"
+  },
+  {
+    "token": 6543,
+    "symbol": "GRPLTD-EQ",
+    "name": "GRPLTD"
+  },
+  {
+    "token": 5475,
+    "symbol": "GRSE-EQ",
+    "name": "GRSE"
+  },
+  {
+    "token": 7982,
+    "symbol": "GRWRHITECH-EQ",
+    "name": "GRWRHITECH"
+  },
+  {
+    "token": 13143,
+    "symbol": "GSEC10IETF-EQ",
+    "name": "GSEC10IETF"
+  },
+  {
+    "token": 14938,
+    "symbol": "GSEC10YEAR-EQ",
+    "name": "GSEC10YEAR"
+  },
+  {
+    "token": 8342,
+    "symbol": "GSEC5IETF-EQ",
+    "name": "GSEC5IETF"
+  },
+  {
+    "token": 1247,
+    "symbol": "GSFC-EQ",
+    "name": "GSFC"
+  },
+  {
+    "token": 14599,
+    "symbol": "GSLSU-EQ",
+    "name": "GSLSU"
+  },
+  {
+    "token": 13197,
+    "symbol": "GSPL-EQ",
+    "name": "GSPL"
+  },
+  {
+    "token": 13745,
+    "symbol": "GTLINFRA-EQ",
+    "name": "GTLINFRA"
+  },
+  {
+    "token": 21195,
+    "symbol": "GTPL-EQ",
+    "name": "GTPL"
+  },
+  {
+    "token": 11606,
+    "symbol": "GUFICBIO-EQ",
+    "name": "GUFICBIO"
+  },
+  {
+    "token": 1267,
+    "symbol": "GUJALKALI-EQ",
+    "name": "GUJALKALI"
+  },
+  {
+    "token": 14677,
+    "symbol": "GUJAPOLLO-EQ",
+    "name": "GUJAPOLLO"
+  },
+  {
+    "token": 10599,
+    "symbol": "GUJGASLTD-EQ",
+    "name": "GUJGASLTD"
+  },
+  {
+    "token": 4548,
+    "symbol": "GUJRAFFIA-EQ",
+    "name": "GUJRAFFIA"
+  },
+  {
+    "token": 4391,
+    "symbol": "GULFOILLUB-EQ",
+    "name": "GULFOILLUB"
+  },
+  {
+    "token": 11581,
+    "symbol": "GULFPETRO-EQ",
+    "name": "GULFPETRO"
+  },
+  {
+    "token": 6286,
+    "symbol": "GULPOLY-EQ",
+    "name": "GULPOLY"
+  },
+  {
+    "token": 13226,
+    "symbol": "GVKPIL-EQ",
+    "name": "GVKPIL"
+  },
+  {
+    "token": 10865,
+    "symbol": "GVPTECH-EQ",
+    "name": "GVPTECH"
+  },
+  {
+    "token": 2303,
+    "symbol": "HAL-EQ",
+    "name": "HAL"
+  },
+  {
+    "token": 48,
+    "symbol": "HAPPSTMNDS-EQ",
+    "name": "HAPPSTMNDS"
+  },
+  {
+    "token": 20854,
+    "symbol": "HAPPYFORGE-EQ",
+    "name": "HAPPYFORGE"
+  },
+  {
+    "token": 8962,
+    "symbol": "HARDWYN-EQ",
+    "name": "HARDWYN"
+  },
+  {
+    "token": 8968,
+    "symbol": "HARIOMPIPE-EQ",
+    "name": "HARIOMPIPE"
+  },
+  {
+    "token": 1313,
+    "symbol": "HARRMALAYA-EQ",
+    "name": "HARRMALAYA"
+  },
+  {
+    "token": 11162,
+    "symbol": "HARSHA-EQ",
+    "name": "HARSHA"
+  },
+  {
+    "token": 18154,
+    "symbol": "HATHWAY-EQ",
+    "name": "HATHWAY"
+  },
+  {
+    "token": 3892,
+    "symbol": "HATSUN-EQ",
+    "name": "HATSUN"
+  },
+  {
+    "token": 9819,
+    "symbol": "HAVELLS-EQ",
+    "name": "HAVELLS"
+  },
+  {
+    "token": 7457,
+    "symbol": "HAVISHA-EQ",
+    "name": "HAVISHA"
+  },
+  {
+    "token": 13966,
+    "symbol": "HBLPOWER-EQ",
+    "name": "HBLPOWER"
+  },
+  {
+    "token": 4116,
+    "symbol": "HBSL-EQ",
+    "name": "HBSL"
+  },
+  {
+    "token": 1375,
+    "symbol": "HCC-EQ",
+    "name": "HCC"
+  },
+  {
+    "token": 15555,
+    "symbol": "HCG-EQ",
+    "name": "HCG"
+  },
+  {
+    "token": 7229,
+    "symbol": "HCLTECH-EQ",
+    "name": "HCLTECH"
+  },
+  {
+    "token": 4244,
+    "symbol": "HDFCAMC-EQ",
+    "name": "HDFCAMC"
+  },
+  {
+    "token": 1333,
+    "symbol": "HDFCBANK-EQ",
+    "name": "HDFCBANK"
+  },
+  {
+    "token": 14230,
+    "symbol": "HDFCBSE500-EQ",
+    "name": "HDFCBSE500"
+  },
+  {
+    "token": 19543,
+    "symbol": "HDFCGOLD-EQ",
+    "name": "HDFCGOLD"
+  },
+  {
+    "token": 11241,
+    "symbol": "HDFCGROWTH-EQ",
+    "name": "HDFCGROWTH"
+  },
+  {
+    "token": 467,
+    "symbol": "HDFCLIFE-EQ",
+    "name": "HDFCLIFE"
+  },
+  {
+    "token": 18279,
+    "symbol": "HDFCLIQUID-EQ",
+    "name": "HDFCLIQUID"
+  },
+  {
+    "token": 11547,
+    "symbol": "HDFCLOWVOL-EQ",
+    "name": "HDFCLOWVOL"
+  },
+  {
+    "token": 14236,
+    "symbol": "HDFCMID150-EQ",
+    "name": "HDFCMID150"
+  },
+  {
+    "token": 11538,
+    "symbol": "HDFCMOMENT-EQ",
+    "name": "HDFCMOMENT"
+  },
+  {
+    "token": 10619,
+    "symbol": "HDFCNEXT50-EQ",
+    "name": "HDFCNEXT50"
+  },
+  {
+    "token": 10633,
+    "symbol": "HDFCNIF100-EQ",
+    "name": "HDFCNIF100"
+  },
+  {
+    "token": 22433,
+    "symbol": "HDFCNIFBAN-EQ",
+    "name": "HDFCNIFBAN"
+  },
+  {
+    "token": 12101,
+    "symbol": "HDFCNIFIT-EQ",
+    "name": "HDFCNIFIT"
+  },
+  {
+    "token": 11591,
+    "symbol": "HDFCNIFTY-EQ",
+    "name": "HDFCNIFTY"
+  },
+  {
+    "token": 22595,
+    "symbol": "HDFCPSUBK-EQ",
+    "name": "HDFCPSUBK"
+  },
+  {
+    "token": 12108,
+    "symbol": "HDFCPVTBAN-EQ",
+    "name": "HDFCPVTBAN"
+  },
+  {
+    "token": 11255,
+    "symbol": "HDFCQUAL-EQ",
+    "name": "HDFCQUAL"
+  },
+  {
+    "token": 11593,
+    "symbol": "HDFCSENSEX-EQ",
+    "name": "HDFCSENSEX"
+  },
+  {
+    "token": 10876,
+    "symbol": "HDFCSILVER-EQ",
+    "name": "HDFCSILVER"
+  },
+  {
+    "token": 14233,
+    "symbol": "HDFCSML250-EQ",
+    "name": "HDFCSML250"
+  },
+  {
+    "token": 11260,
+    "symbol": "HDFCVALUE-EQ",
+    "name": "HDFCVALUE"
+  },
+  {
+    "token": 22592,
+    "symbol": "HEALTHADD-EQ",
+    "name": "HEALTHADD"
+  },
+  {
+    "token": 3626,
+    "symbol": "HEALTHIETF-EQ",
+    "name": "HEALTHIETF"
+  },
+  {
+    "token": 6297,
+    "symbol": "HEALTHY-EQ",
+    "name": "HEALTHY"
+  },
+  {
+    "token": 7425,
+    "symbol": "HECPROJECT-EQ",
+    "name": "HECPROJECT"
+  },
+  {
+    "token": 1336,
+    "symbol": "HEG-EQ",
+    "name": "HEG"
+  },
+  {
+    "token": 2316,
+    "symbol": "HEIDELBERG-EQ",
+    "name": "HEIDELBERG"
+  },
+  {
+    "token": 701,
+    "symbol": "HEMIPROP-EQ",
+    "name": "HEMIPROP"
+  },
+  {
+    "token": 2614,
+    "symbol": "HERANBA-EQ",
+    "name": "HERANBA"
+  },
+  {
+    "token": 15288,
+    "symbol": "HERCULES-EQ",
+    "name": "HERCULES"
+  },
+  {
+    "token": 4598,
+    "symbol": "HERITGFOOD-EQ",
+    "name": "HERITGFOOD"
+  },
+  {
+    "token": 1348,
+    "symbol": "HEROMOTOCO-EQ",
+    "name": "HEROMOTOCO"
+  },
+  {
+    "token": 7048,
+    "symbol": "HESTERBIO-EQ",
+    "name": "HESTERBIO"
+  },
+  {
+    "token": 715,
+    "symbol": "HEUBACHIND-EQ",
+    "name": "HEUBACHIND"
+  },
+  {
+    "token": 27008,
+    "symbol": "HEXATRADEX-EQ",
+    "name": "HEXATRADEX"
+  },
+  {
+    "token": 21951,
+    "symbol": "HFCL-EQ",
+    "name": "HFCL"
+  },
+  {
+    "token": 1672,
+    "symbol": "HGINFRA-EQ",
+    "name": "HGINFRA"
+  },
+  {
+    "token": 14712,
+    "symbol": "HGS-EQ",
+    "name": "HGS"
+  },
+  {
+    "token": 9668,
+    "symbol": "HIKAL-EQ",
+    "name": "HIKAL"
+  },
+  {
+    "token": 1455,
+    "symbol": "HIL-EQ",
+    "name": "HIL"
+  },
+  {
+    "token": 14627,
+    "symbol": "HILTON-EQ",
+    "name": "HILTON"
+  },
+  {
+    "token": 1360,
+    "symbol": "HIMATSEIDE-EQ",
+    "name": "HIMATSEIDE"
+  },
+  {
+    "token": 1363,
+    "symbol": "HINDALCO-EQ",
+    "name": "HINDALCO"
+  },
+  {
+    "token": 1372,
+    "symbol": "HINDCOMPOS-EQ",
+    "name": "HINDCOMPOS"
+  },
+  {
+    "token": 17939,
+    "symbol": "HINDCOPPER-EQ",
+    "name": "HINDCOPPER"
+  },
+  {
+    "token": 21676,
+    "symbol": "HINDMOTORS-EQ",
+    "name": "HINDMOTORS"
+  },
+  {
+    "token": 1403,
+    "symbol": "HINDOILEXP-EQ",
+    "name": "HINDOILEXP"
+  },
+  {
+    "token": 1406,
+    "symbol": "HINDPETRO-EQ",
+    "name": "HINDPETRO"
+  },
+  {
+    "token": 1394,
+    "symbol": "HINDUNILVR-EQ",
+    "name": "HINDUNILVR"
+  },
+  {
+    "token": 15883,
+    "symbol": "HINDWAREAP-EQ",
+    "name": "HINDWAREAP"
+  },
+  {
+    "token": 1424,
+    "symbol": "HINDZINC-EQ",
+    "name": "HINDZINC"
+  },
+  {
+    "token": 13890,
+    "symbol": "HIRECT-EQ",
+    "name": "HIRECT"
+  },
+  {
+    "token": 19322,
+    "symbol": "HISARMETAL-EQ",
+    "name": "HISARMETAL"
+  },
+  {
+    "token": 2868,
+    "symbol": "HITECH-EQ",
+    "name": "HITECH"
+  },
+  {
+    "token": 15161,
+    "symbol": "HITECHCORP-EQ",
+    "name": "HITECHCORP"
+  },
+  {
+    "token": 2289,
+    "symbol": "HLEGLAS-EQ",
+    "name": "HLEGLAS"
+  },
+  {
+    "token": 17053,
+    "symbol": "HMAAGRO-EQ",
+    "name": "HMAAGRO"
+  },
+  {
+    "token": 19211,
+    "symbol": "HMVL-EQ",
+    "name": "HMVL"
+  },
+  {
+    "token": 12173,
+    "symbol": "HNDFDS-EQ",
+    "name": "HNDFDS"
+  },
+  {
+    "token": 18284,
+    "symbol": "HNGSNGBEES-EQ",
+    "name": "HNGSNGBEES"
+  },
+  {
+    "token": 2056,
+    "symbol": "HOMEFIRST-EQ",
+    "name": "HOMEFIRST"
+  },
+  {
+    "token": 19813,
+    "symbol": "HONASA-EQ",
+    "name": "HONASA"
+  },
+  {
+    "token": 3417,
+    "symbol": "HONAUT-EQ",
+    "name": "HONAUT"
+  },
+  {
+    "token": 3138,
+    "symbol": "HONDAPOWER-EQ",
+    "name": "HONDAPOWER"
+  },
+  {
+    "token": 7376,
+    "symbol": "HPAL-EQ",
+    "name": "HPAL"
+  },
+  {
+    "token": 11796,
+    "symbol": "HPIL-EQ",
+    "name": "HPIL"
+  },
+  {
+    "token": 18679,
+    "symbol": "HPL-EQ",
+    "name": "HPL"
+  },
+  {
+    "token": 14334,
+    "symbol": "HSCL-EQ",
+    "name": "HSCL"
+  },
+  {
+    "token": 11979,
+    "symbol": "HTMEDIA-EQ",
+    "name": "HTMEDIA"
+  },
+  {
+    "token": 14203,
+    "symbol": "HUBTOWN-EQ",
+    "name": "HUBTOWN"
+  },
+  {
+    "token": 20825,
+    "symbol": "HUDCO-EQ",
+    "name": "HUDCO"
+  },
+  {
+    "token": 2562,
+    "symbol": "HUHTAMAKI-EQ",
+    "name": "HUHTAMAKI"
+  },
+  {
+    "token": 12809,
+    "symbol": "HYBRIDFIN-EQ",
+    "name": "HYBRIDFIN"
+  },
+  {
+    "token": 14450,
+    "symbol": "IBREALEST-EQ",
+    "name": "IBREALEST"
+  },
+  {
+    "token": 30125,
+    "symbol": "IBULHSGFIN-EQ",
+    "name": "IBULHSGFIN"
+  },
+  {
+    "token": 489,
+    "symbol": "ICEMAKE-EQ",
+    "name": "ICEMAKE"
+  },
+  {
+    "token": 522,
+    "symbol": "ICICIB22-EQ",
+    "name": "ICICIB22"
+  },
+  {
+    "token": 4963,
+    "symbol": "ICICIBANK-EQ",
+    "name": "ICICIBANK"
+  },
+  {
+    "token": 21770,
+    "symbol": "ICICIGI-EQ",
+    "name": "ICICIGI"
+  },
+  {
+    "token": 18652,
+    "symbol": "ICICIPRULI-EQ",
+    "name": "ICICIPRULI"
+  },
+  {
+    "token": 11987,
+    "symbol": "ICIL-EQ",
+    "name": "ICIL"
+  },
+  {
+    "token": 14523,
+    "symbol": "ICRA-EQ",
+    "name": "ICRA"
+  },
+  {
+    "token": 1476,
+    "symbol": "IDBI-EQ",
+    "name": "IDBI"
+  },
+  {
+    "token": 14366,
+    "symbol": "IDEA-EQ",
+    "name": "IDEA"
+  },
+  {
+    "token": 17140,
+    "symbol": "IDEAFORGE-EQ",
+    "name": "IDEAFORGE"
+  },
+  {
+    "token": 11957,
+    "symbol": "IDFC-EQ",
+    "name": "IDFC"
+  },
+  {
+    "token": 11184,
+    "symbol": "IDFCFIRSTB-EQ",
+    "name": "IDFCFIRSTB"
+  },
+  {
+    "token": 18783,
+    "symbol": "IDFNIFTYET-EQ",
+    "name": "IDFNIFTYET"
+  },
+  {
+    "token": 13303,
+    "symbol": "IEL-EQ",
+    "name": "IEL"
+  },
+  {
+    "token": 220,
+    "symbol": "IEX-EQ",
+    "name": "IEX"
+  },
+  {
+    "token": 1482,
+    "symbol": "IFBAGRO-EQ",
+    "name": "IFBAGRO"
+  },
+  {
+    "token": 1485,
+    "symbol": "IFBIND-EQ",
+    "name": "IFBIND"
+  },
+  {
+    "token": 1491,
+    "symbol": "IFCI-EQ",
+    "name": "IFCI"
+  },
+  {
+    "token": 436,
+    "symbol": "IFGLEXPOR-EQ",
+    "name": "IFGLEXPOR"
+  },
+  {
+    "token": 634,
+    "symbol": "IGARASHI-EQ",
+    "name": "IGARASHI"
+  },
+  {
+    "token": 11262,
+    "symbol": "IGL-EQ",
+    "name": "IGL"
+  },
+  {
+    "token": 14086,
+    "symbol": "IGPL-EQ",
+    "name": "IGPL"
+  },
+  {
+    "token": 11809,
+    "symbol": "IIFL-EQ",
+    "name": "IIFL"
+  },
+  {
+    "token": 13072,
+    "symbol": "IIFLSEC-EQ",
+    "name": "IIFLSEC"
+  },
+  {
+    "token": 19525,
+    "symbol": "IITL-EQ",
+    "name": "IITL"
+  },
+  {
+    "token": 16822,
+    "symbol": "IKIO-EQ",
+    "name": "IKIO"
+  },
+  {
+    "token": 7672,
+    "symbol": "IMAGICAA-EQ",
+    "name": "IMAGICAA"
+  },
+  {
+    "token": 19235,
+    "symbol": "IMFA-EQ",
+    "name": "IMFA"
+  },
+  {
+    "token": 12009,
+    "symbol": "IMPAL-EQ",
+    "name": "IMPAL"
+  },
+  {
+    "token": 17507,
+    "symbol": "INCREDIBLE-EQ",
+    "name": "INCREDIBLE"
+  },
+  {
+    "token": 16933,
+    "symbol": "INDBANK-EQ",
+    "name": "INDBANK"
+  },
+  {
+    "token": 23693,
+    "symbol": "INDGN-EQ",
+    "name": "INDGN"
+  },
+  {
+    "token": 1512,
+    "symbol": "INDHOTEL-EQ",
+    "name": "INDHOTEL"
+  },
+  {
+    "token": 1515,
+    "symbol": "INDIACEM-EQ",
+    "name": "INDIACEM"
+  },
+  {
+    "token": 1521,
+    "symbol": "INDIAGLYCO-EQ",
+    "name": "INDIAGLYCO"
+  },
+  {
+    "token": 10726,
+    "symbol": "INDIAMART-EQ",
+    "name": "INDIAMART"
+  },
+  {
+    "token": 14309,
+    "symbol": "INDIANB-EQ",
+    "name": "INDIANB"
+  },
+  {
+    "token": 4422,
+    "symbol": "INDIANCARD-EQ",
+    "name": "INDIANCARD"
+  },
+  {
+    "token": 1530,
+    "symbol": "INDIANHUME-EQ",
+    "name": "INDIANHUME"
+  },
+  {
+    "token": 20556,
+    "symbol": "INDIASHLTR-EQ",
+    "name": "INDIASHLTR"
+  },
+  {
+    "token": 11195,
+    "symbol": "INDIGO-EQ",
+    "name": "INDIGO"
+  },
+  {
+    "token": 2048,
+    "symbol": "INDIGOPNTS-EQ",
+    "name": "INDIGOPNTS"
+  },
+  {
+    "token": 4747,
+    "symbol": "INDNIPPON-EQ",
+    "name": "INDNIPPON"
+  },
+  {
+    "token": 9116,
+    "symbol": "INDOAMIN-EQ",
+    "name": "INDOAMIN"
+  },
+  {
+    "token": 8614,
+    "symbol": "INDOBORAX-EQ",
+    "name": "INDOBORAX"
+  },
+  {
+    "token": 11677,
+    "symbol": "INDOCO-EQ",
+    "name": "INDOCO"
+  },
+  {
+    "token": 10993,
+    "symbol": "INDORAMA-EQ",
+    "name": "INDORAMA"
+  },
+  {
+    "token": 3088,
+    "symbol": "INDOSTAR-EQ",
+    "name": "INDOSTAR"
+  },
+  {
+    "token": 25608,
+    "symbol": "INDOTHAI-EQ",
+    "name": "INDOTHAI"
+  },
+  {
+    "token": 14952,
+    "symbol": "INDOWIND-EQ",
+    "name": "INDOWIND"
+  },
+  {
+    "token": 4751,
+    "symbol": "INDRAMEDCO-EQ",
+    "name": "INDRAMEDCO"
+  },
+  {
+    "token": 4870,
+    "symbol": "INDSWFTLAB-EQ",
+    "name": "INDSWFTLAB"
+  },
+  {
+    "token": 21957,
+    "symbol": "INDTERRAIN-EQ",
+    "name": "INDTERRAIN"
+  },
+  {
+    "token": 5258,
+    "symbol": "INDUSINDBK-EQ",
+    "name": "INDUSINDBK"
+  },
+  {
+    "token": 29135,
+    "symbol": "INDUSTOWER-EQ",
+    "name": "INDUSTOWER"
+  },
+  {
+    "token": 16249,
+    "symbol": "INFIBEAM-EQ",
+    "name": "INFIBEAM"
+  },
+  {
+    "token": 11027,
+    "symbol": "INFOBEAN-EQ",
+    "name": "INFOBEAN"
+  },
+  {
+    "token": 20072,
+    "symbol": "INFRABEES-EQ",
+    "name": "INFRABEES"
+  },
+  {
+    "token": 10723,
+    "symbol": "INFRAIETF-EQ",
+    "name": "INFRAIETF"
+  },
+  {
+    "token": 1594,
+    "symbol": "INFY-EQ",
+    "name": "INFY"
+  },
+  {
+    "token": 1597,
+    "symbol": "INGERRAND-EQ",
+    "name": "INGERRAND"
+  },
+  {
+    "token": 21062,
+    "symbol": "INNOVACAP-EQ",
+    "name": "INNOVACAP"
+  },
+  {
+    "token": 12188,
+    "symbol": "INOXGREEN-EQ",
+    "name": "INOXGREEN"
+  },
+  {
+    "token": 20607,
+    "symbol": "INOXINDIA-EQ",
+    "name": "INOXINDIA"
+  },
+  {
+    "token": 7852,
+    "symbol": "INOXWIND-EQ",
+    "name": "INOXWIND"
+  },
+  {
+    "token": 14657,
+    "symbol": "INSECTICID-EQ",
+    "name": "INSECTICID"
+  },
+  {
+    "token": 5926,
+    "symbol": "INTELLECT-EQ",
+    "name": "INTELLECT"
+  },
+  {
+    "token": 20071,
+    "symbol": "INTENTECH-EQ",
+    "name": "INTENTECH"
+  },
+  {
+    "token": 5606,
+    "symbol": "INTLCONV-EQ",
+    "name": "INTLCONV"
+  },
+  {
+    "token": 24870,
+    "symbol": "INVENTURE-EQ",
+    "name": "INVENTURE"
+  },
+  {
+    "token": 9348,
+    "symbol": "IOB-EQ",
+    "name": "IOB"
+  },
+  {
+    "token": 1624,
+    "symbol": "IOC-EQ",
+    "name": "IOC"
+  },
+  {
+    "token": 20413,
+    "symbol": "IOLCP-EQ",
+    "name": "IOLCP"
+  },
+  {
+    "token": 1630,
+    "symbol": "IONEXCHANG-EQ",
+    "name": "IONEXCHANG"
+  },
+  {
+    "token": 1633,
+    "symbol": "IPCALAB-EQ",
+    "name": "IPCALAB"
+  },
+  {
+    "token": 4934,
+    "symbol": "IPL-EQ",
+    "name": "IPL"
+  },
+  {
+    "token": 15313,
+    "symbol": "IRB-EQ",
+    "name": "IRB"
+  },
+  {
+    "token": 4986,
+    "symbol": "IRCON-EQ",
+    "name": "IRCON"
+  },
+  {
+    "token": 13611,
+    "symbol": "IRCTC-EQ",
+    "name": "IRCTC"
+  },
+  {
+    "token": 20261,
+    "symbol": "IREDA-EQ",
+    "name": "IREDA"
+  },
+  {
+    "token": 2029,
+    "symbol": "IRFC-EQ",
+    "name": "IRFC"
+  },
+  {
+    "token": 2275,
+    "symbol": "IRISDOREME-EQ",
+    "name": "IRISDOREME"
+  },
+  {
+    "token": 19597,
+    "symbol": "IRMENERGY-EQ",
+    "name": "IRMENERGY"
+  },
+  {
+    "token": 2489,
+    "symbol": "ISEC-EQ",
+    "name": "ISEC"
+  },
+  {
+    "token": 18479,
+    "symbol": "ISFT-EQ",
+    "name": "ISFT"
+  },
+  {
+    "token": 3329,
+    "symbol": "ISGEC-EQ",
+    "name": "ISGEC"
+  },
+  {
+    "token": 14932,
+    "symbol": "ISMTLTD-EQ",
+    "name": "ISMTLTD"
+  },
+  {
+    "token": 2627,
+    "symbol": "IT-EQ",
+    "name": "IT"
+  },
+  {
+    "token": 19084,
+    "symbol": "ITBEES-EQ",
+    "name": "ITBEES"
+  },
+  {
+    "token": 1660,
+    "symbol": "ITC-EQ",
+    "name": "ITC"
+  },
+  {
+    "token": 19299,
+    "symbol": "ITDC-EQ",
+    "name": "ITDC"
+  },
+  {
+    "token": 5622,
+    "symbol": "ITDCEM-EQ",
+    "name": "ITDCEM"
+  },
+  {
+    "token": 19633,
+    "symbol": "ITETF-EQ",
+    "name": "ITETF"
+  },
+  {
+    "token": 17207,
+    "symbol": "ITETFADD-EQ",
+    "name": "ITETFADD"
+  },
+  {
+    "token": 1675,
+    "symbol": "ITI-EQ",
+    "name": "ITI"
+  },
+  {
+    "token": 22365,
+    "symbol": "ITIETF-EQ",
+    "name": "ITIETF"
+  },
+  {
+    "token": 6711,
+    "symbol": "IVC-EQ",
+    "name": "IVC"
+  },
+  {
+    "token": 1681,
+    "symbol": "IVP-EQ",
+    "name": "IVP"
+  },
+  {
+    "token": 18292,
+    "symbol": "IVZINGOLD-EQ",
+    "name": "IVZINGOLD"
+  },
+  {
+    "token": 24217,
+    "symbol": "IVZINNIFTY-EQ",
+    "name": "IVZINNIFTY"
+  },
+  {
+    "token": 14174,
+    "symbol": "IZMO-EQ",
+    "name": "IZMO"
+  },
+  {
+    "token": 5633,
+    "symbol": "J&KBANK-EQ",
+    "name": "J&KBANK"
+  },
+  {
+    "token": 13211,
+    "symbol": "JAGRAN-EQ",
+    "name": "JAGRAN"
+  },
+  {
+    "token": 4410,
+    "symbol": "JAGSNPHARM-EQ",
+    "name": "JAGSNPHARM"
+  },
+  {
+    "token": 5143,
+    "symbol": "JAICORPLTD-EQ",
+    "name": "JAICORPLTD"
+  },
+  {
+    "token": 20778,
+    "symbol": "JAMNAAUTO-EQ",
+    "name": "JAMNAAUTO"
+  },
+  {
+    "token": 13982,
+    "symbol": "JASH-EQ",
+    "name": "JASH"
+  },
+  {
+    "token": 4041,
+    "symbol": "JAYAGROGN-EQ",
+    "name": "JAYAGROGN"
+  },
+  {
+    "token": 1708,
+    "symbol": "JAYBARMARU-EQ",
+    "name": "JAYBARMARU"
+  },
+  {
+    "token": 2331,
+    "symbol": "JAYNECOIND-EQ",
+    "name": "JAYNECOIND"
+  },
+  {
+    "token": 1720,
+    "symbol": "JAYSREETEA-EQ",
+    "name": "JAYSREETEA"
+  },
+  {
+    "token": 1726,
+    "symbol": "JBCHEPHARM-EQ",
+    "name": "JBCHEPHARM"
+  },
+  {
+    "token": 11655,
+    "symbol": "JBMA-EQ",
+    "name": "JBMA"
+  },
+  {
+    "token": 4491,
+    "symbol": "JCHAC-EQ",
+    "name": "JCHAC"
+  },
+  {
+    "token": 7211,
+    "symbol": "JETFREIGHT-EQ",
+    "name": "JETFREIGHT"
+  },
+  {
+    "token": 23056,
+    "symbol": "JGCHEM-EQ",
+    "name": "JGCHEM"
+  },
+  {
+    "token": 11743,
+    "symbol": "JINDALPHOT-EQ",
+    "name": "JINDALPHOT"
+  },
+  {
+    "token": 1756,
+    "symbol": "JINDALPOLY-EQ",
+    "name": "JINDALPOLY"
+  },
+  {
+    "token": 3024,
+    "symbol": "JINDALSAW-EQ",
+    "name": "JINDALSAW"
+  },
+  {
+    "token": 6733,
+    "symbol": "JINDALSTEL-EQ",
+    "name": "JINDALSTEL"
+  },
+  {
+    "token": 13875,
+    "symbol": "JINDRILL-EQ",
+    "name": "JINDRILL"
+  },
+  {
+    "token": 20642,
+    "symbol": "JINDWORLD-EQ",
+    "name": "JINDWORLD"
+  },
+  {
+    "token": 18143,
+    "symbol": "JIOFIN-EQ",
+    "name": "JIOFIN"
+  },
+  {
+    "token": 25684,
+    "symbol": "JISLDVREQS-EQ",
+    "name": "JISLDVREQS"
+  },
+  {
+    "token": 10397,
+    "symbol": "JISLJALEQS-EQ",
+    "name": "JISLJALEQS"
+  },
+  {
+    "token": 13270,
+    "symbol": "JKCEMENT-EQ",
+    "name": "JKCEMENT"
+  },
+  {
+    "token": 15266,
+    "symbol": "JKIL-EQ",
+    "name": "JKIL"
+  },
+  {
+    "token": 13491,
+    "symbol": "JKLAKSHMI-EQ",
+    "name": "JKLAKSHMI"
+  },
+  {
+    "token": 11860,
+    "symbol": "JKPAPER-EQ",
+    "name": "JKPAPER"
+  },
+  {
+    "token": 14435,
+    "symbol": "JKTYRE-EQ",
+    "name": "JKTYRE"
+  },
+  {
+    "token": 18553,
+    "symbol": "JLHL-EQ",
+    "name": "JLHL"
+  },
+  {
+    "token": 7109,
+    "symbol": "JMA-EQ",
+    "name": "JMA"
+  },
+  {
+    "token": 13637,
+    "symbol": "JMFINANCIL-EQ",
+    "name": "JMFINANCIL"
+  },
+  {
+    "token": 23621,
+    "symbol": "JNKINDIA-EQ",
+    "name": "JNKINDIA"
+  },
+  {
+    "token": 16927,
+    "symbol": "JOCIL-EQ",
+    "name": "JOCIL"
+  },
+  {
+    "token": 11460,
+    "symbol": "JPASSOCIAT-EQ",
+    "name": "JPASSOCIAT"
+  },
+  {
+    "token": 31507,
+    "symbol": "JPOLYINVST-EQ",
+    "name": "JPOLYINVST"
+  },
+  {
+    "token": 11763,
+    "symbol": "JPPOWER-EQ",
+    "name": "JPPOWER"
+  },
+  {
+    "token": 22663,
+    "symbol": "JSFB-EQ",
+    "name": "JSFB"
+  },
+  {
+    "token": 11236,
+    "symbol": "JSL-EQ",
+    "name": "JSL"
+  },
+  {
+    "token": 17869,
+    "symbol": "JSWENERGY-EQ",
+    "name": "JSWENERGY"
+  },
+  {
+    "token": 11880,
+    "symbol": "JSWHL-EQ",
+    "name": "JSWHL"
+  },
+  {
+    "token": 19020,
+    "symbol": "JSWINFRA-EQ",
+    "name": "JSWINFRA"
+  },
+  {
+    "token": 11723,
+    "symbol": "JSWSTEEL-EQ",
+    "name": "JSWSTEEL"
+  },
+  {
+    "token": 3237,
+    "symbol": "JTEKTINDIA-EQ",
+    "name": "JTEKTINDIA"
+  },
+  {
+    "token": 7287,
+    "symbol": "JTLIND-EQ",
+    "name": "JTLIND"
+  },
+  {
+    "token": 18096,
+    "symbol": "JUBLFOOD-EQ",
+    "name": "JUBLFOOD"
+  },
+  {
+    "token": 21541,
+    "symbol": "JUBLINDS-EQ",
+    "name": "JUBLINDS"
+  },
+  {
+    "token": 2783,
+    "symbol": "JUBLINGREA-EQ",
+    "name": "JUBLINGREA"
+  },
+  {
+    "token": 3637,
+    "symbol": "JUBLPHARMA-EQ",
+    "name": "JUBLPHARMA"
+  },
+  {
+    "token": 10939,
+    "symbol": "JUNIORBEES-EQ",
+    "name": "JUNIORBEES"
+  },
+  {
+    "token": 22824,
+    "symbol": "JUNIPER-EQ",
+    "name": "JUNIPER"
+  },
+  {
+    "token": 29962,
+    "symbol": "JUSTDIAL-EQ",
+    "name": "JUSTDIAL"
+  },
+  {
+    "token": 20224,
+    "symbol": "JWL-EQ",
+    "name": "JWL"
+  },
+  {
+    "token": 15146,
+    "symbol": "JYOTHYLAB-EQ",
+    "name": "JYOTHYLAB"
+  },
+  {
+    "token": 21334,
+    "symbol": "JYOTICNC-EQ",
+    "name": "JYOTICNC"
+  },
+  {
+    "token": 1805,
+    "symbol": "KABRAEXTRU-EQ",
+    "name": "KABRAEXTRU"
+  },
+  {
+    "token": 1808,
+    "symbol": "KAJARIACER-EQ",
+    "name": "KAJARIACER"
+  },
+  {
+    "token": 1811,
+    "symbol": "KAKATCEM-EQ",
+    "name": "KAKATCEM"
+  },
+  {
+    "token": 18755,
+    "symbol": "KALAMANDIR-EQ",
+    "name": "KALAMANDIR"
+  },
+  {
+    "token": 15156,
+    "symbol": "KALYANIFRG-EQ",
+    "name": "KALYANIFRG"
+  },
+  {
+    "token": 2955,
+    "symbol": "KALYANKJIL-EQ",
+    "name": "KALYANKJIL"
+  },
+  {
+    "token": 1826,
+    "symbol": "KAMATHOTEL-EQ",
+    "name": "KAMATHOTEL"
+  },
+  {
+    "token": 13457,
+    "symbol": "KAMDHENU-EQ",
+    "name": "KAMDHENU"
+  },
+  {
+    "token": 13814,
+    "symbol": "KAMOPAINTS-EQ",
+    "name": "KAMOPAINTS"
+  },
+  {
+    "token": 25786,
+    "symbol": "KANANIIND-EQ",
+    "name": "KANANIIND"
+  },
+  {
+    "token": 1835,
+    "symbol": "KANORICHEM-EQ",
+    "name": "KANORICHEM"
+  },
+  {
+    "token": 1782,
+    "symbol": "KANPRPLA-EQ",
+    "name": "KANPRPLA"
+  },
+  {
+    "token": 1196,
+    "symbol": "KANSAINER-EQ",
+    "name": "KANSAINER"
+  },
+  {
+    "token": 18967,
+    "symbol": "KAPSTON-EQ",
+    "name": "KAPSTON"
+  },
+  {
+    "token": 1838,
+    "symbol": "KARURVYSYA-EQ",
+    "name": "KARURVYSYA"
+  },
+  {
+    "token": 15136,
+    "symbol": "KAUSHALYA-EQ",
+    "name": "KAUSHALYA"
+  },
+  {
+    "token": 10276,
+    "symbol": "KAYA-EQ",
+    "name": "KAYA"
+  },
+  {
+    "token": 12092,
+    "symbol": "KAYNES-EQ",
+    "name": "KAYNES"
+  },
+  {
+    "token": 2354,
+    "symbol": "KBCGLOBAL-EQ",
+    "name": "KBCGLOBAL"
+  },
+  {
+    "token": 1841,
+    "symbol": "KCP-EQ",
+    "name": "KCP"
+  },
+  {
+    "token": 4809,
+    "symbol": "KCPSUGIND-EQ",
+    "name": "KCPSUGIND"
+  },
+  {
+    "token": 14908,
+    "symbol": "KDDL-EQ",
+    "name": "KDDL"
+  },
+  {
+    "token": 13260,
+    "symbol": "KEC-EQ",
+    "name": "KEC"
+  },
+  {
+    "token": 18220,
+    "symbol": "KECL-EQ",
+    "name": "KECL"
+  },
+  {
+    "token": 13310,
+    "symbol": "KEI-EQ",
+    "name": "KEI"
+  },
+  {
+    "token": 13430,
+    "symbol": "KELLTONTEC-EQ",
+    "name": "KELLTONTEC"
+  },
+  {
+    "token": 13121,
+    "symbol": "KERNEX-EQ",
+    "name": "KERNEX"
+  },
+  {
+    "token": 1859,
+    "symbol": "KESORAMIND-EQ",
+    "name": "KESORAMIND"
+  },
+  {
+    "token": 13359,
+    "symbol": "KFINTECH-EQ",
+    "name": "KFINTECH"
+  },
+  {
+    "token": 425,
+    "symbol": "KHADIM-EQ",
+    "name": "KHADIM"
+  },
+  {
+    "token": 896,
+    "symbol": "KHAICHEM-EQ",
+    "name": "KHAICHEM"
+  },
+  {
+    "token": 3912,
+    "symbol": "KHAITANLTD-EQ",
+    "name": "KHAITANLTD"
+  },
+  {
+    "token": 9641,
+    "symbol": "KHANDSE-EQ",
+    "name": "KHANDSE"
+  },
+  {
+    "token": 21119,
+    "symbol": "KICL-EQ",
+    "name": "KICL"
+  },
+  {
+    "token": 19937,
+    "symbol": "KILITCH-EQ",
+    "name": "KILITCH"
+  },
+  {
+    "token": 4847,
+    "symbol": "KIMS-EQ",
+    "name": "KIMS"
+  },
+  {
+    "token": 18944,
+    "symbol": "KINGFA-EQ",
+    "name": "KINGFA"
+  },
+  {
+    "token": 19126,
+    "symbol": "KIOCL-EQ",
+    "name": "KIOCL"
+  },
+  {
+    "token": 16639,
+    "symbol": "KIRIINDUS-EQ",
+    "name": "KIRIINDUS"
+  },
+  {
+    "token": 18581,
+    "symbol": "KIRLOSBROS-EQ",
+    "name": "KIRLOSBROS"
+  },
+  {
+    "token": 20936,
+    "symbol": "KIRLOSENG-EQ",
+    "name": "KIRLOSENG"
+  },
+  {
+    "token": 19025,
+    "symbol": "KIRLOSIND-EQ",
+    "name": "KIRLOSIND"
+  },
+  {
+    "token": 15180,
+    "symbol": "KIRLPNU-EQ",
+    "name": "KIRLPNU"
+  },
+  {
+    "token": 28899,
+    "symbol": "KITEX-EQ",
+    "name": "KITEX"
+  },
+  {
+    "token": 13381,
+    "symbol": "KKCL-EQ",
+    "name": "KKCL"
+  },
+  {
+    "token": 14667,
+    "symbol": "KMSUGAR-EQ",
+    "name": "KMSUGAR"
+  },
+  {
+    "token": 15283,
+    "symbol": "KNRCON-EQ",
+    "name": "KNRCON"
+  },
+  {
+    "token": 3009,
+    "symbol": "KOHINOOR-EQ",
+    "name": "KOHINOOR"
+  },
+  {
+    "token": 16827,
+    "symbol": "KOKUYOCMLN-EQ",
+    "name": "KOKUYOCMLN"
+  },
+  {
+    "token": 15124,
+    "symbol": "KOLTEPATIL-EQ",
+    "name": "KOLTEPATIL"
+  },
+  {
+    "token": 1919,
+    "symbol": "KOPRAN-EQ",
+    "name": "KOPRAN"
+  },
+  {
+    "token": 1922,
+    "symbol": "KOTAKBANK-EQ",
+    "name": "KOTAKBANK"
+  },
+  {
+    "token": 11647,
+    "symbol": "KOTARISUG-EQ",
+    "name": "KOTARISUG"
+  },
+  {
+    "token": 4594,
+    "symbol": "KOTHARIPET-EQ",
+    "name": "KOTHARIPET"
+  },
+  {
+    "token": 5528,
+    "symbol": "KOTHARIPRO-EQ",
+    "name": "KOTHARIPRO"
+  },
+  {
+    "token": 5108,
+    "symbol": "KPIGREEN-EQ",
+    "name": "KPIGREEN"
+  },
+  {
+    "token": 1814,
+    "symbol": "KPIL-EQ",
+    "name": "KPIL"
+  },
+  {
+    "token": 9683,
+    "symbol": "KPITTECH-EQ",
+    "name": "KPITTECH"
+  },
+  {
+    "token": 14912,
+    "symbol": "KPRMILL-EQ",
+    "name": "KPRMILL"
+  },
+  {
+    "token": 10577,
+    "symbol": "KRBL-EQ",
+    "name": "KRBL"
+  },
+  {
+    "token": 1937,
+    "symbol": "KREBSBIO-EQ",
+    "name": "KREBSBIO"
+  },
+  {
+    "token": 12847,
+    "symbol": "KRISHANA-EQ",
+    "name": "KRISHANA"
+  },
+  {
+    "token": 6417,
+    "symbol": "KRITI-EQ",
+    "name": "KRITI"
+  },
+  {
+    "token": 11432,
+    "symbol": "KRITINUT-EQ",
+    "name": "KRITINUT"
+  },
+  {
+    "token": 5359,
+    "symbol": "KRSNAA-EQ",
+    "name": "KRSNAA"
+  },
+  {
+    "token": 23175,
+    "symbol": "KRYSTAL-EQ",
+    "name": "KRYSTAL"
+  },
+  {
+    "token": 1949,
+    "symbol": "KSB-EQ",
+    "name": "KSB"
+  },
+  {
+    "token": 14972,
+    "symbol": "KSCL-EQ",
+    "name": "KSCL"
+  },
+  {
+    "token": 10407,
+    "symbol": "KSHITIJPOL-EQ",
+    "name": "KSHITIJPOL"
+  },
+  {
+    "token": 18889,
+    "symbol": "KSL-EQ",
+    "name": "KSL"
+  },
+  {
+    "token": 11060,
+    "symbol": "KSOLVES-EQ",
+    "name": "KSOLVES"
+  },
+  {
+    "token": 8054,
+    "symbol": "KTKBANK-EQ",
+    "name": "KTKBANK"
+  },
+  {
+    "token": 13870,
+    "symbol": "KUANTUM-EQ",
+    "name": "KUANTUM"
+  },
+  {
+    "token": 14924,
+    "symbol": "LAL-EQ",
+    "name": "LAL"
+  },
+  {
+    "token": 11654,
+    "symbol": "LALPATHLAB-EQ",
+    "name": "LALPATHLAB"
+  },
+  {
+    "token": 6407,
+    "symbol": "LAMBODHARA-EQ",
+    "name": "LAMBODHARA"
+  },
+  {
+    "token": 23027,
+    "symbol": "LANCORHOL-EQ",
+    "name": "LANCORHOL"
+  },
+  {
+    "token": 13276,
+    "symbol": "LANDMARK-EQ",
+    "name": "LANDMARK"
+  },
+  {
+    "token": 14423,
+    "symbol": "LAOPALA-EQ",
+    "name": "LAOPALA"
+  },
+  {
+    "token": 21713,
+    "symbol": "LASA-EQ",
+    "name": "LASA"
+  },
+  {
+    "token": 19234,
+    "symbol": "LAURUSLABS-EQ",
+    "name": "LAURUSLABS"
+  },
+  {
+    "token": 6568,
+    "symbol": "LAXMICOT-EQ",
+    "name": "LAXMICOT"
+  },
+  {
+    "token": 1979,
+    "symbol": "LAXMIMACH-EQ",
+    "name": "LAXMIMACH"
+  },
+  {
+    "token": 2606,
+    "symbol": "LEMONTREE-EQ",
+    "name": "LEMONTREE"
+  },
+  {
+    "token": 14459,
+    "symbol": "LEXUS-EQ",
+    "name": "LEXUS"
+  },
+  {
+    "token": 7902,
+    "symbol": "LFIC-EQ",
+    "name": "LFIC"
+  },
+  {
+    "token": 18321,
+    "symbol": "LGBBROSLTD-EQ",
+    "name": "LGBBROSLTD"
+  },
+  {
+    "token": 16845,
+    "symbol": "LGBFORGE-EQ",
+    "name": "LGBFORGE"
+  },
+  {
+    "token": 11082,
+    "symbol": "LIBAS-EQ",
+    "name": "LIBAS"
+  },
+  {
+    "token": 1994,
+    "symbol": "LIBERTSHOE-EQ",
+    "name": "LIBERTSHOE"
+  },
+  {
+    "token": 1997,
+    "symbol": "LICHSGFIN-EQ",
+    "name": "LICHSGFIN"
+  },
+  {
+    "token": 9480,
+    "symbol": "LICI-EQ",
+    "name": "LICI"
+  },
+  {
+    "token": 25640,
+    "symbol": "LICMFGOLD-EQ",
+    "name": "LICMFGOLD"
+  },
+  {
+    "token": 6062,
+    "symbol": "LICNETFGSC-EQ",
+    "name": "LICNETFGSC"
+  },
+  {
+    "token": 11319,
+    "symbol": "LICNETFN50-EQ",
+    "name": "LICNETFN50"
+  },
+  {
+    "token": 11441,
+    "symbol": "LICNETFSEN-EQ",
+    "name": "LICNETFSEN"
+  },
+  {
+    "token": 15229,
+    "symbol": "LICNFNHGP-EQ",
+    "name": "LICNFNHGP"
+  },
+  {
+    "token": 22722,
+    "symbol": "LICNMID100-EQ",
+    "name": "LICNMID100"
+  },
+  {
+    "token": 578,
+    "symbol": "LIKHITHA-EQ",
+    "name": "LIKHITHA"
+  },
+  {
+    "token": 6951,
+    "symbol": "LINC-EQ",
+    "name": "LINC"
+  },
+  {
+    "token": 11596,
+    "symbol": "LINCOLN-EQ",
+    "name": "LINCOLN"
+  },
+  {
+    "token": 1627,
+    "symbol": "LINDEINDIA-EQ",
+    "name": "LINDEINDIA"
+  },
+  {
+    "token": 17572,
+    "symbol": "LIQUID-EQ",
+    "name": "LIQUID"
+  },
+  {
+    "token": 13950,
+    "symbol": "LIQUID1-EQ",
+    "name": "LIQUID1"
+  },
+  {
+    "token": 23407,
+    "symbol": "LIQUIDADD-EQ",
+    "name": "LIQUIDADD"
+  },
+  {
+    "token": 11006,
+    "symbol": "LIQUIDBEES-EQ",
+    "name": "LIQUIDBEES"
+  },
+  {
+    "token": 23915,
+    "symbol": "LIQUIDBETF-EQ",
+    "name": "LIQUIDBETF"
+  },
+  {
+    "token": 21750,
+    "symbol": "LIQUIDCASE-EQ",
+    "name": "LIQUIDCASE"
+  },
+  {
+    "token": 1927,
+    "symbol": "LIQUIDETF-EQ",
+    "name": "LIQUIDETF"
+  },
+  {
+    "token": 4838,
+    "symbol": "LIQUIDIETF-EQ",
+    "name": "LIQUIDIETF"
+  },
+  {
+    "token": 19705,
+    "symbol": "LIQUIDSBI-EQ",
+    "name": "LIQUIDSBI"
+  },
+  {
+    "token": 17801,
+    "symbol": "LLOYDSENGG-EQ",
+    "name": "LLOYDSENGG"
+  },
+  {
+    "token": 17313,
+    "symbol": "LLOYDSME-EQ",
+    "name": "LLOYDSME"
+  },
+  {
+    "token": 3220,
+    "symbol": "LODHA-EQ",
+    "name": "LODHA"
+  },
+  {
+    "token": 22415,
+    "symbol": "LOVABLE-EQ",
+    "name": "LOVABLE"
+  },
+  {
+    "token": 14786,
+    "symbol": "LOWVOL-EQ",
+    "name": "LOWVOL"
+  },
+  {
+    "token": 8632,
+    "symbol": "LOWVOL1-EQ",
+    "name": "LOWVOL1"
+  },
+  {
+    "token": 21254,
+    "symbol": "LOWVOLIETF-EQ",
+    "name": "LOWVOLIETF"
+  },
+  {
+    "token": 10590,
+    "symbol": "LOYALTEX-EQ",
+    "name": "LOYALTEX"
+  },
+  {
+    "token": 16863,
+    "symbol": "LPDC-EQ",
+    "name": "LPDC"
+  },
+  {
+    "token": 11483,
+    "symbol": "LT-EQ",
+    "name": "LT"
+  },
+  {
+    "token": 24948,
+    "symbol": "LTF-EQ",
+    "name": "LTF"
+  },
+  {
+    "token": 13816,
+    "symbol": "LTFOODS-EQ",
+    "name": "LTFOODS"
+  },
+  {
+    "token": 17700,
+    "symbol": "LTGILTBEES-EQ",
+    "name": "LTGILTBEES"
+  },
+  {
+    "token": 17818,
+    "symbol": "LTIM-EQ",
+    "name": "LTIM"
+  },
+  {
+    "token": 18564,
+    "symbol": "LTTS-EQ",
+    "name": "LTTS"
+  },
+  {
+    "token": 2018,
+    "symbol": "LUMAXIND-EQ",
+    "name": "LUMAXIND"
+  },
+  {
+    "token": 14014,
+    "symbol": "LUMAXTECH-EQ",
+    "name": "LUMAXTECH"
+  },
+  {
+    "token": 10440,
+    "symbol": "LUPIN-EQ",
+    "name": "LUPIN"
+  },
+  {
+    "token": 11301,
+    "symbol": "LUXIND-EQ",
+    "name": "LUXIND"
+  },
+  {
+    "token": 2841,
+    "symbol": "LXCHEM-EQ",
+    "name": "LXCHEM"
+  },
+  {
+    "token": 2028,
+    "symbol": "LYKALABS-EQ",
+    "name": "LYKALABS"
+  },
+  {
+    "token": 31468,
+    "symbol": "LYPSAGEMS-EQ",
+    "name": "LYPSAGEMS"
+  },
+  {
+    "token": 2031,
+    "symbol": "M&M-EQ",
+    "name": "M&M"
+  },
+  {
+    "token": 13285,
+    "symbol": "M&MFIN-EQ",
+    "name": "M&MFIN"
+  },
+  {
+    "token": 15017,
+    "symbol": "MAANALU-EQ",
+    "name": "MAANALU"
+  },
+  {
+    "token": 4911,
+    "symbol": "MADRASFERT-EQ",
+    "name": "MADRASFERT"
+  },
+  {
+    "token": 3507,
+    "symbol": "MAFANG-EQ",
+    "name": "MAFANG"
+  },
+  {
+    "token": 21392,
+    "symbol": "MAGADSUGAR-EQ",
+    "name": "MAGADSUGAR"
+  },
+  {
+    "token": 14957,
+    "symbol": "MAGNUM-EQ",
+    "name": "MAGNUM"
+  },
+  {
+    "token": 11377,
+    "symbol": "MAHABANK-EQ",
+    "name": "MAHABANK"
+  },
+  {
+    "token": 5239,
+    "symbol": "MAHAPEXLTD-EQ",
+    "name": "MAHAPEXLTD"
+  },
+  {
+    "token": 17527,
+    "symbol": "MAHASTEEL-EQ",
+    "name": "MAHASTEEL"
+  },
+  {
+    "token": 17603,
+    "symbol": "MAHEPC-EQ",
+    "name": "MAHEPC"
+  },
+  {
+    "token": 9576,
+    "symbol": "MAHESHWARI-EQ",
+    "name": "MAHESHWARI"
+  },
+  {
+    "token": 7074,
+    "symbol": "MAHKTECH-EQ",
+    "name": "MAHKTECH"
+  },
+  {
+    "token": 8050,
+    "symbol": "MAHLIFE-EQ",
+    "name": "MAHLIFE"
+  },
+  {
+    "token": 385,
+    "symbol": "MAHLOG-EQ",
+    "name": "MAHLOG"
+  },
+  {
+    "token": 2085,
+    "symbol": "MAHSCOOTER-EQ",
+    "name": "MAHSCOOTER"
+  },
+  {
+    "token": 2088,
+    "symbol": "MAHSEAMLES-EQ",
+    "name": "MAHSEAMLES"
+  },
+  {
+    "token": 24538,
+    "symbol": "MAITHANALL-EQ",
+    "name": "MAITHANALL"
+  },
+  {
+    "token": 7979,
+    "symbol": "MAKEINDIA-EQ",
+    "name": "MAKEINDIA"
+  },
+  {
+    "token": 7965,
+    "symbol": "MALLCOM-EQ",
+    "name": "MALLCOM"
+  },
+  {
+    "token": 7420,
+    "symbol": "MANAKALUCO-EQ",
+    "name": "MANAKALUCO"
+  },
+  {
+    "token": 15199,
+    "symbol": "MANAKSIA-EQ",
+    "name": "MANAKSIA"
+  },
+  {
+    "token": 13796,
+    "symbol": "MANALIPETC-EQ",
+    "name": "MANALIPETC"
+  },
+  {
+    "token": 19061,
+    "symbol": "MANAPPURAM-EQ",
+    "name": "MANAPPURAM"
+  },
+  {
+    "token": 11817,
+    "symbol": "MANGALAM-EQ",
+    "name": "MANGALAM"
+  },
+  {
+    "token": 15007,
+    "symbol": "MANGCHEFER-EQ",
+    "name": "MANGCHEFER"
+  },
+  {
+    "token": 2106,
+    "symbol": "MANGLMCEM-EQ",
+    "name": "MANGLMCEM"
+  },
+  {
+    "token": 11884,
+    "symbol": "MANINDS-EQ",
+    "name": "MANINDS"
+  },
+  {
+    "token": 18226,
+    "symbol": "MANINFRA-EQ",
+    "name": "MANINFRA"
+  },
+  {
+    "token": 15380,
+    "symbol": "MANKIND-EQ",
+    "name": "MANKIND"
+  },
+  {
+    "token": 13753,
+    "symbol": "MANOMAY-EQ",
+    "name": "MANOMAY"
+  },
+  {
+    "token": 13572,
+    "symbol": "MANUGRAPH-EQ",
+    "name": "MANUGRAPH"
+  },
+  {
+    "token": 8167,
+    "symbol": "MANYAVAR-EQ",
+    "name": "MANYAVAR"
+  },
+  {
+    "token": 7227,
+    "symbol": "MAPMYINDIA-EQ",
+    "name": "MAPMYINDIA"
+  },
+  {
+    "token": 2112,
+    "symbol": "MARALOVER-EQ",
+    "name": "MARALOVER"
+  },
+  {
+    "token": 18659,
+    "symbol": "MARATHON-EQ",
+    "name": "MARATHON"
+  },
+  {
+    "token": 4067,
+    "symbol": "MARICO-EQ",
+    "name": "MARICO"
+  },
+  {
+    "token": 1328,
+    "symbol": "MARINE-EQ",
+    "name": "MARINE"
+  },
+  {
+    "token": 10579,
+    "symbol": "MARKSANS-EQ",
+    "name": "MARKSANS"
+  },
+  {
+    "token": 10999,
+    "symbol": "MARUTI-EQ",
+    "name": "MARUTI"
+  },
+  {
+    "token": 199,
+    "symbol": "MASFIN-EQ",
+    "name": "MASFIN"
+  },
+  {
+    "token": 5782,
+    "symbol": "MASPTOP50-EQ",
+    "name": "MASPTOP50"
+  },
+  {
+    "token": 2124,
+    "symbol": "MASTEK-EQ",
+    "name": "MASTEK"
+  },
+  {
+    "token": 21726,
+    "symbol": "MATRIMONY-EQ",
+    "name": "MATRIMONY"
+  },
+  {
+    "token": 17022,
+    "symbol": "MAWANASUG-EQ",
+    "name": "MAWANASUG"
+  },
+  {
+    "token": 19646,
+    "symbol": "MAXESTATES-EQ",
+    "name": "MAXESTATES"
+  },
+  {
+    "token": 22377,
+    "symbol": "MAXHEALTH-EQ",
+    "name": "MAXHEALTH"
+  },
+  {
+    "token": 22428,
+    "symbol": "MAXIND-EQ",
+    "name": "MAXIND"
+  },
+  {
+    "token": 28906,
+    "symbol": "MAYURUNIQ-EQ",
+    "name": "MAYURUNIQ"
+  },
+  {
+    "token": 18866,
+    "symbol": "MAZDA-EQ",
+    "name": "MAZDA"
+  },
+  {
+    "token": 509,
+    "symbol": "MAZDOCK-EQ",
+    "name": "MAZDOCK"
+  },
+  {
+    "token": 12686,
+    "symbol": "MBAPL-EQ",
+    "name": "MBAPL"
+  },
+  {
+    "token": 18029,
+    "symbol": "MBLINFRA-EQ",
+    "name": "MBLINFRA"
+  },
+  {
+    "token": 10447,
+    "symbol": "MCDOWELL-N-EQ",
+    "name": "MCDOWELL-N"
+  },
+  {
+    "token": 22360,
+    "symbol": "MCL-EQ",
+    "name": "MCL"
+  },
+  {
+    "token": 11943,
+    "symbol": "MCLEODRUSS-EQ",
+    "name": "MCLEODRUSS"
+  },
+  {
+    "token": 31181,
+    "symbol": "MCX-EQ",
+    "name": "MCX"
+  },
+  {
+    "token": 11956,
+    "symbol": "MEDANTA-EQ",
+    "name": "MEDANTA"
+  },
+  {
+    "token": 21705,
+    "symbol": "MEDIASSIST-EQ",
+    "name": "MEDIASSIST"
+  },
+  {
+    "token": 6278,
+    "symbol": "MEDICAMEQ-EQ",
+    "name": "MEDICAMEQ"
+  },
+  {
+    "token": 7254,
+    "symbol": "MEDPLUS-EQ",
+    "name": "MEDPLUS"
+  },
+  {
+    "token": 14793,
+    "symbol": "MEGASOFT-EQ",
+    "name": "MEGASOFT"
+  },
+  {
+    "token": 8153,
+    "symbol": "MEGASTAR-EQ",
+    "name": "MEGASTAR"
+  },
+  {
+    "token": 6961,
+    "symbol": "MENONBE-EQ",
+    "name": "MENONBE"
+  },
+  {
+    "token": 7242,
+    "symbol": "METROBRAND-EQ",
+    "name": "METROBRAND"
+  },
+  {
+    "token": 9581,
+    "symbol": "METROPOLIS-EQ",
+    "name": "METROPOLIS"
+  },
+  {
+    "token": 2142,
+    "symbol": "MFSL-EQ",
+    "name": "MFSL"
+  },
+  {
+    "token": 1593,
+    "symbol": "MGEL-EQ",
+    "name": "MGEL"
+  },
+  {
+    "token": 17534,
+    "symbol": "MGL-EQ",
+    "name": "MGL"
+  },
+  {
+    "token": 7886,
+    "symbol": "MHLXMIRU-EQ",
+    "name": "MHLXMIRU"
+  },
+  {
+    "token": 17333,
+    "symbol": "MHRIL-EQ",
+    "name": "MHRIL"
+  },
+  {
+    "token": 7169,
+    "symbol": "MICEL-EQ",
+    "name": "MICEL"
+  },
+  {
+    "token": 8506,
+    "symbol": "MID150BEES-EQ",
+    "name": "MID150BEES"
+  },
+  {
+    "token": 8077,
+    "symbol": "MIDCAP-EQ",
+    "name": "MIDCAP"
+  },
+  {
+    "token": 8413,
+    "symbol": "MIDCAPETF-EQ",
+    "name": "MIDCAPETF"
+  },
+  {
+    "token": 17152,
+    "symbol": "MIDCAPIETF-EQ",
+    "name": "MIDCAPIETF"
+  },
+  {
+    "token": 2463,
+    "symbol": "MIDHANI-EQ",
+    "name": "MIDHANI"
+  },
+  {
+    "token": 7456,
+    "symbol": "MIDQ50ADD-EQ",
+    "name": "MIDQ50ADD"
+  },
+  {
+    "token": 17702,
+    "symbol": "MIDSELIETF-EQ",
+    "name": "MIDSELIETF"
+  },
+  {
+    "token": 23855,
+    "symbol": "MIDSMALL-EQ",
+    "name": "MIDSMALL"
+  },
+  {
+    "token": 25897,
+    "symbol": "MINDACORP-EQ",
+    "name": "MINDACORP"
+  },
+  {
+    "token": 18049,
+    "symbol": "MINDTECK-EQ",
+    "name": "MINDTECK"
+  },
+  {
+    "token": 2202,
+    "symbol": "MIRCELECTR-EQ",
+    "name": "MIRCELECTR"
+  },
+  {
+    "token": 4394,
+    "symbol": "MIRZAINT-EQ",
+    "name": "MIRZAINT"
+  },
+  {
+    "token": 8469,
+    "symbol": "MITCON-EQ",
+    "name": "MITCON"
+  },
+  {
+    "token": 18562,
+    "symbol": "MITTAL-EQ",
+    "name": "MITTAL"
+  },
+  {
+    "token": 13844,
+    "symbol": "MMFL-EQ",
+    "name": "MMFL"
+  },
+  {
+    "token": 16395,
+    "symbol": "MMP-EQ",
+    "name": "MMP"
+  },
+  {
+    "token": 17957,
+    "symbol": "MMTC-EQ",
+    "name": "MMTC"
+  },
+  {
+    "token": 10676,
+    "symbol": "MNC-EQ",
+    "name": "MNC"
+  },
+  {
+    "token": 1507,
+    "symbol": "MOGSEC-EQ",
+    "name": "MOGSEC"
+  },
+  {
+    "token": 10508,
+    "symbol": "MOHEALTH-EQ",
+    "name": "MOHEALTH"
+  },
+  {
+    "token": 29423,
+    "symbol": "MOHITIND-EQ",
+    "name": "MOHITIND"
+  },
+  {
+    "token": 20830,
+    "symbol": "MOIL-EQ",
+    "name": "MOIL"
+  },
+  {
+    "token": 5394,
+    "symbol": "MOL-EQ",
+    "name": "MOL"
+  },
+  {
+    "token": 17625,
+    "symbol": "MOLDTECH-EQ",
+    "name": "MOLDTECH"
+  },
+  {
+    "token": 6713,
+    "symbol": "MOLDTKPAC-EQ",
+    "name": "MOLDTKPAC"
+  },
+  {
+    "token": 8654,
+    "symbol": "MOLOWVOL-EQ",
+    "name": "MOLOWVOL"
+  },
+  {
+    "token": 21423,
+    "symbol": "MOM100-EQ",
+    "name": "MOM100"
+  },
+  {
+    "token": 10585,
+    "symbol": "MOM30IETF-EQ",
+    "name": "MOM30IETF"
+  },
+  {
+    "token": 19289,
+    "symbol": "MOM50-EQ",
+    "name": "MOM50"
+  },
+  {
+    "token": 10693,
+    "symbol": "MOMENTUM-EQ",
+    "name": "MOMENTUM"
+  },
+  {
+    "token": 8182,
+    "symbol": "MOMOMENTUM-EQ",
+    "name": "MOMOMENTUM"
+  },
+  {
+    "token": 22739,
+    "symbol": "MON100-EQ",
+    "name": "MON100"
+  },
+  {
+    "token": 7679,
+    "symbol": "MONARCH-EQ",
+    "name": "MONARCH"
+  },
+  {
+    "token": 19237,
+    "symbol": "MONIFTY500-EQ",
+    "name": "MONIFTY500"
+  },
+  {
+    "token": 7422,
+    "symbol": "MONQ50-EQ",
+    "name": "MONQ50"
+  },
+  {
+    "token": 5938,
+    "symbol": "MONTECARLO-EQ",
+    "name": "MONTECARLO"
+  },
+  {
+    "token": 10822,
+    "symbol": "MOQUALITY-EQ",
+    "name": "MOQUALITY"
+  },
+  {
+    "token": 23184,
+    "symbol": "MOREALTY-EQ",
+    "name": "MOREALTY"
+  },
+  {
+    "token": 2259,
+    "symbol": "MOREPENLAB-EQ",
+    "name": "MOREPENLAB"
+  },
+  {
+    "token": 23181,
+    "symbol": "MOSMALL250-EQ",
+    "name": "MOSMALL250"
+  },
+  {
+    "token": 4204,
+    "symbol": "MOTHERSON-EQ",
+    "name": "MOTHERSON"
+  },
+  {
+    "token": 14947,
+    "symbol": "MOTILALOFS-EQ",
+    "name": "MOTILALOFS"
+  },
+  {
+    "token": 20788,
+    "symbol": "MOTISONS-EQ",
+    "name": "MOTISONS"
+  },
+  {
+    "token": 2268,
+    "symbol": "MOTOGENFIN-EQ",
+    "name": "MOTOGENFIN"
+  },
+  {
+    "token": 10825,
+    "symbol": "MOVALUE-EQ",
+    "name": "MOVALUE"
+  },
+  {
+    "token": 4503,
+    "symbol": "MPHASIS-EQ",
+    "name": "MPHASIS"
+  },
+  {
+    "token": 10578,
+    "symbol": "MPSLTD-EQ",
+    "name": "MPSLTD"
+  },
+  {
+    "token": 2277,
+    "symbol": "MRF-EQ",
+    "name": "MRF"
+  },
+  {
+    "token": 2283,
+    "symbol": "MRPL-EQ",
+    "name": "MRPL"
+  },
+  {
+    "token": 11919,
+    "symbol": "MSPL-EQ",
+    "name": "MSPL"
+  },
+  {
+    "token": 9356,
+    "symbol": "MSTCLTD-EQ",
+    "name": "MSTCLTD"
+  },
+  {
+    "token": 8596,
+    "symbol": "MSUMI-EQ",
+    "name": "MSUMI"
+  },
+  {
+    "token": 2709,
+    "symbol": "MTARTECH-EQ",
+    "name": "MTARTECH"
+  },
+  {
+    "token": 2294,
+    "symbol": "MTNL-EQ",
+    "name": "MTNL"
+  },
+  {
+    "token": 19783,
+    "symbol": "MUFIN-EQ",
+    "name": "MUFIN"
+  },
+  {
+    "token": 20878,
+    "symbol": "MUFTI-EQ",
+    "name": "MUFTI"
+  },
+  {
+    "token": 11325,
+    "symbol": "MUKANDLTD-EQ",
+    "name": "MUKANDLTD"
+  },
+  {
+    "token": 22980,
+    "symbol": "MUKKA-EQ",
+    "name": "MUKKA"
+  },
+  {
+    "token": 8687,
+    "symbol": "MUKTAARTS-EQ",
+    "name": "MUKTAARTS"
+  },
+  {
+    "token": 13511,
+    "symbol": "MUNJALAU-EQ",
+    "name": "MUNJALAU"
+  },
+  {
+    "token": 2307,
+    "symbol": "MUNJALSHOW-EQ",
+    "name": "MUNJALSHOW"
+  },
+  {
+    "token": 2313,
+    "symbol": "MURUDCERA-EQ",
+    "name": "MURUDCERA"
+  },
+  {
+    "token": 10415,
+    "symbol": "MUTHOOTCAP-EQ",
+    "name": "MUTHOOTCAP"
+  },
+  {
+    "token": 23650,
+    "symbol": "MUTHOOTFIN-EQ",
+    "name": "MUTHOOTFIN"
+  },
+  {
+    "token": 20831,
+    "symbol": "MUTHOOTMF-EQ",
+    "name": "MUTHOOTMF"
+  },
+  {
+    "token": 19015,
+    "symbol": "MVGJL-EQ",
+    "name": "MVGJL"
+  },
+  {
+    "token": 12848,
+    "symbol": "N1NSETEST-EQ",
+    "name": "N1NSETEST"
+  },
+  {
+    "token": 20425,
+    "symbol": "NACLIND-EQ",
+    "name": "NACLIND"
+  },
+  {
+    "token": 17295,
+    "symbol": "NAGAFERT-EQ",
+    "name": "NAGAFERT"
+  },
+  {
+    "token": 14942,
+    "symbol": "NAGREEKCAP-EQ",
+    "name": "NAGREEKCAP"
+  },
+  {
+    "token": 14702,
+    "symbol": "NAGREEKEXP-EQ",
+    "name": "NAGREEKEXP"
+  },
+  {
+    "token": 15360,
+    "symbol": "NAHARCAP-EQ",
+    "name": "NAHARCAP"
+  },
+  {
+    "token": 13106,
+    "symbol": "NAHARINDUS-EQ",
+    "name": "NAHARINDUS"
+  },
+  {
+    "token": 14445,
+    "symbol": "NAHARPOLY-EQ",
+    "name": "NAHARPOLY"
+  },
+  {
+    "token": 14440,
+    "symbol": "NAHARSPING-EQ",
+    "name": "NAHARSPING"
+  },
+  {
+    "token": 357,
+    "symbol": "NAM-INDIA-EQ",
+    "name": "NAM-INDIA"
+  },
+  {
+    "token": 3918,
+    "symbol": "NATCOPHARM-EQ",
+    "name": "NATCOPHARM"
+  },
+  {
+    "token": 11065,
+    "symbol": "NATHBIOGEN-EQ",
+    "name": "NATHBIOGEN"
+  },
+  {
+    "token": 6364,
+    "symbol": "NATIONALUM-EQ",
+    "name": "NATIONALUM"
+  },
+  {
+    "token": 13751,
+    "symbol": "NAUKRI-EQ",
+    "name": "NAUKRI"
+  },
+  {
+    "token": 4014,
+    "symbol": "NAVA-EQ",
+    "name": "NAVA"
+  },
+  {
+    "token": 14672,
+    "symbol": "NAVINFLUOR-EQ",
+    "name": "NAVINFLUOR"
+  },
+  {
+    "token": 18668,
+    "symbol": "NAVINIFTY-EQ",
+    "name": "NAVINIFTY"
+  },
+  {
+    "token": 10557,
+    "symbol": "NAVKARCORP-EQ",
+    "name": "NAVKARCORP"
+  },
+  {
+    "token": 2385,
+    "symbol": "NAVNETEDUL-EQ",
+    "name": "NAVNETEDUL"
+  },
+  {
+    "token": 2987,
+    "symbol": "NAZARA-EQ",
+    "name": "NAZARA"
+  },
+  {
+    "token": 31415,
+    "symbol": "NBCC-EQ",
+    "name": "NBCC"
+  },
+  {
+    "token": 19111,
+    "symbol": "NBIFIN-EQ",
+    "name": "NBIFIN"
+  },
+  {
+    "token": 2319,
+    "symbol": "NCC-EQ",
+    "name": "NCC"
+  },
+  {
+    "token": 14490,
+    "symbol": "NCLIND-EQ",
+    "name": "NCLIND"
+  },
+  {
+    "token": 18371,
+    "symbol": "NDGL-EQ",
+    "name": "NDGL"
+  },
+  {
+    "token": 31258,
+    "symbol": "NDL-EQ",
+    "name": "NDL"
+  },
+  {
+    "token": 14547,
+    "symbol": "NDLVENTURE-EQ",
+    "name": "NDLVENTURE"
+  },
+  {
+    "token": 22255,
+    "symbol": "NDRAUTO-EQ",
+    "name": "NDRAUTO"
+  },
+  {
+    "token": 11427,
+    "symbol": "NDTV-EQ",
+    "name": "NDTV"
+  },
+  {
+    "token": 13522,
+    "symbol": "NECCLTD-EQ",
+    "name": "NECCLTD"
+  },
+  {
+    "token": 11927,
+    "symbol": "NECLIFE-EQ",
+    "name": "NECLIFE"
+  },
+  {
+    "token": 14761,
+    "symbol": "NELCAST-EQ",
+    "name": "NELCAST"
+  },
+  {
+    "token": 2388,
+    "symbol": "NELCO-EQ",
+    "name": "NELCO"
+  },
+  {
+    "token": 9917,
+    "symbol": "NEOGEN-EQ",
+    "name": "NEOGEN"
+  },
+  {
+    "token": 15409,
+    "symbol": "NESCO-EQ",
+    "name": "NESCO"
+  },
+  {
+    "token": 17963,
+    "symbol": "NESTLEIND-EQ",
+    "name": "NESTLEIND"
+  },
+  {
+    "token": 7838,
+    "symbol": "NETF-EQ",
+    "name": "NETF"
+  },
+  {
+    "token": 17433,
+    "symbol": "NETWEB-EQ",
+    "name": "NETWEB"
+  },
+  {
+    "token": 14111,
+    "symbol": "NETWORK18-EQ",
+    "name": "NETWORK18"
+  },
+  {
+    "token": 2406,
+    "symbol": "NEULANDLAB-EQ",
+    "name": "NEULANDLAB"
+  },
+  {
+    "token": 1164,
+    "symbol": "NEWGEN-EQ",
+    "name": "NEWGEN"
+  },
+  {
+    "token": 17181,
+    "symbol": "NEXT50-EQ",
+    "name": "NEXT50"
+  },
+  {
+    "token": 4529,
+    "symbol": "NEXT50IETF-EQ",
+    "name": "NEXT50IETF"
+  },
+  {
+    "token": 9867,
+    "symbol": "NEXTMEDIA-EQ",
+    "name": "NEXTMEDIA"
+  },
+  {
+    "token": 13925,
+    "symbol": "NFL-EQ",
+    "name": "NFL"
+  },
+  {
+    "token": 5401,
+    "symbol": "NGIL-EQ",
+    "name": "NGIL"
+  },
+  {
+    "token": 10277,
+    "symbol": "NGLFINE-EQ",
+    "name": "NGLFINE"
+  },
+  {
+    "token": 11840,
+    "symbol": "NH-EQ",
+    "name": "NH"
+  },
+  {
+    "token": 17400,
+    "symbol": "NHPC-EQ",
+    "name": "NHPC"
+  },
+  {
+    "token": 399,
+    "symbol": "NIACL-EQ",
+    "name": "NIACL"
+  },
+  {
+    "token": 29733,
+    "symbol": "NIBL-EQ",
+    "name": "NIBL"
+  },
+  {
+    "token": 29577,
+    "symbol": "NIF100BEES-EQ",
+    "name": "NIF100BEES"
+  },
+  {
+    "token": 30392,
+    "symbol": "NIF100IETF-EQ",
+    "name": "NIF100IETF"
+  },
+  {
+    "token": 22524,
+    "symbol": "NIF10GETF-EQ",
+    "name": "NIF10GETF"
+  },
+  {
+    "token": 22521,
+    "symbol": "NIF5GETF-EQ",
+    "name": "NIF5GETF"
+  },
+  {
+    "token": 22488,
+    "symbol": "NIFITETF-EQ",
+    "name": "NIFITETF"
+  },
+  {
+    "token": 18347,
+    "symbol": "NIFMID150-EQ",
+    "name": "NIFMID150"
+  },
+  {
+    "token": 18102,
+    "symbol": "NIFTY1-EQ",
+    "name": "NIFTY1"
+  },
+  {
+    "token": 7451,
+    "symbol": "NIFTY50ADD-EQ",
+    "name": "NIFTY50ADD"
+  },
+  {
+    "token": 10576,
+    "symbol": "NIFTYBEES-EQ",
+    "name": "NIFTYBEES"
+  },
+  {
+    "token": 21959,
+    "symbol": "NIFTYBETF-EQ",
+    "name": "NIFTYBETF"
+  },
+  {
+    "token": 6353,
+    "symbol": "NIFTYETF-EQ",
+    "name": "NIFTYETF"
+  },
+  {
+    "token": 29553,
+    "symbol": "NIFTYIETF-EQ",
+    "name": "NIFTYIETF"
+  },
+  {
+    "token": 10690,
+    "symbol": "NIFTYQLITY-EQ",
+    "name": "NIFTYQLITY"
+  },
+  {
+    "token": 11522,
+    "symbol": "NIITLTD-EQ",
+    "name": "NIITLTD"
+  },
+  {
+    "token": 17747,
+    "symbol": "NIITMTS-EQ",
+    "name": "NIITMTS"
+  },
+  {
+    "token": 9253,
+    "symbol": "NILAINFRA-EQ",
+    "name": "NILAINFRA"
+  },
+  {
+    "token": 2421,
+    "symbol": "NILKAMAL-EQ",
+    "name": "NILKAMAL"
+  },
+  {
+    "token": 14194,
+    "symbol": "NINSYS-EQ",
+    "name": "NINSYS"
+  },
+  {
+    "token": 6782,
+    "symbol": "NIPPOBATRY-EQ",
+    "name": "NIPPOBATRY"
+  },
+  {
+    "token": 255,
+    "symbol": "NIRAJ-EQ",
+    "name": "NIRAJ"
+  },
+  {
+    "token": 13175,
+    "symbol": "NITINSPIN-EQ",
+    "name": "NITINSPIN"
+  },
+  {
+    "token": 2439,
+    "symbol": "NKIND-EQ",
+    "name": "NKIND"
+  },
+  {
+    "token": 8585,
+    "symbol": "NLCINDIA-EQ",
+    "name": "NLCINDIA"
+  },
+  {
+    "token": 15332,
+    "symbol": "NMDC-EQ",
+    "name": "NMDC"
+  },
+  {
+    "token": 2442,
+    "symbol": "NOCIL-EQ",
+    "name": "NOCIL"
+  },
+  {
+    "token": 10786,
+    "symbol": "NOIDATOLL-EQ",
+    "name": "NOIDATOLL"
+  },
+  {
+    "token": 4160,
+    "symbol": "NORBTEAEXP-EQ",
+    "name": "NORBTEAEXP"
+  },
+  {
+    "token": 22477,
+    "symbol": "NOVAAGRI-EQ",
+    "name": "NOVAAGRI"
+  },
+  {
+    "token": 12978,
+    "symbol": "NPBET-EQ",
+    "name": "NPBET"
+  },
+  {
+    "token": 20314,
+    "symbol": "NRAIL-EQ",
+    "name": "NRAIL"
+  },
+  {
+    "token": 7553,
+    "symbol": "NRBBEARING-EQ",
+    "name": "NRBBEARING"
+  },
+  {
+    "token": 13675,
+    "symbol": "NRL-EQ",
+    "name": "NRL"
+  },
+  {
+    "token": 11239,
+    "symbol": "NSIL-EQ",
+    "name": "NSIL"
+  },
+  {
+    "token": 14180,
+    "symbol": "NSLNISP-EQ",
+    "name": "NSLNISP"
+  },
+  {
+    "token": 11630,
+    "symbol": "NTPC-EQ",
+    "name": "NTPC"
+  },
+  {
+    "token": 10791,
+    "symbol": "NUCLEUS-EQ",
+    "name": "NUCLEUS"
+  },
+  {
+    "token": 2350,
+    "symbol": "NURECA-EQ",
+    "name": "NURECA"
+  },
+  {
+    "token": 18721,
+    "symbol": "NUVAMA-EQ",
+    "name": "NUVAMA"
+  },
+  {
+    "token": 5426,
+    "symbol": "NUVOCO-EQ",
+    "name": "NUVOCO"
+  },
+  {
+    "token": 11457,
+    "symbol": "NV20-EQ",
+    "name": "NV20"
+  },
+  {
+    "token": 9847,
+    "symbol": "NV20BEES-EQ",
+    "name": "NV20BEES"
+  },
+  {
+    "token": 17475,
+    "symbol": "NV20IETF-EQ",
+    "name": "NV20IETF"
+  },
+  {
+    "token": 6545,
+    "symbol": "NYKAA-EQ",
+    "name": "NYKAA"
+  },
+  {
+    "token": 10768,
+    "symbol": "OAL-EQ",
+    "name": "OAL"
+  },
+  {
+    "token": 8797,
+    "symbol": "OBCL-EQ",
+    "name": "OBCL"
+  },
+  {
+    "token": 20242,
+    "symbol": "OBEROIRLTY-EQ",
+    "name": "OBEROIRLTY"
+  },
+  {
+    "token": 12231,
+    "symbol": "OCCL-EQ",
+    "name": "OCCL"
+  },
+  {
+    "token": 10738,
+    "symbol": "OFSS-EQ",
+    "name": "OFSS"
+  },
+  {
+    "token": 17438,
+    "symbol": "OIL-EQ",
+    "name": "OIL"
+  },
+  {
+    "token": 10637,
+    "symbol": "OLECTRA-EQ",
+    "name": "OLECTRA"
+  },
+  {
+    "token": 14853,
+    "symbol": "OMAXE-EQ",
+    "name": "OMAXE"
+  },
+  {
+    "token": 24231,
+    "symbol": "OMINFRAL-EQ",
+    "name": "OMINFRAL"
+  },
+  {
+    "token": 9939,
+    "symbol": "ONEPOINT-EQ",
+    "name": "ONEPOINT"
+  },
+  {
+    "token": 2475,
+    "symbol": "ONGC-EQ",
+    "name": "ONGC"
+  },
+  {
+    "token": 15278,
+    "symbol": "ONMOBILE-EQ",
+    "name": "ONMOBILE"
+  },
+  {
+    "token": 2481,
+    "symbol": "ONWARDTEC-EQ",
+    "name": "ONWARDTEC"
+  },
+  {
+    "token": 21469,
+    "symbol": "OPTIEMUS-EQ",
+    "name": "OPTIEMUS"
+  },
+  {
+    "token": 31475,
+    "symbol": "ORBTEXP-EQ",
+    "name": "ORBTEXP"
+  },
+  {
+    "token": 926,
+    "symbol": "ORCHPHARMA-EQ",
+    "name": "ORCHPHARMA"
+  },
+  {
+    "token": 10159,
+    "symbol": "ORICONENT-EQ",
+    "name": "ORICONENT"
+  },
+  {
+    "token": 14346,
+    "symbol": "ORIENTALTL-EQ",
+    "name": "ORIENTALTL"
+  },
+  {
+    "token": 14278,
+    "symbol": "ORIENTBELL-EQ",
+    "name": "ORIENTBELL"
+  },
+  {
+    "token": 30089,
+    "symbol": "ORIENTCEM-EQ",
+    "name": "ORIENTCEM"
+  },
+  {
+    "token": 13111,
+    "symbol": "ORIENTCER-EQ",
+    "name": "ORIENTCER"
+  },
+  {
+    "token": 2972,
+    "symbol": "ORIENTELEC-EQ",
+    "name": "ORIENTELEC"
+  },
+  {
+    "token": 2493,
+    "symbol": "ORIENTHOT-EQ",
+    "name": "ORIENTHOT"
+  },
+  {
+    "token": 18208,
+    "symbol": "ORIENTLTD-EQ",
+    "name": "ORIENTLTD"
+  },
+  {
+    "token": 2496,
+    "symbol": "ORIENTPPR-EQ",
+    "name": "ORIENTPPR"
+  },
+  {
+    "token": 19931,
+    "symbol": "ORISSAMINE-EQ",
+    "name": "ORISSAMINE"
+  },
+  {
+    "token": 2979,
+    "symbol": "ORTINLAB-EQ",
+    "name": "ORTINLAB"
+  },
+  {
+    "token": 2514,
+    "symbol": "OSWALAGRO-EQ",
+    "name": "OSWALAGRO"
+  },
+  {
+    "token": 471,
+    "symbol": "OSWALGREEN-EQ",
+    "name": "OSWALGREEN"
+  },
+  {
+    "token": 14413,
+    "symbol": "PAGEIND-EQ",
+    "name": "PAGEIND"
+  },
+  {
+    "token": 25468,
+    "symbol": "PAISALO-EQ",
+    "name": "PAISALO"
+  },
+  {
+    "token": 17197,
+    "symbol": "PAKKA-EQ",
+    "name": "PAKKA"
+  },
+  {
+    "token": 21383,
+    "symbol": "PALASHSECU-EQ",
+    "name": "PALASHSECU"
+  },
+  {
+    "token": 4055,
+    "symbol": "PANACEABIO-EQ",
+    "name": "PANACEABIO"
+  },
+  {
+    "token": 16292,
+    "symbol": "PANACHE-EQ",
+    "name": "PANACHE"
+  },
+  {
+    "token": 25392,
+    "symbol": "PANAMAPET-EQ",
+    "name": "PANAMAPET"
+  },
+  {
+    "token": 6141,
+    "symbol": "PANSARI-EQ",
+    "name": "PANSARI"
+  },
+  {
+    "token": 5631,
+    "symbol": "PAR-EQ",
+    "name": "PAR"
+  },
+  {
+    "token": 9741,
+    "symbol": "PARADEEP-EQ",
+    "name": "PARADEEP"
+  },
+  {
+    "token": 17130,
+    "symbol": "PARAGMILK-EQ",
+    "name": "PARAGMILK"
+  },
+  {
+    "token": 5911,
+    "symbol": "PARAS-EQ",
+    "name": "PARAS"
+  },
+  {
+    "token": 22649,
+    "symbol": "PARKHOTELS-EQ",
+    "name": "PARKHOTELS"
+  },
+  {
+    "token": 13791,
+    "symbol": "PARSVNATH-EQ",
+    "name": "PARSVNATH"
+  },
+  {
+    "token": 6045,
+    "symbol": "PASUPTAC-EQ",
+    "name": "PASUPTAC"
+  },
+  {
+    "token": 17029,
+    "symbol": "PATANJALI-EQ",
+    "name": "PATANJALI"
+  },
+  {
+    "token": 11699,
+    "symbol": "PATELENG-EQ",
+    "name": "PATELENG"
+  },
+  {
+    "token": 15219,
+    "symbol": "PATINTLOG-EQ",
+    "name": "PATINTLOG"
+  },
+  {
+    "token": 16192,
+    "symbol": "PAVNAIND-EQ",
+    "name": "PAVNAIND"
+  },
+  {
+    "token": 6705,
+    "symbol": "PAYTM-EQ",
+    "name": "PAYTM"
+  },
+  {
+    "token": 2649,
+    "symbol": "PCBL-EQ",
+    "name": "PCBL"
+  },
+  {
+    "token": 29124,
+    "symbol": "PCJEWELLER-EQ",
+    "name": "PCJEWELLER"
+  },
+  {
+    "token": 15377,
+    "symbol": "PDMJEPAPER-EQ",
+    "name": "PDMJEPAPER"
+  },
+  {
+    "token": 5264,
+    "symbol": "PDSL-EQ",
+    "name": "PDSL"
+  },
+  {
+    "token": 2412,
+    "symbol": "PEL-EQ",
+    "name": "PEL"
+  },
+  {
+    "token": 20621,
+    "symbol": "PENIND-EQ",
+    "name": "PENIND"
+  },
+  {
+    "token": 2256,
+    "symbol": "PENINLAND-EQ",
+    "name": "PENINLAND"
+  },
+  {
+    "token": 18365,
+    "symbol": "PERSISTENT-EQ",
+    "name": "PERSISTENT"
+  },
+  {
+    "token": 11351,
+    "symbol": "PETRONET-EQ",
+    "name": "PETRONET"
+  },
+  {
+    "token": 14299,
+    "symbol": "PFC-EQ",
+    "name": "PFC"
+  },
+  {
+    "token": 2643,
+    "symbol": "PFIZER-EQ",
+    "name": "PFIZER"
+  },
+  {
+    "token": 13496,
+    "symbol": "PFOCUS-EQ",
+    "name": "PFOCUS"
+  },
+  {
+    "token": 22602,
+    "symbol": "PFS-EQ",
+    "name": "PFS"
+  },
+  {
+    "token": 25358,
+    "symbol": "PGEL-EQ",
+    "name": "PGEL"
+  },
+  {
+    "token": 2535,
+    "symbol": "PGHH-EQ",
+    "name": "PGHH"
+  },
+  {
+    "token": 940,
+    "symbol": "PGHL-EQ",
+    "name": "PGHL"
+  },
+  {
+    "token": 14260,
+    "symbol": "PGIL-EQ",
+    "name": "PGIL"
+  },
+  {
+    "token": 4973,
+    "symbol": "PHARMABEES-EQ",
+    "name": "PHARMABEES"
+  },
+  {
+    "token": 14552,
+    "symbol": "PHOENIXLTD-EQ",
+    "name": "PHOENIXLTD"
+  },
+  {
+    "token": 2664,
+    "symbol": "PIDILITIND-EQ",
+    "name": "PIDILITIND"
+  },
+  {
+    "token": 24184,
+    "symbol": "PIIND-EQ",
+    "name": "PIIND"
+  },
+  {
+    "token": 11445,
+    "symbol": "PILANIINVS-EQ",
+    "name": "PILANIINVS"
+  },
+  {
+    "token": 30835,
+    "symbol": "PILITA-EQ",
+    "name": "PILITA"
+  },
+  {
+    "token": 13463,
+    "symbol": "PIONEEREMB-EQ",
+    "name": "PIONEEREMB"
+  },
+  {
+    "token": 14134,
+    "symbol": "PITTIENG-EQ",
+    "name": "PITTIENG"
+  },
+  {
+    "token": 9087,
+    "symbol": "PIXTRANS-EQ",
+    "name": "PIXTRANS"
+  },
+  {
+    "token": 10321,
+    "symbol": "PKTEA-EQ",
+    "name": "PKTEA"
+  },
+  {
+    "token": 13920,
+    "symbol": "PLASTIBLEN-EQ",
+    "name": "PLASTIBLEN"
+  },
+  {
+    "token": 22930,
+    "symbol": "PLATIND-EQ",
+    "name": "PLATIND"
+  },
+  {
+    "token": 19458,
+    "symbol": "PLAZACABLE-EQ",
+    "name": "PLAZACABLE"
+  },
+  {
+    "token": 10666,
+    "symbol": "PNB-EQ",
+    "name": "PNB"
+  },
+  {
+    "token": 8736,
+    "symbol": "PNBGILTS-EQ",
+    "name": "PNBGILTS"
+  },
+  {
+    "token": 18908,
+    "symbol": "PNBHOUSING-EQ",
+    "name": "PNBHOUSING"
+  },
+  {
+    "token": 9342,
+    "symbol": "PNC-EQ",
+    "name": "PNC"
+  },
+  {
+    "token": 9385,
+    "symbol": "PNCINFRA-EQ",
+    "name": "PNCINFRA"
+  },
+  {
+    "token": 14385,
+    "symbol": "POCL-EQ",
+    "name": "POCL"
+  },
+  {
+    "token": 19036,
+    "symbol": "PODDARMENT-EQ",
+    "name": "PODDARMENT"
+  },
+  {
+    "token": 17651,
+    "symbol": "POKARNA-EQ",
+    "name": "POKARNA"
+  },
+  {
+    "token": 6656,
+    "symbol": "POLICYBZR-EQ",
+    "name": "POLICYBZR"
+  },
+  {
+    "token": 9590,
+    "symbol": "POLYCAB-EQ",
+    "name": "POLYCAB"
+  },
+  {
+    "token": 25718,
+    "symbol": "POLYMED-EQ",
+    "name": "POLYMED"
+  },
+  {
+    "token": 2687,
+    "symbol": "POLYPLEX-EQ",
+    "name": "POLYPLEX"
+  },
+  {
+    "token": 10661,
+    "symbol": "PONNIERODE-EQ",
+    "name": "PONNIERODE"
+  },
+  {
+    "token": 11403,
+    "symbol": "POONAWALLA-EQ",
+    "name": "POONAWALLA"
+  },
+  {
+    "token": 14977,
+    "symbol": "POWERGRID-EQ",
+    "name": "POWERGRID"
+  },
+  {
+    "token": 18457,
+    "symbol": "POWERINDIA-EQ",
+    "name": "POWERINDIA"
+  },
+  {
+    "token": 10473,
+    "symbol": "POWERMECH-EQ",
+    "name": "POWERMECH"
+  },
+  {
+    "token": 15209,
+    "symbol": "PPAP-EQ",
+    "name": "PPAP"
+  },
+  {
+    "token": 10297,
+    "symbol": "PPL-EQ",
+    "name": "PPL"
+  },
+  {
+    "token": 11571,
+    "symbol": "PPLPHARMA-EQ",
+    "name": "PPLPHARMA"
+  },
+  {
+    "token": 2705,
+    "symbol": "PRAJIND-EQ",
+    "name": "PRAJIND"
+  },
+  {
+    "token": 2708,
+    "symbol": "PRAKASH-EQ",
+    "name": "PRAKASH"
+  },
+  {
+    "token": 12603,
+    "symbol": "PRECAM-EQ",
+    "name": "PRECAM"
+  },
+  {
+    "token": 2711,
+    "symbol": "PRECOT-EQ",
+    "name": "PRECOT"
+  },
+  {
+    "token": 2717,
+    "symbol": "PRECWIRE-EQ",
+    "name": "PRECWIRE"
+  },
+  {
+    "token": 17397,
+    "symbol": "PREMEXPLN-EQ",
+    "name": "PREMEXPLN"
+  },
+  {
+    "token": 3908,
+    "symbol": "PREMIERPOL-EQ",
+    "name": "PREMIERPOL"
+  },
+  {
+    "token": 20302,
+    "symbol": "PRESTIGE-EQ",
+    "name": "PRESTIGE"
+  },
+  {
+    "token": 19631,
+    "symbol": "PRICOLLTD-EQ",
+    "name": "PRICOLLTD"
+  },
+  {
+    "token": 11864,
+    "symbol": "PRIMESECU-EQ",
+    "name": "PRIMESECU"
+  },
+  {
+    "token": 16045,
+    "symbol": "PRINCEPIPE-EQ",
+    "name": "PRINCEPIPE"
+  },
+  {
+    "token": 8304,
+    "symbol": "PRITI-EQ",
+    "name": "PRITI"
+  },
+  {
+    "token": 5292,
+    "symbol": "PRITIKAUTO-EQ",
+    "name": "PRITIKAUTO"
+  },
+  {
+    "token": 8825,
+    "symbol": "PRIVISCL-EQ",
+    "name": "PRIVISCL"
+  },
+  {
+    "token": 28859,
+    "symbol": "PROZONER-EQ",
+    "name": "PROZONER"
+  },
+  {
+    "token": 2739,
+    "symbol": "PRSMJOHNSN-EQ",
+    "name": "PRSMJOHNSN"
+  },
+  {
+    "token": 9553,
+    "symbol": "PRUDENT-EQ",
+    "name": "PRUDENT"
+  },
+  {
+    "token": 21001,
+    "symbol": "PSB-EQ",
+    "name": "PSB"
+  },
+  {
+    "token": 20877,
+    "symbol": "PSPPROJECT-EQ",
+    "name": "PSPPROJECT"
+  },
+  {
+    "token": 15061,
+    "symbol": "PSUBANK-EQ",
+    "name": "PSUBANK"
+  },
+  {
+    "token": 17616,
+    "symbol": "PSUBANKADD-EQ",
+    "name": "PSUBANKADD"
+  },
+  {
+    "token": 15032,
+    "symbol": "PSUBNKBEES-EQ",
+    "name": "PSUBNKBEES"
+  },
+  {
+    "token": 14584,
+    "symbol": "PSUBNKIETF-EQ",
+    "name": "PSUBNKIETF"
+  },
+  {
+    "token": 11355,
+    "symbol": "PTC-EQ",
+    "name": "PTC"
+  },
+  {
+    "token": 16682,
+    "symbol": "PTCIL-EQ",
+    "name": "PTCIL"
+  },
+  {
+    "token": 14101,
+    "symbol": "PTL-EQ",
+    "name": "PTL"
+  },
+  {
+    "token": 4344,
+    "symbol": "PUNJABCHEM-EQ",
+    "name": "PUNJABCHEM"
+  },
+  {
+    "token": 4010,
+    "symbol": "PVP-EQ",
+    "name": "PVP"
+  },
+  {
+    "token": 13147,
+    "symbol": "PVRINOX-EQ",
+    "name": "PVRINOX"
+  },
+  {
+    "token": 23142,
+    "symbol": "PVSL-EQ",
+    "name": "PVSL"
+  },
+  {
+    "token": 11386,
+    "symbol": "PVTBANIETF-EQ",
+    "name": "PVTBANIETF"
+  },
+  {
+    "token": 17576,
+    "symbol": "PVTBANKADD-EQ",
+    "name": "PVTBANKADD"
+  },
+  {
+    "token": 18250,
+    "symbol": "PYRAMID-EQ",
+    "name": "PYRAMID"
+  },
+  {
+    "token": 15330,
+    "symbol": "QGOLDHALF-EQ",
+    "name": "QGOLDHALF"
+  },
+  {
+    "token": 16819,
+    "symbol": "QNIFTY-EQ",
+    "name": "QNIFTY"
+  },
+  {
+    "token": 17808,
+    "symbol": "QUAL30IETF-EQ",
+    "name": "QUAL30IETF"
+  },
+  {
+    "token": 17704,
+    "symbol": "QUESS-EQ",
+    "name": "QUESS"
+  },
+  {
+    "token": 13116,
+    "symbol": "QUICKHEAL-EQ",
+    "name": "QUICKHEAL"
+  },
+  {
+    "token": 15391,
+    "symbol": "RACE-EQ",
+    "name": "RACE"
+  },
+  {
+    "token": 10343,
+    "symbol": "RADHIKAJWE-EQ",
+    "name": "RADHIKAJWE"
+  },
+  {
+    "token": 13580,
+    "symbol": "RADIANTCMS-EQ",
+    "name": "RADIANTCMS"
+  },
+  {
+    "token": 10990,
+    "symbol": "RADICO-EQ",
+    "name": "RADICO"
+  },
+  {
+    "token": 19877,
+    "symbol": "RADIOCITY-EQ",
+    "name": "RADIOCITY"
+  },
+  {
+    "token": 2431,
+    "symbol": "RAILTEL-EQ",
+    "name": "RAILTEL"
+  },
+  {
+    "token": 15337,
+    "symbol": "RAIN-EQ",
+    "name": "RAIN"
+  },
+  {
+    "token": 9408,
+    "symbol": "RAINBOW-EQ",
+    "name": "RAINBOW"
+  },
+  {
+    "token": 7401,
+    "symbol": "RAJESHEXPO-EQ",
+    "name": "RAJESHEXPO"
+  },
+  {
+    "token": 18962,
+    "symbol": "RAJRATAN-EQ",
+    "name": "RAJRATAN"
+  },
+  {
+    "token": 2809,
+    "symbol": "RAJSREESUG-EQ",
+    "name": "RAJSREESUG"
+  },
+  {
+    "token": 2816,
+    "symbol": "RALLIS-EQ",
+    "name": "RALLIS"
+  },
+  {
+    "token": 13565,
+    "symbol": "RAMANEWS-EQ",
+    "name": "RAMANEWS"
+  },
+  {
+    "token": 10568,
+    "symbol": "RAMAPHO-EQ",
+    "name": "RAMAPHO"
+  },
+  {
+    "token": 10300,
+    "symbol": "RAMASTEEL-EQ",
+    "name": "RAMASTEEL"
+  },
+  {
+    "token": 2043,
+    "symbol": "RAMCOCEM-EQ",
+    "name": "RAMCOCEM"
+  },
+  {
+    "token": 4587,
+    "symbol": "RAMCOIND-EQ",
+    "name": "RAMCOIND"
+  },
+  {
+    "token": 20134,
+    "symbol": "RAMKY-EQ",
+    "name": "RAMKY"
+  },
+  {
+    "token": 10485,
+    "symbol": "RAMRAT-EQ",
+    "name": "RAMRAT"
+  },
+  {
+    "token": 2837,
+    "symbol": "RANASUG-EQ",
+    "name": "RANASUG"
+  },
+  {
+    "token": 16751,
+    "symbol": "RANEENGINE-EQ",
+    "name": "RANEENGINE"
+  },
+  {
+    "token": 2844,
+    "symbol": "RANEHOLDIN-EQ",
+    "name": "RANEHOLDIN"
+  },
+  {
+    "token": 7177,
+    "symbol": "RATEGAIN-EQ",
+    "name": "RATEGAIN"
+  },
+  {
+    "token": 13451,
+    "symbol": "RATNAMANI-EQ",
+    "name": "RATNAMANI"
+  },
+  {
+    "token": 18423,
+    "symbol": "RATNAVEER-EQ",
+    "name": "RATNAVEER"
+  },
+  {
+    "token": 2859,
+    "symbol": "RAYMOND-EQ",
+    "name": "RAYMOND"
+  },
+  {
+    "token": 1494,
+    "symbol": "RBA-EQ",
+    "name": "RBA"
+  },
+  {
+    "token": 16745,
+    "symbol": "RBL-EQ",
+    "name": "RBL"
+  },
+  {
+    "token": 18391,
+    "symbol": "RBLBANK-EQ",
+    "name": "RBLBANK"
+  },
+  {
+    "token": 2866,
+    "symbol": "RCF-EQ",
+    "name": "RCF"
+  },
+  {
+    "token": 15355,
+    "symbol": "RECLTD-EQ",
+    "name": "RECLTD"
+  },
+  {
+    "token": 14255,
+    "symbol": "REDINGTON-EQ",
+    "name": "REDINGTON"
+  },
+  {
+    "token": 17859,
+    "symbol": "REDTAPE-EQ",
+    "name": "REDTAPE"
+  },
+  {
+    "token": 17764,
+    "symbol": "REFEX-EQ",
+    "name": "REFEX"
+  },
+  {
+    "token": 24225,
+    "symbol": "RELAXO-EQ",
+    "name": "RELAXO"
+  },
+  {
+    "token": 9652,
+    "symbol": "RELCHEMQ-EQ",
+    "name": "RELCHEMQ"
+  },
+  {
+    "token": 2885,
+    "symbol": "RELIANCE-EQ",
+    "name": "RELIANCE"
+  },
+  {
+    "token": 15068,
+    "symbol": "RELIGARE-EQ",
+    "name": "RELIGARE"
+  },
+  {
+    "token": 553,
+    "symbol": "RELINFRA-EQ",
+    "name": "RELINFRA"
+  },
+  {
+    "token": 3965,
+    "symbol": "REMSONSIND-EQ",
+    "name": "REMSONSIND"
+  },
+  {
+    "token": 12026,
+    "symbol": "RENUKA-EQ",
+    "name": "RENUKA"
+  },
+  {
+    "token": 29598,
+    "symbol": "REPCOHOME-EQ",
+    "name": "REPCOHOME"
+  },
+  {
+    "token": 1480,
+    "symbol": "REPL-EQ",
+    "name": "REPL"
+  },
+  {
+    "token": 13126,
+    "symbol": "REPRO-EQ",
+    "name": "REPRO"
+  },
+  {
+    "token": 20323,
+    "symbol": "RESPONIND-EQ",
+    "name": "RESPONIND"
+  },
+  {
+    "token": 15129,
+    "symbol": "RGL-EQ",
+    "name": "RGL"
+  },
+  {
+    "token": 31163,
+    "symbol": "RHIM-EQ",
+    "name": "RHIM"
+  },
+  {
+    "token": 2909,
+    "symbol": "RICOAUTO-EQ",
+    "name": "RICOAUTO"
+  },
+  {
+    "token": 2912,
+    "symbol": "RIIL-EQ",
+    "name": "RIIL"
+  },
+  {
+    "token": 18417,
+    "symbol": "RISHABH-EQ",
+    "name": "RISHABH"
+  },
+  {
+    "token": 8944,
+    "symbol": "RITCO-EQ",
+    "name": "RITCO"
+  },
+  {
+    "token": 3761,
+    "symbol": "RITES-EQ",
+    "name": "RITES"
+  },
+  {
+    "token": 20950,
+    "symbol": "RKDL-EQ",
+    "name": "RKDL"
+  },
+  {
+    "token": 1547,
+    "symbol": "RKEC-EQ",
+    "name": "RKEC"
+  },
+  {
+    "token": 11411,
+    "symbol": "RKFORGE-EQ",
+    "name": "RKFORGE"
+  },
+  {
+    "token": 23043,
+    "symbol": "RKSWAMY-EQ",
+    "name": "RKSWAMY"
+  },
+  {
+    "token": 11975,
+    "symbol": "RML-EQ",
+    "name": "RML"
+  },
+  {
+    "token": 13182,
+    "symbol": "ROHLTD-EQ",
+    "name": "ROHLTD"
+  },
+  {
+    "token": 5279,
+    "symbol": "ROLEXRINGS-EQ",
+    "name": "ROLEXRINGS"
+  },
+  {
+    "token": 19410,
+    "symbol": "ROSSARI-EQ",
+    "name": "ROSSARI"
+  },
+  {
+    "token": 28913,
+    "symbol": "ROSSELLIND-EQ",
+    "name": "ROSSELLIND"
+  },
+  {
+    "token": 9049,
+    "symbol": "ROTO-EQ",
+    "name": "ROTO"
+  },
+  {
+    "token": 128,
+    "symbol": "ROUTE-EQ",
+    "name": "ROUTE"
+  },
+  {
+    "token": 16725,
+    "symbol": "RPGLIFE-EQ",
+    "name": "RPGLIFE"
+  },
+  {
+    "token": 15259,
+    "symbol": "RPOWER-EQ",
+    "name": "RPOWER"
+  },
+  {
+    "token": 8119,
+    "symbol": "RPSGVENT-EQ",
+    "name": "RPSGVENT"
+  },
+  {
+    "token": 22670,
+    "symbol": "RPTECH-EQ",
+    "name": "RPTECH"
+  },
+  {
+    "token": 18566,
+    "symbol": "RRKABEL-EQ",
+    "name": "RRKABEL"
+  },
+  {
+    "token": 2794,
+    "symbol": "RSWM-EQ",
+    "name": "RSWM"
+  },
+  {
+    "token": 13414,
+    "symbol": "RSYSTEMS-EQ",
+    "name": "RSYSTEMS"
+  },
+  {
+    "token": 27297,
+    "symbol": "RTNINDIA-EQ",
+    "name": "RTNINDIA"
+  },
+  {
+    "token": 2939,
+    "symbol": "RUBYMILLS-EQ",
+    "name": "RUBYMILLS"
+  },
+  {
+    "token": 4566,
+    "symbol": "RUCHINFRA-EQ",
+    "name": "RUCHINFRA"
+  },
+  {
+    "token": 13821,
+    "symbol": "RUCHIRA-EQ",
+    "name": "RUCHIRA"
+  },
+  {
+    "token": 25724,
+    "symbol": "RUPA-EQ",
+    "name": "RUPA"
+  },
+  {
+    "token": 24595,
+    "symbol": "RUSHIL-EQ",
+    "name": "RUSHIL"
+  },
+  {
+    "token": 12219,
+    "symbol": "RUSTOMJEE-EQ",
+    "name": "RUSTOMJEE"
+  },
+  {
+    "token": 1565,
+    "symbol": "RVHL-EQ",
+    "name": "RVHL"
+  },
+  {
+    "token": 9552,
+    "symbol": "RVNL-EQ",
+    "name": "RVNL"
+  },
+  {
+    "token": 10618,
+    "symbol": "SADBHIN-EQ",
+    "name": "SADBHIN"
+  },
+  {
+    "token": 15343,
+    "symbol": "SADHNANIQ-EQ",
+    "name": "SADHNANIQ"
+  },
+  {
+    "token": 13035,
+    "symbol": "SAFARI-EQ",
+    "name": "SAFARI"
+  },
+  {
+    "token": 8175,
+    "symbol": "SAGARDEEP-EQ",
+    "name": "SAGARDEEP"
+  },
+  {
+    "token": 14068,
+    "symbol": "SAGCEM-EQ",
+    "name": "SAGCEM"
+  },
+  {
+    "token": 13689,
+    "symbol": "SAH-EQ",
+    "name": "SAH"
+  },
+  {
+    "token": 14900,
+    "symbol": "SAHYADRI-EQ",
+    "name": "SAHYADRI"
+  },
+  {
+    "token": 2963,
+    "symbol": "SAIL-EQ",
+    "name": "SAIL"
+  },
+  {
+    "token": 9539,
+    "symbol": "SAKAR-EQ",
+    "name": "SAKAR"
+  },
+  {
+    "token": 2969,
+    "symbol": "SAKHTISUG-EQ",
+    "name": "SAKHTISUG"
+  },
+  {
+    "token": 11794,
+    "symbol": "SAKSOFT-EQ",
+    "name": "SAKSOFT"
+  },
+  {
+    "token": 13251,
+    "symbol": "SAKUMA-EQ",
+    "name": "SAKUMA"
+  },
+  {
+    "token": 21362,
+    "symbol": "SALASAR-EQ",
+    "name": "SALASAR"
+  },
+  {
+    "token": 17351,
+    "symbol": "SALONA-EQ",
+    "name": "SALONA"
+  },
+  {
+    "token": 11399,
+    "symbol": "SALZERELEC-EQ",
+    "name": "SALZERELEC"
+  },
+  {
+    "token": 18614,
+    "symbol": "SAMHI-EQ",
+    "name": "SAMHI"
+  },
+  {
+    "token": 27303,
+    "symbol": "SAMPANN-EQ",
+    "name": "SAMPANN"
+  },
+  {
+    "token": 2988,
+    "symbol": "SANDESH-EQ",
+    "name": "SANDESH"
+  },
+  {
+    "token": 2397,
+    "symbol": "SANDHAR-EQ",
+    "name": "SANDHAR"
+  },
+  {
+    "token": 18359,
+    "symbol": "SANDUMA-EQ",
+    "name": "SANDUMA"
+  },
+  {
+    "token": 4184,
+    "symbol": "SANGAMIND-EQ",
+    "name": "SANGAMIND"
+  },
+  {
+    "token": 2997,
+    "symbol": "SANGHIIND-EQ",
+    "name": "SANGHIIND"
+  },
+  {
+    "token": 14058,
+    "symbol": "SANGHVIMOV-EQ",
+    "name": "SANGHVIMOV"
+  },
+  {
+    "token": 11032,
+    "symbol": "SANGINITA-EQ",
+    "name": "SANGINITA"
+  },
+  {
+    "token": 1442,
+    "symbol": "SANOFI-EQ",
+    "name": "SANOFI"
+  },
+  {
+    "token": 5751,
+    "symbol": "SANSERA-EQ",
+    "name": "SANSERA"
+  },
+  {
+    "token": 6718,
+    "symbol": "SAPPHIRE-EQ",
+    "name": "SAPPHIRE"
+  },
+  {
+    "token": 17758,
+    "symbol": "SARDAEN-EQ",
+    "name": "SARDAEN"
+  },
+  {
+    "token": 4892,
+    "symbol": "SAREGAMA-EQ",
+    "name": "SAREGAMA"
+  },
+  {
+    "token": 14043,
+    "symbol": "SARLAPOLY-EQ",
+    "name": "SARLAPOLY"
+  },
+  {
+    "token": 12913,
+    "symbol": "SARVESHWAR-EQ",
+    "name": "SARVESHWAR"
+  },
+  {
+    "token": 11983,
+    "symbol": "SASKEN-EQ",
+    "name": "SASKEN"
+  },
+  {
+    "token": 20063,
+    "symbol": "SASTASUNDR-EQ",
+    "name": "SASTASUNDR"
+  },
+  {
+    "token": 11045,
+    "symbol": "SATIA-EQ",
+    "name": "SATIA"
+  },
+  {
+    "token": 10453,
+    "symbol": "SATIN-EQ",
+    "name": "SATIN"
+  },
+  {
+    "token": 12015,
+    "symbol": "SATINDLTD-EQ",
+    "name": "SATINDLTD"
+  },
+  {
+    "token": 3018,
+    "symbol": "SAURASHCEM-EQ",
+    "name": "SAURASHCEM"
+  },
+  {
+    "token": 6792,
+    "symbol": "SBC-EQ",
+    "name": "SBC"
+  },
+  {
+    "token": 4656,
+    "symbol": "SBCL-EQ",
+    "name": "SBCL"
+  },
+  {
+    "token": 18026,
+    "symbol": "SBFC-EQ",
+    "name": "SBFC"
+  },
+  {
+    "token": 14139,
+    "symbol": "SBGLP-EQ",
+    "name": "SBGLP"
+  },
+  {
+    "token": 17971,
+    "symbol": "SBICARD-EQ",
+    "name": "SBICARD"
+  },
+  {
+    "token": 5168,
+    "symbol": "SBIETFCON-EQ",
+    "name": "SBIETFCON"
+  },
+  {
+    "token": 740,
+    "symbol": "SBIETFIT-EQ",
+    "name": "SBIETFIT"
+  },
+  {
+    "token": 722,
+    "symbol": "SBIETFPB-EQ",
+    "name": "SBIETFPB"
+  },
+  {
+    "token": 7218,
+    "symbol": "SBIETFQLTY-EQ",
+    "name": "SBIETFQLTY"
+  },
+  {
+    "token": 21808,
+    "symbol": "SBILIFE-EQ",
+    "name": "SBILIFE"
+  },
+  {
+    "token": 3045,
+    "symbol": "SBIN-EQ",
+    "name": "SBIN"
+  },
+  {
+    "token": 1011,
+    "symbol": "SCHAEFFLER-EQ",
+    "name": "SCHAEFFLER"
+  },
+  {
+    "token": 20698,
+    "symbol": "SCHAND-EQ",
+    "name": "SCHAND"
+  },
+  {
+    "token": 31234,
+    "symbol": "SCHNEIDER-EQ",
+    "name": "SCHNEIDER"
+  },
+  {
+    "token": 3048,
+    "symbol": "SCI-EQ",
+    "name": "SCI"
+  },
+  {
+    "token": 23127,
+    "symbol": "SCILAL-EQ",
+    "name": "SCILAL"
+  },
+  {
+    "token": 12072,
+    "symbol": "SCPL-EQ",
+    "name": "SCPL"
+  },
+  {
+    "token": 1338,
+    "symbol": "SDBL-EQ",
+    "name": "SDBL"
+  },
+  {
+    "token": 1143,
+    "symbol": "SDL24BEES-EQ",
+    "name": "SDL24BEES"
+  },
+  {
+    "token": 3022,
+    "symbol": "SDL26BEES-EQ",
+    "name": "SDL26BEES"
+  },
+  {
+    "token": 2616,
+    "symbol": "SEAMECLTD-EQ",
+    "name": "SEAMECLTD"
+  },
+  {
+    "token": 13598,
+    "symbol": "SELAN-EQ",
+    "name": "SELAN"
+  },
+  {
+    "token": 6262,
+    "symbol": "SELMC-EQ",
+    "name": "SELMC"
+  },
+  {
+    "token": 17271,
+    "symbol": "SENCO-EQ",
+    "name": "SENCO"
+  },
+  {
+    "token": 17613,
+    "symbol": "SENSEXADD-EQ",
+    "name": "SENSEXADD"
+  },
+  {
+    "token": 19224,
+    "symbol": "SENSEXETF-EQ",
+    "name": "SENSEXETF"
+  },
+  {
+    "token": 4378,
+    "symbol": "SENSEXIETF-EQ",
+    "name": "SENSEXIETF"
+  },
+  {
+    "token": 15308,
+    "symbol": "SEPC-EQ",
+    "name": "SEPC"
+  },
+  {
+    "token": 14296,
+    "symbol": "SEQUENT-EQ",
+    "name": "SEQUENT"
+  },
+  {
+    "token": 5507,
+    "symbol": "SERVOTECH-EQ",
+    "name": "SERVOTECH"
+  },
+  {
+    "token": 3066,
+    "symbol": "SESHAPAPER-EQ",
+    "name": "SESHAPAPER"
+  },
+  {
+    "token": 17395,
+    "symbol": "SETF10GILT-EQ",
+    "name": "SETF10GILT"
+  },
+  {
+    "token": 17272,
+    "symbol": "SETFGOLD-EQ",
+    "name": "SETFGOLD"
+  },
+  {
+    "token": 10176,
+    "symbol": "SETFNIF50-EQ",
+    "name": "SETFNIF50"
+  },
+  {
+    "token": 7361,
+    "symbol": "SETFNIFBK-EQ",
+    "name": "SETFNIFBK"
+  },
+  {
+    "token": 7353,
+    "symbol": "SETFNN50-EQ",
+    "name": "SETFNN50"
+  },
+  {
+    "token": 19184,
+    "symbol": "SFL-EQ",
+    "name": "SFL"
+  },
+  {
+    "token": 5114,
+    "symbol": "SGIL-EQ",
+    "name": "SGIL"
+  },
+  {
+    "token": 13367,
+    "symbol": "SGL-EQ",
+    "name": "SGL"
+  },
+  {
+    "token": 20296,
+    "symbol": "SHAH-EQ",
+    "name": "SHAH"
+  },
+  {
+    "token": 11856,
+    "symbol": "SHAHALLOYS-EQ",
+    "name": "SHAHALLOYS"
+  },
+  {
+    "token": 8727,
+    "symbol": "SHAILY-EQ",
+    "name": "SHAILY"
+  },
+  {
+    "token": 25574,
+    "symbol": "SHAKTIPUMP-EQ",
+    "name": "SHAKTIPUMP"
+  },
+  {
+    "token": 714,
+    "symbol": "SHALBY-EQ",
+    "name": "SHALBY"
+  },
+  {
+    "token": 15342,
+    "symbol": "SHALPAINTS-EQ",
+    "name": "SHALPAINTS"
+  },
+  {
+    "token": 20321,
+    "symbol": "SHANKARA-EQ",
+    "name": "SHANKARA"
+  },
+  {
+    "token": 3078,
+    "symbol": "SHANTIGEAR-EQ",
+    "name": "SHANTIGEAR"
+  },
+  {
+    "token": 4992,
+    "symbol": "SHARDACROP-EQ",
+    "name": "SHARDACROP"
+  },
+  {
+    "token": 10530,
+    "symbol": "SHARDAMOTR-EQ",
+    "name": "SHARDAMOTR"
+  },
+  {
+    "token": 104,
+    "symbol": "SHAREINDIA-EQ",
+    "name": "SHAREINDIA"
+  },
+  {
+    "token": 17044,
+    "symbol": "SHARIABEES-EQ",
+    "name": "SHARIABEES"
+  },
+  {
+    "token": 5068,
+    "symbol": "SHEMAROO-EQ",
+    "name": "SHEMAROO"
+  },
+  {
+    "token": 17752,
+    "symbol": "SHILPAMED-EQ",
+    "name": "SHILPAMED"
+  },
+  {
+    "token": 7016,
+    "symbol": "SHIVALIK-EQ",
+    "name": "SHIVALIK"
+  },
+  {
+    "token": 13756,
+    "symbol": "SHIVAMAUTO-EQ",
+    "name": "SHIVAMAUTO"
+  },
+  {
+    "token": 1497,
+    "symbol": "SHIVAMILLS-EQ",
+    "name": "SHIVAMILLS"
+  },
+  {
+    "token": 804,
+    "symbol": "SHIVATEX-EQ",
+    "name": "SHIVATEX"
+  },
+  {
+    "token": 11212,
+    "symbol": "SHK-EQ",
+    "name": "SHK"
+  },
+  {
+    "token": 11813,
+    "symbol": "SHOPERSTOP-EQ",
+    "name": "SHOPERSTOP"
+  },
+  {
+    "token": 708,
+    "symbol": "SHRADHA-EQ",
+    "name": "SHRADHA"
+  },
+  {
+    "token": 3099,
+    "symbol": "SHREDIGCEM-EQ",
+    "name": "SHREDIGCEM"
+  },
+  {
+    "token": 3103,
+    "symbol": "SHREECEM-EQ",
+    "name": "SHREECEM"
+  },
+  {
+    "token": 10588,
+    "symbol": "SHREEPUSHK-EQ",
+    "name": "SHREEPUSHK"
+  },
+  {
+    "token": 11149,
+    "symbol": "SHRENIK-EQ",
+    "name": "SHRENIK"
+  },
+  {
+    "token": 3126,
+    "symbol": "SHREYANIND-EQ",
+    "name": "SHREYANIND"
+  },
+  {
+    "token": 3129,
+    "symbol": "SHREYAS-EQ",
+    "name": "SHREYAS"
+  },
+  {
+    "token": 17186,
+    "symbol": "SHRIPISTON-EQ",
+    "name": "SHRIPISTON"
+  },
+  {
+    "token": 4306,
+    "symbol": "SHRIRAMFIN-EQ",
+    "name": "SHRIRAMFIN"
+  },
+  {
+    "token": 7200,
+    "symbol": "SHRIRAMPPS-EQ",
+    "name": "SHRIRAMPPS"
+  },
+  {
+    "token": 4693,
+    "symbol": "SHYAMMETL-EQ",
+    "name": "SHYAMMETL"
+  },
+  {
+    "token": 3150,
+    "symbol": "SIEMENS-EQ",
+    "name": "SIEMENS"
+  },
+  {
+    "token": 6663,
+    "symbol": "SIGACHI-EQ",
+    "name": "SIGACHI"
+  },
+  {
+    "token": 4522,
+    "symbol": "SIGIND-EQ",
+    "name": "SIGIND"
+  },
+  {
+    "token": 16658,
+    "symbol": "SIGMA-EQ",
+    "name": "SIGMA"
+  },
+  {
+    "token": 18743,
+    "symbol": "SIGNATURE-EQ",
+    "name": "SIGNATURE"
+  },
+  {
+    "token": 22656,
+    "symbol": "SIGNPOST-EQ",
+    "name": "SIGNPOST"
+  },
+  {
+    "token": 6218,
+    "symbol": "SIKKO-EQ",
+    "name": "SIKKO"
+  },
+  {
+    "token": 11297,
+    "symbol": "SIL-EQ",
+    "name": "SIL"
+  },
+  {
+    "token": 2492,
+    "symbol": "SILGO-EQ",
+    "name": "SILGO"
+  },
+  {
+    "token": 4105,
+    "symbol": "SILINV-EQ",
+    "name": "SILINV"
+  },
+  {
+    "token": 19097,
+    "symbol": "SILLYMONKS-EQ",
+    "name": "SILLYMONKS"
+  },
+  {
+    "token": 8003,
+    "symbol": "SILVER-EQ",
+    "name": "SILVER"
+  },
+  {
+    "token": 13082,
+    "symbol": "SILVER1-EQ",
+    "name": "SILVER1"
+  },
+  {
+    "token": 10761,
+    "symbol": "SILVERADD-EQ",
+    "name": "SILVERADD"
+  },
+  {
+    "token": 8080,
+    "symbol": "SILVERBEES-EQ",
+    "name": "SILVERBEES"
+  },
+  {
+    "token": 15085,
+    "symbol": "SILVERETF-EQ",
+    "name": "SILVERETF"
+  },
+  {
+    "token": 7942,
+    "symbol": "SILVERIETF-EQ",
+    "name": "SILVERIETF"
+  },
+  {
+    "token": 9422,
+    "symbol": "SILVERTUC-EQ",
+    "name": "SILVERTUC"
+  },
+  {
+    "token": 16777,
+    "symbol": "SILVRETF-EQ",
+    "name": "SILVRETF"
+  },
+  {
+    "token": 14612,
+    "symbol": "SIMBHALS-EQ",
+    "name": "SIMBHALS"
+  },
+  {
+    "token": 23480,
+    "symbol": "SINCLAIR-EQ",
+    "name": "SINCLAIR"
+  },
+  {
+    "token": 16859,
+    "symbol": "SINDHUTRAD-EQ",
+    "name": "SINDHUTRAD"
+  },
+  {
+    "token": 381,
+    "symbol": "SINTERCOM-EQ",
+    "name": "SINTERCOM"
+  },
+  {
+    "token": 11050,
+    "symbol": "SIRCA-EQ",
+    "name": "SIRCA"
+  },
+  {
+    "token": 21501,
+    "symbol": "SIS-EQ",
+    "name": "SIS"
+  },
+  {
+    "token": 14096,
+    "symbol": "SIYSIL-EQ",
+    "name": "SIYSIL"
+  },
+  {
+    "token": 6643,
+    "symbol": "SJS-EQ",
+    "name": "SJS"
+  },
+  {
+    "token": 18883,
+    "symbol": "SJVN-EQ",
+    "name": "SJVN"
+  },
+  {
+    "token": 3186,
+    "symbol": "SKFINDIA-EQ",
+    "name": "SKFINDIA"
+  },
+  {
+    "token": 9428,
+    "symbol": "SKIPPER-EQ",
+    "name": "SKIPPER"
+  },
+  {
+    "token": 4732,
+    "symbol": "SKMEGGPROD-EQ",
+    "name": "SKMEGGPROD"
+  },
+  {
+    "token": 22832,
+    "symbol": "SMALLCAP-EQ",
+    "name": "SMALLCAP"
+  },
+  {
+    "token": 2320,
+    "symbol": "SMCGLOBAL-EQ",
+    "name": "SMCGLOBAL"
+  },
+  {
+    "token": 3387,
+    "symbol": "SMLISUZU-EQ",
+    "name": "SMLISUZU"
+  },
+  {
+    "token": 6843,
+    "symbol": "SMLT-EQ",
+    "name": "SMLT"
+  },
+  {
+    "token": 21551,
+    "symbol": "SMSLIFE-EQ",
+    "name": "SMSLIFE"
+  },
+  {
+    "token": 14329,
+    "symbol": "SMSPHARMA-EQ",
+    "name": "SMSPHARMA"
+  },
+  {
+    "token": 4843,
+    "symbol": "SNOWMAN-EQ",
+    "name": "SNOWMAN"
+  },
+  {
+    "token": 13826,
+    "symbol": "SOBHA-EQ",
+    "name": "SOBHA"
+  },
+  {
+    "token": 8266,
+    "symbol": "SOFTTECH-EQ",
+    "name": "SOFTTECH"
+  },
+  {
+    "token": 3672,
+    "symbol": "SOLARA-EQ",
+    "name": "SOLARA"
+  },
+  {
+    "token": 13332,
+    "symbol": "SOLARINDS-EQ",
+    "name": "SOLARINDS"
+  },
+  {
+    "token": 3880,
+    "symbol": "SOMANYCERA-EQ",
+    "name": "SOMANYCERA"
+  },
+  {
+    "token": 17794,
+    "symbol": "SOMICONVEY-EQ",
+    "name": "SOMICONVEY"
+  },
+  {
+    "token": 4684,
+    "symbol": "SONACOMS-EQ",
+    "name": "SONACOMS"
+  },
+  {
+    "token": 8806,
+    "symbol": "SONAMLTD-EQ",
+    "name": "SONAMLTD"
+  },
+  {
+    "token": 6596,
+    "symbol": "SONATSOFTW-EQ",
+    "name": "SONATSOFTW"
+  },
+  {
+    "token": 3021,
+    "symbol": "SOTL-EQ",
+    "name": "SOTL"
+  },
+  {
+    "token": 5948,
+    "symbol": "SOUTHBANK-EQ",
+    "name": "SOUTHBANK"
+  },
+  {
+    "token": 9678,
+    "symbol": "SOUTHWEST-EQ",
+    "name": "SOUTHWEST"
+  },
+  {
+    "token": 18252,
+    "symbol": "SPAL-EQ",
+    "name": "SPAL"
+  },
+  {
+    "token": 11435,
+    "symbol": "SPANDANA-EQ",
+    "name": "SPANDANA"
+  },
+  {
+    "token": 14788,
+    "symbol": "SPARC-EQ",
+    "name": "SPARC"
+  },
+  {
+    "token": 19372,
+    "symbol": "SPCENET-EQ",
+    "name": "SPCENET"
+  },
+  {
+    "token": 27107,
+    "symbol": "SPECIALITY-EQ",
+    "name": "SPECIALITY"
+  },
+  {
+    "token": 8163,
+    "symbol": "SPENCERS-EQ",
+    "name": "SPENCERS"
+  },
+  {
+    "token": 3252,
+    "symbol": "SPIC-EQ",
+    "name": "SPIC"
+  },
+  {
+    "token": 11935,
+    "symbol": "SPLIL-EQ",
+    "name": "SPLIL"
+  },
+  {
+    "token": 9617,
+    "symbol": "SPLPETRO-EQ",
+    "name": "SPLPETRO"
+  },
+  {
+    "token": 3321,
+    "symbol": "SPMLINFRA-EQ",
+    "name": "SPMLINFRA"
+  },
+  {
+    "token": 10733,
+    "symbol": "SPORTKING-EQ",
+    "name": "SPORTKING"
+  },
+  {
+    "token": 31837,
+    "symbol": "SREEL-EQ",
+    "name": "SREEL"
+  },
+  {
+    "token": 3273,
+    "symbol": "SRF-EQ",
+    "name": "SRF"
+  },
+  {
+    "token": 18119,
+    "symbol": "SRGHFL-EQ",
+    "name": "SRGHFL"
+  },
+  {
+    "token": 14582,
+    "symbol": "SRHHYPOLTD-EQ",
+    "name": "SRHHYPOLTD"
+  },
+  {
+    "token": 23402,
+    "symbol": "SRM-EQ",
+    "name": "SRM"
+  },
+  {
+    "token": 11829,
+    "symbol": "SSWL-EQ",
+    "name": "SSWL"
+  },
+  {
+    "token": 7374,
+    "symbol": "STAR-EQ",
+    "name": "STAR"
+  },
+  {
+    "token": 21091,
+    "symbol": "STARCEMENT-EQ",
+    "name": "STARCEMENT"
+  },
+  {
+    "token": 7083,
+    "symbol": "STARHEALTH-EQ",
+    "name": "STARHEALTH"
+  },
+  {
+    "token": 3291,
+    "symbol": "STARPAPER-EQ",
+    "name": "STARPAPER"
+  },
+  {
+    "token": 10948,
+    "symbol": "STCINDIA-EQ",
+    "name": "STCINDIA"
+  },
+  {
+    "token": 6803,
+    "symbol": "STEELCAS-EQ",
+    "name": "STEELCAS"
+  },
+  {
+    "token": 10406,
+    "symbol": "STEELCITY-EQ",
+    "name": "STEELCITY"
+  },
+  {
+    "token": 21339,
+    "symbol": "STEELXIND-EQ",
+    "name": "STEELXIND"
+  },
+  {
+    "token": 21484,
+    "symbol": "STEL-EQ",
+    "name": "STEL"
+  },
+  {
+    "token": 4299,
+    "symbol": "STERTOOLS-EQ",
+    "name": "STERTOOLS"
+  },
+  {
+    "token": 9309,
+    "symbol": "STLTECH-EQ",
+    "name": "STLTECH"
+  },
+  {
+    "token": 2107,
+    "symbol": "STOVEKRAFT-EQ",
+    "name": "STOVEKRAFT"
+  },
+  {
+    "token": 5186,
+    "symbol": "STYLAMIND-EQ",
+    "name": "STYLAMIND"
+  },
+  {
+    "token": 19,
+    "symbol": "STYRENIX-EQ",
+    "name": "STYRENIX"
+  },
+  {
+    "token": 967,
+    "symbol": "SUBEXLTD-EQ",
+    "name": "SUBEXLTD"
+  },
+  {
+    "token": 3324,
+    "symbol": "SUBROS-EQ",
+    "name": "SUBROS"
+  },
+  {
+    "token": 3327,
+    "symbol": "SUDARSCHEM-EQ",
+    "name": "SUDARSCHEM"
+  },
+  {
+    "token": 11804,
+    "symbol": "SUKHJITS-EQ",
+    "name": "SUKHJITS"
+  },
+  {
+    "token": 13218,
+    "symbol": "SULA-EQ",
+    "name": "SULA"
+  },
+  {
+    "token": 17105,
+    "symbol": "SUMICHEM-EQ",
+    "name": "SUMICHEM"
+  },
+  {
+    "token": 21275,
+    "symbol": "SUMMITSEC-EQ",
+    "name": "SUMMITSEC"
+  },
+  {
+    "token": 20956,
+    "symbol": "SUNCLAY-EQ",
+    "name": "SUNCLAY"
+  },
+  {
+    "token": 18931,
+    "symbol": "SUNDARAM-EQ",
+    "name": "SUNDARAM"
+  },
+  {
+    "token": 3339,
+    "symbol": "SUNDARMFIN-EQ",
+    "name": "SUNDARMFIN"
+  },
+  {
+    "token": 2183,
+    "symbol": "SUNDARMHLD-EQ",
+    "name": "SUNDARMHLD"
+  },
+  {
+    "token": 4179,
+    "symbol": "SUNDRMBRAK-EQ",
+    "name": "SUNDRMBRAK"
+  },
+  {
+    "token": 3345,
+    "symbol": "SUNDRMFAST-EQ",
+    "name": "SUNDRMFAST"
+  },
+  {
+    "token": 3348,
+    "symbol": "SUNFLAG-EQ",
+    "name": "SUNFLAG"
+  },
+  {
+    "token": 3351,
+    "symbol": "SUNPHARMA-EQ",
+    "name": "SUNPHARMA"
+  },
+  {
+    "token": 17641,
+    "symbol": "SUNTECK-EQ",
+    "name": "SUNTECK"
+  },
+  {
+    "token": 13404,
+    "symbol": "SUNTV-EQ",
+    "name": "SUNTV"
+  },
+  {
+    "token": 20616,
+    "symbol": "SUPERHOUSE-EQ",
+    "name": "SUPERHOUSE"
+  },
+  {
+    "token": 3357,
+    "symbol": "SUPERSPIN-EQ",
+    "name": "SUPERSPIN"
+  },
+  {
+    "token": 11689,
+    "symbol": "SUPRAJIT-EQ",
+    "name": "SUPRAJIT"
+  },
+  {
+    "token": 3363,
+    "symbol": "SUPREMEIND-EQ",
+    "name": "SUPREMEIND"
+  },
+  {
+    "token": 7390,
+    "symbol": "SUPRIYA-EQ",
+    "name": "SUPRIYA"
+  },
+  {
+    "token": 20822,
+    "symbol": "SURAJEST-EQ",
+    "name": "SURAJEST"
+  },
+  {
+    "token": 10700,
+    "symbol": "SURANAT&P-EQ",
+    "name": "SURANAT&P"
+  },
+  {
+    "token": 11852,
+    "symbol": "SURYALAXMI-EQ",
+    "name": "SURYALAXMI"
+  },
+  {
+    "token": 3375,
+    "symbol": "SURYAROSNI-EQ",
+    "name": "SURYAROSNI"
+  },
+  {
+    "token": 2970,
+    "symbol": "SURYODAY-EQ",
+    "name": "SURYODAY"
+  },
+  {
+    "token": 13801,
+    "symbol": "SUTLEJTEX-EQ",
+    "name": "SUTLEJTEX"
+  },
+  {
+    "token": 638,
+    "symbol": "SUULD-EQ",
+    "name": "SUULD"
+  },
+  {
+    "token": 11233,
+    "symbol": "SUVEN-EQ",
+    "name": "SUVEN"
+  },
+  {
+    "token": 17945,
+    "symbol": "SUVENPHAR-EQ",
+    "name": "SUVENPHAR"
+  },
+  {
+    "token": 2998,
+    "symbol": "SUVIDHAA-EQ",
+    "name": "SUVIDHAA"
+  },
+  {
+    "token": 15121,
+    "symbol": "SVLL-EQ",
+    "name": "SVLL"
+  },
+  {
+    "token": 5020,
+    "symbol": "SVPGLOB-EQ",
+    "name": "SVPGLOB"
+  },
+  {
+    "token": 27095,
+    "symbol": "SWANENERGY-EQ",
+    "name": "SWANENERGY"
+  },
+  {
+    "token": 3384,
+    "symbol": "SWARAJENG-EQ",
+    "name": "SWARAJENG"
+  },
+  {
+    "token": 11909,
+    "symbol": "SWELECTES-EQ",
+    "name": "SWELECTES"
+  },
+  {
+    "token": 12489,
+    "symbol": "SWSOLAR-EQ",
+    "name": "SWSOLAR"
+  },
+  {
+    "token": 24190,
+    "symbol": "SYMPHONY-EQ",
+    "name": "SYMPHONY"
+  },
+  {
+    "token": 11992,
+    "symbol": "SYNCOMF-EQ",
+    "name": "SYNCOMF"
+  },
+  {
+    "token": 10243,
+    "symbol": "SYNGENE-EQ",
+    "name": "SYNGENE"
+  },
+  {
+    "token": 10793,
+    "symbol": "SYRMA-EQ",
+    "name": "SYRMA"
+  },
+  {
+    "token": 9354,
+    "symbol": "TAJGVK-EQ",
+    "name": "TAJGVK"
+  },
+  {
+    "token": 14917,
+    "symbol": "TAKE-EQ",
+    "name": "TAKE"
+  },
+  {
+    "token": 13648,
+    "symbol": "TALBROAUTO-EQ",
+    "name": "TALBROAUTO"
+  },
+  {
+    "token": 13976,
+    "symbol": "TANLA-EQ",
+    "name": "TANLA"
+  },
+  {
+    "token": 1581,
+    "symbol": "TARC-EQ",
+    "name": "TARC"
+  },
+  {
+    "token": 6943,
+    "symbol": "TARSONS-EQ",
+    "name": "TARSONS"
+  },
+  {
+    "token": 20092,
+    "symbol": "TASTYBITE-EQ",
+    "name": "TASTYBITE"
+  },
+  {
+    "token": 3405,
+    "symbol": "TATACHEM-EQ",
+    "name": "TATACHEM"
+  },
+  {
+    "token": 3721,
+    "symbol": "TATACOMM-EQ",
+    "name": "TATACOMM"
+  },
+  {
+    "token": 3432,
+    "symbol": "TATACONSUM-EQ",
+    "name": "TATACONSUM"
+  },
+  {
+    "token": 3411,
+    "symbol": "TATAELXSI-EQ",
+    "name": "TATAELXSI"
+  },
+  {
+    "token": 21401,
+    "symbol": "TATAGOLD-EQ",
+    "name": "TATAGOLD"
+  },
+  {
+    "token": 1621,
+    "symbol": "TATAINVEST-EQ",
+    "name": "TATAINVEST"
+  },
+  {
+    "token": 3456,
+    "symbol": "TATAMOTORS-EQ",
+    "name": "TATAMOTORS"
+  },
+  {
+    "token": 16965,
+    "symbol": "TATAMTRDVR-EQ",
+    "name": "TATAMTRDVR"
+  },
+  {
+    "token": 3426,
+    "symbol": "TATAPOWER-EQ",
+    "name": "TATAPOWER"
+  },
+  {
+    "token": 3499,
+    "symbol": "TATASTEEL-EQ",
+    "name": "TATASTEEL"
+  },
+  {
+    "token": 20293,
+    "symbol": "TATATECH-EQ",
+    "name": "TATATECH"
+  },
+  {
+    "token": 21428,
+    "symbol": "TATSILV-EQ",
+    "name": "TATSILV"
+  },
+  {
+    "token": 5162,
+    "symbol": "TATVA-EQ",
+    "name": "TATVA"
+  },
+  {
+    "token": 23740,
+    "symbol": "TBOTEK-EQ",
+    "name": "TBOTEK"
+  },
+  {
+    "token": 27037,
+    "symbol": "TBZ-EQ",
+    "name": "TBZ"
+  },
+  {
+    "token": 10580,
+    "symbol": "TCI-EQ",
+    "name": "TCI"
+  },
+  {
+    "token": 19223,
+    "symbol": "TCIEXP-EQ",
+    "name": "TCIEXP"
+  },
+  {
+    "token": 4771,
+    "symbol": "TCIFINANCE-EQ",
+    "name": "TCIFINANCE"
+  },
+  {
+    "token": 19501,
+    "symbol": "TCLCONS-EQ",
+    "name": "TCLCONS"
+  },
+  {
+    "token": 4172,
+    "symbol": "TCNSBRANDS-EQ",
+    "name": "TCNSBRANDS"
+  },
+  {
+    "token": 184,
+    "symbol": "TCPLPACK-EQ",
+    "name": "TCPLPACK"
+  },
+  {
+    "token": 11536,
+    "symbol": "TCS-EQ",
+    "name": "TCS"
+  },
+  {
+    "token": 25178,
+    "symbol": "TDPOWERSYS-EQ",
+    "name": "TDPOWERSYS"
+  },
+  {
+    "token": 12716,
+    "symbol": "TEAMLEASE-EQ",
+    "name": "TEAMLEASE"
+  },
+  {
+    "token": 6462,
+    "symbol": "TECH-EQ",
+    "name": "TECH"
+  },
+  {
+    "token": 13538,
+    "symbol": "TECHM-EQ",
+    "name": "TECHM"
+  },
+  {
+    "token": 6445,
+    "symbol": "TECHNOE-EQ",
+    "name": "TECHNOE"
+  },
+  {
+    "token": 3453,
+    "symbol": "TECILCHEM-EQ",
+    "name": "TECILCHEM"
+  },
+  {
+    "token": 7105,
+    "symbol": "TEGA-EQ",
+    "name": "TEGA"
+  },
+  {
+    "token": 21131,
+    "symbol": "TEJASNET-EQ",
+    "name": "TEJASNET"
+  },
+  {
+    "token": 3275,
+    "symbol": "TEMBO-EQ",
+    "name": "TEMBO"
+  },
+  {
+    "token": 19292,
+    "symbol": "TERASOFT-EQ",
+    "name": "TERASOFT"
+  },
+  {
+    "token": 11549,
+    "symbol": "TEXINFRA-EQ",
+    "name": "TEXINFRA"
+  },
+  {
+    "token": 18214,
+    "symbol": "TEXMOPIPES-EQ",
+    "name": "TEXMOPIPES"
+  },
+  {
+    "token": 21828,
+    "symbol": "TEXRAIL-EQ",
+    "name": "TEXRAIL"
+  },
+  {
+    "token": 3466,
+    "symbol": "TFCILTD-EQ",
+    "name": "TFCILTD"
+  },
+  {
+    "token": 14607,
+    "symbol": "TGBHOTELS-EQ",
+    "name": "TGBHOTELS"
+  },
+  {
+    "token": 18118,
+    "symbol": "THANGAMAYL-EQ",
+    "name": "THANGAMAYL"
+  },
+  {
+    "token": 21427,
+    "symbol": "THEINVEST-EQ",
+    "name": "THEINVEST"
+  },
+  {
+    "token": 19279,
+    "symbol": "THEJO-EQ",
+    "name": "THEJO"
+  },
+  {
+    "token": 14485,
+    "symbol": "THEMISMED-EQ",
+    "name": "THEMISMED"
+  },
+  {
+    "token": 3475,
+    "symbol": "THERMAX-EQ",
+    "name": "THERMAX"
+  },
+  {
+    "token": 3481,
+    "symbol": "THOMASCOOK-EQ",
+    "name": "THOMASCOOK"
+  },
+  {
+    "token": 17032,
+    "symbol": "THYROCARE-EQ",
+    "name": "THYROCARE"
+  },
+  {
+    "token": 19196,
+    "symbol": "TI-EQ",
+    "name": "TI"
+  },
+  {
+    "token": 14019,
+    "symbol": "TIDEWATER-EQ",
+    "name": "TIDEWATER"
+  },
+  {
+    "token": 14223,
+    "symbol": "TIIL-EQ",
+    "name": "TIIL"
+  },
+  {
+    "token": 312,
+    "symbol": "TIINDIA-EQ",
+    "name": "TIINDIA"
+  },
+  {
+    "token": 14707,
+    "symbol": "TIMETECHNO-EQ",
+    "name": "TIMETECHNO"
+  },
+  {
+    "token": 14198,
+    "symbol": "TIMKEN-EQ",
+    "name": "TIMKEN"
+  },
+  {
+    "token": 11374,
+    "symbol": "TIPSFILMS-EQ",
+    "name": "TIPSFILMS"
+  },
+  {
+    "token": 9117,
+    "symbol": "TIPSINDLTD-EQ",
+    "name": "TIPSINDLTD"
+  },
+  {
+    "token": 3496,
+    "symbol": "TIRUMALCHM-EQ",
+    "name": "TIRUMALCHM"
+  },
+  {
+    "token": 22282,
+    "symbol": "TIRUPATIFL-EQ",
+    "name": "TIRUPATIFL"
+  },
+  {
+    "token": 15414,
+    "symbol": "TITAGARH-EQ",
+    "name": "TITAGARH"
+  },
+  {
+    "token": 3506,
+    "symbol": "TITAN-EQ",
+    "name": "TITAN"
+  },
+  {
+    "token": 10945,
+    "symbol": "TMB-EQ",
+    "name": "TMB"
+  },
+  {
+    "token": 8882,
+    "symbol": "TNIDETF-EQ",
+    "name": "TNIDETF"
+  },
+  {
+    "token": 3509,
+    "symbol": "TNPETRO-EQ",
+    "name": "TNPETRO"
+  },
+  {
+    "token": 3980,
+    "symbol": "TNPL-EQ",
+    "name": "TNPL"
+  },
+  {
+    "token": 3837,
+    "symbol": "TOKYOPLAST-EQ",
+    "name": "TOKYOPLAST"
+  },
+  {
+    "token": 3518,
+    "symbol": "TORNTPHARM-EQ",
+    "name": "TORNTPHARM"
+  },
+  {
+    "token": 13786,
+    "symbol": "TORNTPOWER-EQ",
+    "name": "TORNTPOWER"
+  },
+  {
+    "token": 22423,
+    "symbol": "TOTAL-EQ",
+    "name": "TOTAL"
+  },
+  {
+    "token": 16908,
+    "symbol": "TOUCHWOOD-EQ",
+    "name": "TOUCHWOOD"
+  },
+  {
+    "token": 9219,
+    "symbol": "TPLPLASTEH-EQ",
+    "name": "TPLPLASTEH"
+  },
+  {
+    "token": 11582,
+    "symbol": "TRACXN-EQ",
+    "name": "TRACXN"
+  },
+  {
+    "token": 25082,
+    "symbol": "TREEHOUSE-EQ",
+    "name": "TREEHOUSE"
+  },
+  {
+    "token": 17795,
+    "symbol": "TREL-EQ",
+    "name": "TREL"
+  },
+  {
+    "token": 1964,
+    "symbol": "TRENT-EQ",
+    "name": "TRENT"
+  },
+  {
+    "token": 9685,
+    "symbol": "TRIDENT-EQ",
+    "name": "TRIDENT"
+  },
+  {
+    "token": 5428,
+    "symbol": "TRIGYN-EQ",
+    "name": "TRIGYN"
+  },
+  {
+    "token": 25584,
+    "symbol": "TRITURBINE-EQ",
+    "name": "TRITURBINE"
+  },
+  {
+    "token": 13081,
+    "symbol": "TRIVENI-EQ",
+    "name": "TRIVENI"
+  },
+  {
+    "token": 9378,
+    "symbol": "TRU-EQ",
+    "name": "TRU"
+  },
+  {
+    "token": 11369,
+    "symbol": "TTKHLTCARE-EQ",
+    "name": "TTKHLTCARE"
+  },
+  {
+    "token": 3546,
+    "symbol": "TTKPRESTIG-EQ",
+    "name": "TTKPRESTIG"
+  },
+  {
+    "token": 14314,
+    "symbol": "TTL-EQ",
+    "name": "TTL"
+  },
+  {
+    "token": 8954,
+    "symbol": "TTML-EQ",
+    "name": "TTML"
+  },
+  {
+    "token": 14208,
+    "symbol": "TV18BRDCST-EQ",
+    "name": "TV18BRDCST"
+  },
+  {
+    "token": 11265,
+    "symbol": "TVSELECT-EQ",
+    "name": "TVSELECT"
+  },
+  {
+    "token": 29008,
+    "symbol": "TVSHLTD-EQ",
+    "name": "TVSHLTD"
+  },
+  {
+    "token": 8479,
+    "symbol": "TVSMOTOR-EQ",
+    "name": "TVSMOTOR"
+  },
+  {
+    "token": 18151,
+    "symbol": "TVSSCS-EQ",
+    "name": "TVSSCS"
+  },
+  {
+    "token": 14245,
+    "symbol": "TVSSRICHAK-EQ",
+    "name": "TVSSRICHAK"
+  },
+  {
+    "token": 11275,
+    "symbol": "TVTODAY-EQ",
+    "name": "TVTODAY"
+  },
+  {
+    "token": 16713,
+    "symbol": "UBL-EQ",
+    "name": "UBL"
+  },
+  {
+    "token": 3570,
+    "symbol": "UCAL-EQ",
+    "name": "UCAL"
+  },
+  {
+    "token": 11223,
+    "symbol": "UCOBANK-EQ",
+    "name": "UCOBANK"
+  },
+  {
+    "token": 7276,
+    "symbol": "UDAICEMENT-EQ",
+    "name": "UDAICEMENT"
+  },
+  {
+    "token": 19113,
+    "symbol": "UDS-EQ",
+    "name": "UDS"
+  },
+  {
+    "token": 1053,
+    "symbol": "UFLEX-EQ",
+    "name": "UFLEX"
+  },
+  {
+    "token": 9039,
+    "symbol": "UFO-EQ",
+    "name": "UFO"
+  },
+  {
+    "token": 19578,
+    "symbol": "UGARSUGAR-EQ",
+    "name": "UGARSUGAR"
+  },
+  {
+    "token": 5313,
+    "symbol": "UGROCAP-EQ",
+    "name": "UGROCAP"
+  },
+  {
+    "token": 15228,
+    "symbol": "UJJIVANSFB-EQ",
+    "name": "UJJIVANSFB"
+  },
+  {
+    "token": 11532,
+    "symbol": "ULTRACEMCO-EQ",
+    "name": "ULTRACEMCO"
+  },
+  {
+    "token": 11387,
+    "symbol": "UMANGDAIRY-EQ",
+    "name": "UMANGDAIRY"
+  },
+  {
+    "token": 19142,
+    "symbol": "UMESLTD-EQ",
+    "name": "UMESLTD"
+  },
+  {
+    "token": 3579,
+    "symbol": "UNICHEMLAB-EQ",
+    "name": "UNICHEMLAB"
+  },
+  {
+    "token": 201,
+    "symbol": "UNIDT-EQ",
+    "name": "UNIDT"
+  },
+  {
+    "token": 11293,
+    "symbol": "UNIENTER-EQ",
+    "name": "UNIENTER"
+  },
+  {
+    "token": 10753,
+    "symbol": "UNIONBANK-EQ",
+    "name": "UNIONBANK"
+  },
+  {
+    "token": 13057,
+    "symbol": "UNIPARTS-EQ",
+    "name": "UNIPARTS"
+  },
+  {
+    "token": 7560,
+    "symbol": "UNITEDPOLY-EQ",
+    "name": "UNITEDPOLY"
+  },
+  {
+    "token": 17999,
+    "symbol": "UNITEDTEA-EQ",
+    "name": "UNITEDTEA"
+  },
+  {
+    "token": 3607,
+    "symbol": "UNIVCABLES-EQ",
+    "name": "UNIVCABLES"
+  },
+  {
+    "token": 17659,
+    "symbol": "UNIVPHOTO-EQ",
+    "name": "UNIVPHOTO"
+  },
+  {
+    "token": 14154,
+    "symbol": "UNOMINDA-EQ",
+    "name": "UNOMINDA"
+  },
+  {
+    "token": 11287,
+    "symbol": "UPL-EQ",
+    "name": "UPL"
+  },
+  {
+    "token": 20203,
+    "symbol": "URJA-EQ",
+    "name": "URJA"
+  },
+  {
+    "token": 8840,
+    "symbol": "USHAMART-EQ",
+    "name": "USHAMART"
+  },
+  {
+    "token": 14871,
+    "symbol": "USK-EQ",
+    "name": "USK"
+  },
+  {
+    "token": 527,
+    "symbol": "UTIAMC-EQ",
+    "name": "UTIAMC"
+  },
+  {
+    "token": 22440,
+    "symbol": "UTIBANKETF-EQ",
+    "name": "UTIBANKETF"
+  },
+  {
+    "token": 21478,
+    "symbol": "UTINEXT50-EQ",
+    "name": "UTINEXT50"
+  },
+  {
+    "token": 10511,
+    "symbol": "UTINIFTETF-EQ",
+    "name": "UTINIFTETF"
+  },
+  {
+    "token": 10515,
+    "symbol": "UTISENSETF-EQ",
+    "name": "UTISENSETF"
+  },
+  {
+    "token": 9168,
+    "symbol": "UTISXN50-EQ",
+    "name": "UTISXN50"
+  },
+  {
+    "token": 17358,
+    "symbol": "UTKARSHBNK-EQ",
+    "name": "UTKARSHBNK"
+  },
+  {
+    "token": 13376,
+    "symbol": "UTTAMSUGAR-EQ",
+    "name": "UTTAMSUGAR"
+  },
+  {
+    "token": 12863,
+    "symbol": "V1NSETEST-EQ",
+    "name": "V1NSETEST"
+  },
+  {
+    "token": 24196,
+    "symbol": "VADILALIND-EQ",
+    "name": "VADILALIND"
+  },
+  {
+    "token": 11364,
+    "symbol": "VAIBHAVGBL-EQ",
+    "name": "VAIBHAVGBL"
+  },
+  {
+    "token": 16589,
+    "symbol": "VAISHALI-EQ",
+    "name": "VAISHALI"
+  },
+  {
+    "token": 13342,
+    "symbol": "VAKRANGEE-EQ",
+    "name": "VAKRANGEE"
+  },
+  {
+    "token": 19218,
+    "symbol": "VALIANTLAB-EQ",
+    "name": "VALIANTLAB"
+  },
+  {
+    "token": 330,
+    "symbol": "VALIANTORG-EQ",
+    "name": "VALIANTORG"
+  },
+  {
+    "token": 11220,
+    "symbol": "VARDHACRLC-EQ",
+    "name": "VARDHACRLC"
+  },
+  {
+    "token": 3646,
+    "symbol": "VARDMNPOLY-EQ",
+    "name": "VARDMNPOLY"
+  },
+  {
+    "token": 3857,
+    "symbol": "VARROC-EQ",
+    "name": "VARROC"
+  },
+  {
+    "token": 18110,
+    "symbol": "VASCONEQ-EQ",
+    "name": "VASCONEQ"
+  },
+  {
+    "token": 18921,
+    "symbol": "VBL-EQ",
+    "name": "VBL"
+  },
+  {
+    "token": 3063,
+    "symbol": "VEDL-EQ",
+    "name": "VEDL"
+  },
+  {
+    "token": 3757,
+    "symbol": "VENKEYS-EQ",
+    "name": "VENKEYS"
+  },
+  {
+    "token": 9592,
+    "symbol": "VENUSPIPES-EQ",
+    "name": "VENUSPIPES"
+  },
+  {
+    "token": 13859,
+    "symbol": "VENUSREM-EQ",
+    "name": "VENUSREM"
+  },
+  {
+    "token": 8890,
+    "symbol": "VERANDA-EQ",
+    "name": "VERANDA"
+  },
+  {
+    "token": 3676,
+    "symbol": "VESUVIUS-EQ",
+    "name": "VESUVIUS"
+  },
+  {
+    "token": 8652,
+    "symbol": "VETO-EQ",
+    "name": "VETO"
+  },
+  {
+    "token": 15362,
+    "symbol": "VGUARD-EQ",
+    "name": "VGUARD"
+  },
+  {
+    "token": 11892,
+    "symbol": "VHL-EQ",
+    "name": "VHL"
+  },
+  {
+    "token": 13536,
+    "symbol": "VIDHIING-EQ",
+    "name": "VIDHIING"
+  },
+  {
+    "token": 5585,
+    "symbol": "VIJAYA-EQ",
+    "name": "VIJAYA"
+  },
+  {
+    "token": 25756,
+    "symbol": "VIKASECO-EQ",
+    "name": "VIKASECO"
+  },
+  {
+    "token": 9931,
+    "symbol": "VIKASLIFE-EQ",
+    "name": "VIKASLIFE"
+  },
+  {
+    "token": 13101,
+    "symbol": "VIMTALABS-EQ",
+    "name": "VIMTALABS"
+  },
+  {
+    "token": 17364,
+    "symbol": "VINATIORGA-EQ",
+    "name": "VINATIORGA"
+  },
+  {
+    "token": 3694,
+    "symbol": "VINDHYATEL-EQ",
+    "name": "VINDHYATEL"
+  },
+  {
+    "token": 3807,
+    "symbol": "VINEETLAB-EQ",
+    "name": "VINEETLAB"
+  },
+  {
+    "token": 12490,
+    "symbol": "VINNY-EQ",
+    "name": "VINNY"
+  },
+  {
+    "token": 16821,
+    "symbol": "VINYLINDIA-EQ",
+    "name": "VINYLINDIA"
+  },
+  {
+    "token": 14843,
+    "symbol": "VIPCLOTHNG-EQ",
+    "name": "VIPCLOTHNG"
+  },
+  {
+    "token": 3703,
+    "symbol": "VIPIND-EQ",
+    "name": "VIPIND"
+  },
+  {
+    "token": 15295,
+    "symbol": "VIRINCHI-EQ",
+    "name": "VIRINCHI"
+  },
+  {
+    "token": 4221,
+    "symbol": "VISAKAIND-EQ",
+    "name": "VISAKAIND"
+  },
+  {
+    "token": 6908,
+    "symbol": "VISHNU-EQ",
+    "name": "VISHNU"
+  },
+  {
+    "token": 13702,
+    "symbol": "VISHWARAJ-EQ",
+    "name": "VISHWARAJ"
+  },
+  {
+    "token": 3715,
+    "symbol": "VLSFINANCE-EQ",
+    "name": "VLSFINANCE"
+  },
+  {
+    "token": 29284,
+    "symbol": "VMART-EQ",
+    "name": "VMART"
+  },
+  {
+    "token": 13577,
+    "symbol": "VOLTAMP-EQ",
+    "name": "VOLTAMP"
+  },
+  {
+    "token": 3718,
+    "symbol": "VOLTAS-EQ",
+    "name": "VOLTAS"
+  },
+  {
+    "token": 18341,
+    "symbol": "VPRPL-EQ",
+    "name": "VPRPL"
+  },
+  {
+    "token": 8696,
+    "symbol": "VRLLOG-EQ",
+    "name": "VRLLOG"
+  },
+  {
+    "token": 27067,
+    "symbol": "VSSL-EQ",
+    "name": "VSSL"
+  },
+  {
+    "token": 3724,
+    "symbol": "VSTIND-EQ",
+    "name": "VSTIND"
+  },
+  {
+    "token": 24292,
+    "symbol": "VSTTILLERS-EQ",
+    "name": "VSTTILLERS"
+  },
+  {
+    "token": 2073,
+    "symbol": "VTL-EQ",
+    "name": "VTL"
+  },
+  {
+    "token": 20188,
+    "symbol": "WABAG-EQ",
+    "name": "WABAG"
+  },
+  {
+    "token": 3736,
+    "symbol": "WALCHANNAG-EQ",
+    "name": "WALCHANNAG"
+  },
+  {
+    "token": 14063,
+    "symbol": "WANBURY-EQ",
+    "name": "WANBURY"
+  },
+  {
+    "token": 1923,
+    "symbol": "WEALTH-EQ",
+    "name": "WEALTH"
+  },
+  {
+    "token": 3748,
+    "symbol": "WEIZMANIND-EQ",
+    "name": "WEIZMANIND"
+  },
+  {
+    "token": 11821,
+    "symbol": "WELCORP-EQ",
+    "name": "WELCORP"
+  },
+  {
+    "token": 11626,
+    "symbol": "WELENT-EQ",
+    "name": "WELENT"
+  },
+  {
+    "token": 19800,
+    "symbol": "WELINV-EQ",
+    "name": "WELINV"
+  },
+  {
+    "token": 11253,
+    "symbol": "WELSPUNLIV-EQ",
+    "name": "WELSPUNLIV"
+  },
+  {
+    "token": 4235,
+    "symbol": "WENDT-EQ",
+    "name": "WENDT"
+  },
+  {
+    "token": 11580,
+    "symbol": "WESTLIFE-EQ",
+    "name": "WESTLIFE"
+  },
+  {
+    "token": 3766,
+    "symbol": "WHEELS-EQ",
+    "name": "WHEELS"
+  },
+  {
+    "token": 18011,
+    "symbol": "WHIRLPOOL-EQ",
+    "name": "WHIRLPOOL"
+  },
+  {
+    "token": 3772,
+    "symbol": "WILLAMAGOR-EQ",
+    "name": "WILLAMAGOR"
+  },
+  {
+    "token": 5366,
+    "symbol": "WINDLAS-EQ",
+    "name": "WINDLAS"
+  },
+  {
+    "token": 24969,
+    "symbol": "WINDMACHIN-EQ",
+    "name": "WINDMACHIN"
+  },
+  {
+    "token": 20481,
+    "symbol": "WIPL-EQ",
+    "name": "WIPL"
+  },
+  {
+    "token": 3787,
+    "symbol": "WIPRO-EQ",
+    "name": "WIPRO"
+  },
+  {
+    "token": 7506,
+    "symbol": "WOCKPHARMA-EQ",
+    "name": "WOCKPHARMA"
+  },
+  {
+    "token": 3002,
+    "symbol": "WONDERLA-EQ",
+    "name": "WONDERLA"
+  },
+  {
+    "token": 22277,
+    "symbol": "WORTH-EQ",
+    "name": "WORTH"
+  },
+  {
+    "token": 14828,
+    "symbol": "WSI-EQ",
+    "name": "WSI"
+  },
+  {
+    "token": 3799,
+    "symbol": "WSTCSTPAPR-EQ",
+    "name": "WSTCSTPAPR"
+  },
+  {
+    "token": 11705,
+    "symbol": "XCHANGING-EQ",
+    "name": "XCHANGING"
+  },
+  {
+    "token": 11407,
+    "symbol": "XPROINDIA-EQ",
+    "name": "XPROINDIA"
+  },
+  {
+    "token": 18131,
+    "symbol": "YASHO-EQ",
+    "name": "YASHO"
+  },
+  {
+    "token": 17738,
+    "symbol": "YATHARTH-EQ",
+    "name": "YATHARTH"
+  },
+  {
+    "token": 18760,
+    "symbol": "YATRA-EQ",
+    "name": "YATRA"
+  },
+  {
+    "token": 11915,
+    "symbol": "YESBANK-EQ",
+    "name": "YESBANK"
+  },
+  {
+    "token": 5501,
+    "symbol": "YUKEN-EQ",
+    "name": "YUKEN"
+  },
+  {
+    "token": 18608,
+    "symbol": "ZAGGLE-EQ",
+    "name": "ZAGGLE"
+  },
+  {
+    "token": 3812,
+    "symbol": "ZEEL-EQ",
+    "name": "ZEEL"
+  },
+  {
+    "token": 14003,
+    "symbol": "ZEEMEDIA-EQ",
+    "name": "ZEEMEDIA"
+  },
+  {
+    "token": 4176,
+    "symbol": "ZENITHEXPO-EQ",
+    "name": "ZENITHEXPO"
+  },
+  {
+    "token": 14562,
+    "symbol": "ZENITHSTL-EQ",
+    "name": "ZENITHSTL"
+  },
+  {
+    "token": 1076,
+    "symbol": "ZENSARTECH-EQ",
+    "name": "ZENSARTECH"
+  },
+  {
+    "token": 7508,
+    "symbol": "ZENTEC-EQ",
+    "name": "ZENTEC"
+  },
+  {
+    "token": 16915,
+    "symbol": "ZFCVINDIA-EQ",
+    "name": "ZFCVINDIA"
+  },
+  {
+    "token": 12384,
+    "symbol": "ZIMLAB-EQ",
+    "name": "ZIMLAB"
+  },
+  {
+    "token": 3821,
+    "symbol": "ZODIACLOTH-EQ",
+    "name": "ZODIACLOTH"
+  },
+  {
+    "token": 5097,
+    "symbol": "ZOMATO-EQ",
+    "name": "ZOMATO"
+  },
+  {
+    "token": 11394,
+    "symbol": "ZOTA-EQ",
+    "name": "ZOTA"
+  },
+  {
+    "token": 29050,
+    "symbol": "ZUARI-EQ",
+    "name": "ZUARI"
+  },
+  {
+    "token": 3827,
+    "symbol": "ZUARIIND-EQ",
+    "name": "ZUARIIND"
+  },
+  {
+    "token": 7929,
+    "symbol": "ZYDUSLIFE-EQ",
+    "name": "ZYDUSLIFE"
+  },
+  {
+    "token": 17635,
+    "symbol": "ZYDUSWELL-EQ",
+    "name": "ZYDUSWELL"
+  }
+]

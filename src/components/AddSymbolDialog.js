@@ -6,12 +6,17 @@ import DialogActions from "@mui/material/DialogActions";
 import DialogContent from "@mui/material/DialogContent";
 import DialogContentText from "@mui/material/DialogContentText";
 import DialogTitle from "@mui/material/DialogTitle";
+import Autocomplete from "@mui/material/Autocomplete";
+
 // import WATCHLIST_META_DATA from "../utils/WatchlistMetaData.json";
 // import { saveAs } from "file-saver";
 // import { doc, setDoc } from "firebase/firestore";
 // import { fireStoreDb } from "../utils/firebase";
-import { setFirebaseDoc } from "../services/FireBaseService";
-
+import {
+  setFirebaseDoc,
+  addFirebaseSymbolsDoc,
+} from "../services/FireBaseService";
+import META_DATA from "../utils/OpenAPIScripMaster.json";
 import { useState } from "react";
 import { useSelector, useDispatch } from "react-redux";
 import {
@@ -22,15 +27,18 @@ import {
 } from "../redux/WatchlistActions";
 
 export default function AddSymbolDialog(props) {
-  const [exhange, setExchange] = React.useState();
+  const [exchange, setExchange] = React.useState("NSE");
   const [symboltoken, setSymboltoken] = React.useState();
   const [symbol, setSymbol] = React.useState();
-  const [addDate, setAddDate] = React.useState();
+  const [name, setName] = React.useState();
+  const [addDate, setAddDate] = React.useState(
+    new Date().toISOString().slice(0, 10)
+  );
   const [firstSeen, setFirstSeen] = React.useState();
   const [target1, setTarget1] = React.useState();
   const [support1, setSupport1] = React.useState();
   const [suggestedby, setSuggestedBy] = React.useState();
-
+  const [selectedSymbol, setSelectedSymbol] = useState(null);
   const state = useSelector((state) => state);
   const dispatch = useDispatch();
 
@@ -43,9 +51,10 @@ export default function AddSymbolDialog(props) {
     // const data = new FormData(event.currentTarget);
     // console.log("DATA_SYMBOL:" + JSON.stringify(data));
     const formData = {
-      exchange: exhange,
+      exchange: exchange,
       tradingsymbol: symbol,
       symboltoken: symboltoken,
+      name: name,
       metadata: {
         date: addDate,
         firstSeen: firstSeen,
@@ -73,6 +82,23 @@ export default function AddSymbolDialog(props) {
     props.setShowAddDialog("CLOSE");
     dispatch(watchlistAddSymbol({ ...formData }));
   };
+
+  const handleSaveMetaData = () => {
+    // addFirebaseSymbolsDoc(META_DATA);
+  };
+
+  const handleSelectionChange = (event, value) => {
+    setSelectedSymbol(value);
+    if (value) {
+      setSymboltoken(value.token);
+      setSymbol(value.symbol);
+      setName(value.name);
+    } else {
+      setSymboltoken("");
+      setSymbol("");
+    }
+  };
+
   return (
     <div>
       <Dialog
@@ -91,16 +117,34 @@ export default function AddSymbolDialog(props) {
             type="text"
             fullWidth
             variant="standard"
-            value={exhange}
+            value={exchange}
             onChange={(e) => {
               setExchange(e.target.value);
             }}
+          />
+
+          <Autocomplete
+            options={META_DATA}
+            getOptionLabel={(option) => option.name}
+            onChange={handleSelectionChange}
+            renderInput={(params) => (
+              <TextField
+                {...params}
+                label="Stock Name"
+                margin="dense"
+                id="symbolName"
+                type="text"
+                fullWidth
+                variant="standard"
+                value={symboltoken}
+              />
+            )}
           />
           <TextField
             autoFocus
             margin="dense"
             id="symboltoken"
-            label="Symbol Token"
+            label="Stock Token"
             type="text"
             fullWidth
             variant="standard"
@@ -109,7 +153,7 @@ export default function AddSymbolDialog(props) {
               setSymboltoken(e.target.value);
             }}
           />
-          <TextField
+          {/* <TextField
             autoFocus
             margin="dense"
             id="tradingsymbol"
@@ -121,7 +165,7 @@ export default function AddSymbolDialog(props) {
             onChange={(e) => {
               setSymbol(e.target.value);
             }}
-          />
+          /> */}
           <TextField
             autoFocus
             margin="dense"
@@ -191,6 +235,7 @@ export default function AddSymbolDialog(props) {
         <DialogActions>
           <Button onClick={handleClose}>Cancel</Button>
           <Button onClick={handleSaveSymbol}>Save</Button>
+          {/* <Button onClick={handleSaveMetaData}>MetaSave</Button> */}
         </DialogActions>
       </Dialog>
     </div>

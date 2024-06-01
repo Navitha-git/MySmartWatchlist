@@ -1,4 +1,11 @@
-import { collection, getDocs, setDoc, doc } from "firebase/firestore";
+import {
+  collection,
+  getDocs,
+  setDoc,
+  doc,
+  updateDoc,
+  arrayUnion,
+} from "firebase/firestore";
 import { fireStoreDb } from "../utils/firebase";
 
 export const getFirebaseWatchlistSymbols = async (
@@ -19,4 +26,16 @@ export const setFirebaseDoc = async (data) => {
   await setDoc(doc(fireStoreDb, "watchlist", "list1"), {
     symbols: data,
   });
+};
+
+export const addFirebaseSymbolsDoc = async (data) => {
+  console.log("All Meta data size: " + data.length);
+  // await updateDoc(
+  //   doc(fireStoreDb, "META_DATA", "SYMBOLS"),
+  //   {
+  //     NSE: arrayUnion(...data),
+  //   },
+  //   { merge: true }
+  // );
+  console.log("All Meta data saved");
 };

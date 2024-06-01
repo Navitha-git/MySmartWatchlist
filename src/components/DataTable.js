@@ -16,8 +16,8 @@ const DataTable = (props) => {
   const columns = useMemo(
     () => [
       {
-        accessorKey: "tradingsymbol", //access nested data with dot notation
-        header: "Symbol",
+        accessorKey: "name", //access nested data with dot notation
+        header: "Name",
         size: 100,
       },
       {
